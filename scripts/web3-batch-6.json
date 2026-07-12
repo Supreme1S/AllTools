@@ -1,0 +1,852 @@
+[
+  {
+    "id": "rewards",
+    "slug": "rewards",
+    "name": "Rewards",
+    "domain": "rewards.canopynetwork.org",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://rewards.canopynetwork.org",
+    "referral_url": null,
+    "outbound_url": "https://rewards.canopynetwork.org",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "reya",
+    "slug": "reya",
+    "name": "Reya",
+    "domain": "app.reya.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://app.reya.xyz",
+    "referral_url": null,
+    "outbound_url": "https://app.reya.xyz",
+    "referral_status": "pending",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "risczero",
+    "slug": "risczero",
+    "name": "Risczero",
+    "domain": "risczero.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://risczero.com",
+    "referral_url": null,
+    "outbound_url": "https://risczero.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "ritual",
+    "slug": "ritual",
+    "name": "Ritual",
+    "domain": "ritual.net",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://ritual.net",
+    "referral_url": null,
+    "outbound_url": "https://ritual.net",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "rumilabs",
+    "slug": "rumilabs",
+    "name": "Rumilabs",
+    "domain": "rumilabs.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://rumilabs.io",
+    "referral_url": null,
+    "outbound_url": "https://rumilabs.io",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "saharaai",
+    "slug": "saharaai",
+    "name": "Saharaai",
+    "domain": "saharaai.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://saharaai.com",
+    "referral_url": null,
+    "outbound_url": "https://saharaai.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "sanctum",
+    "slug": "sanctum",
+    "name": "Sanctum",
+    "domain": "sanctum.so",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://sanctum.so",
+    "referral_url": null,
+    "outbound_url": "https://sanctum.so",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "sandbox",
+    "slug": "sandbox",
+    "name": "Sandbox",
+    "domain": "sandbox.game",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://sandbox.game/en",
+    "referral_url": null,
+    "outbound_url": "https://sandbox.game/en",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "sandchain",
+    "slug": "sandchain",
+    "name": "Sandchain",
+    "domain": "sandchain.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://sandchain.com",
+    "referral_url": null,
+    "outbound_url": "https://sandchain.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "seismic",
+    "slug": "seismic",
+    "name": "Seismic",
+    "domain": "seismic.systems",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://seismic.systems",
+    "referral_url": null,
+    "outbound_url": "https://seismic.systems",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "sentient",
+    "slug": "sentient",
+    "name": "Sentient",
+    "domain": "sentient.foundation",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://sentient.foundation",
+    "referral_url": null,
+    "outbound_url": "https://sentient.foundation",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "shape",
+    "slug": "shape",
+    "name": "Shape",
+    "domain": "shape.network",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://shape.network",
+    "referral_url": null,
+    "outbound_url": "https://shape.network",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "shelby",
+    "slug": "shelby",
+    "name": "Shelby",
+    "domain": "shelby.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://shelby.xyz",
+    "referral_url": null,
+    "outbound_url": "https://shelby.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "shop",
+    "slug": "shop",
+    "name": "Shop",
+    "domain": "shop.dawninternet.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://shop.dawninternet.com",
+    "referral_url": null,
+    "outbound_url": "https://shop.dawninternet.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "signup",
+    "slug": "signup",
+    "name": "Signup",
+    "domain": "signup.billions.network",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://signup.billions.network/?rc=REUTHEHK",
+    "referral_url": null,
+    "outbound_url": "https://signup.billions.network/?rc=REUTHEHK",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "sixpence",
+    "slug": "sixpence",
+    "name": "Sixpence",
+    "domain": "sixpence.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://sixpence.xyz/borrow",
+    "referral_url": null,
+    "outbound_url": "https://sixpence.xyz/borrow",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "slingshot",
+    "slug": "slingshot",
+    "name": "Slingshot",
+    "domain": "slingshot.app",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://slingshot.app",
+    "referral_url": null,
+    "outbound_url": "https://slingshot.app",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "sns",
+    "slug": "sns",
+    "name": "Sns",
+    "domain": "sns.id",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://sns.id/apple-touch-icon.png",
+    "referral_url": null,
+    "outbound_url": "https://sns.id/apple-touch-icon.png",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "solanamobile",
+    "slug": "solanamobile",
+    "name": "Solanamobile",
+    "domain": "solanamobile.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://solanamobile.com",
+    "referral_url": null,
+    "outbound_url": "https://solanamobile.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "solayer",
+    "slug": "solayer",
+    "name": "Solayer",
+    "domain": "app.solayer.org",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://app.solayer.org/card",
+    "referral_url": null,
+    "outbound_url": "https://app.solayer.org/card",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "solflare",
+    "slug": "solflare",
+    "name": "Solflare",
+    "domain": "solflare.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://solflare.com",
+    "referral_url": null,
+    "outbound_url": "https://solflare.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "solv",
+    "slug": "solv",
+    "name": "Solv",
+    "domain": "solv.finance",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://solv.finance",
+    "referral_url": null,
+    "outbound_url": "https://solv.finance",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "somnia",
+    "slug": "somnia",
+    "name": "Somnia",
+    "domain": "somnia.network",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://somnia.network",
+    "referral_url": null,
+    "outbound_url": "https://somnia.network",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "soneium",
+    "slug": "soneium",
+    "name": "Soneium",
+    "domain": "soneium.org",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://soneium.org/en/ecosystem",
+    "referral_url": null,
+    "outbound_url": "https://soneium.org/en/ecosystem",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "soniclabs",
+    "slug": "soniclabs",
+    "name": "Soniclabs",
+    "domain": "soniclabs.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://soniclabs.com",
+    "referral_url": null,
+    "outbound_url": "https://soniclabs.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "soo",
+    "slug": "soo",
+    "name": "Soo",
+    "domain": "soo.network",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://soo.network",
+    "referral_url": null,
+    "outbound_url": "https://soo.network",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "sophon",
+    "slug": "sophon",
+    "name": "Sophon",
+    "domain": "app.sophon.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://app.sophon.xyz",
+    "referral_url": null,
+    "outbound_url": "https://app.sophon.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "sosovalue",
+    "slug": "sosovalue",
+    "name": "Sosovalue",
+    "domain": "sosovalue.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://sosovalue.com",
+    "referral_url": null,
+    "outbound_url": "https://sosovalue.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "spheron",
+    "slug": "spheron",
+    "name": "Spheron",
+    "domain": "spheron.network",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://spheron.network",
+    "referral_url": null,
+    "outbound_url": "https://spheron.network",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "sphx",
+    "slug": "sphx",
+    "name": "Sphx",
+    "domain": "sphx.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://sphx.io",
+    "referral_url": null,
+    "outbound_url": "https://sphx.io",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "spicenet",
+    "slug": "spicenet",
+    "name": "Spicenet",
+    "domain": "portal.spicenet.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://portal.spicenet.io",
+    "referral_url": null,
+    "outbound_url": "https://portal.spicenet.io",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "squads",
+    "slug": "squads",
+    "name": "Squads",
+    "domain": "app.squads.so",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://app.squads.so/squads",
+    "referral_url": null,
+    "outbound_url": "https://app.squads.so/squads",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "squidrouter",
+    "slug": "squidrouter",
+    "name": "Squidrouter",
+    "domain": "app.squidrouter.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://app.squidrouter.com",
+    "referral_url": null,
+    "outbound_url": "https://app.squidrouter.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "stable",
+    "slug": "stable",
+    "name": "Stable",
+    "domain": "stable.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://stable.xyz",
+    "referral_url": null,
+    "outbound_url": "https://stable.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "story",
+    "slug": "story",
+    "name": "Story",
+    "domain": "story.foundation",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://story.foundation",
+    "referral_url": null,
+    "outbound_url": "https://story.foundation",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "sui",
+    "slug": "sui",
+    "name": "Sui",
+    "domain": "sui.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://sui.io",
+    "referral_url": null,
+    "outbound_url": "https://sui.io",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "sunriselayer",
+    "slug": "sunriselayer",
+    "name": "Sunriselayer",
+    "domain": "sunriselayer.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://sunriselayer.io",
+    "referral_url": null,
+    "outbound_url": "https://sunriselayer.io",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "sunscreen",
+    "slug": "sunscreen",
+    "name": "Sunscreen",
+    "domain": "sunscreen.tech",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://sunscreen.tech",
+    "referral_url": null,
+    "outbound_url": "https://sunscreen.tech",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "superchain",
+    "slug": "superchain",
+    "name": "Superchain",
+    "domain": "account.superchain.eco",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://account.superchain.eco",
+    "referral_url": null,
+    "outbound_url": "https://account.superchain.eco",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "superfluid",
+    "slug": "superfluid",
+    "name": "Superfluid",
+    "domain": "claim.superfluid.org",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://claim.superfluid.org/apps",
+    "referral_url": null,
+    "outbound_url": "https://claim.superfluid.org/apps",
+    "referral_status": "pending",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "superposition",
+    "slug": "superposition",
+    "name": "Superposition",
+    "domain": "superposition.so",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://superposition.so/mainnet-dapps",
+    "referral_url": null,
+    "outbound_url": "https://superposition.so/mainnet-dapps",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "superprotocol",
+    "slug": "superprotocol",
+    "name": "Superprotocol",
+    "domain": "superprotocol.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://superprotocol.com",
+    "referral_url": null,
+    "outbound_url": "https://superprotocol.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "supra",
+    "slug": "supra",
+    "name": "Supra",
+    "domain": "supra.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://supra.com",
+    "referral_url": null,
+    "outbound_url": "https://supra.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "sx",
+    "slug": "sx",
+    "name": "Sx",
+    "domain": "sx.bet",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://sx.bet",
+    "referral_url": null,
+    "outbound_url": "https://sx.bet",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "symbiotic",
+    "slug": "symbiotic",
+    "name": "Symbiotic",
+    "domain": "app.symbiotic.fi",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://app.symbiotic.fi/dashboard/positions",
+    "referral_url": null,
+    "outbound_url": "https://app.symbiotic.fi/dashboard/positions",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "t3rn",
+    "slug": "t3rn",
+    "name": "T3rn",
+    "domain": "t3rn.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://t3rn.io",
+    "referral_url": null,
+    "outbound_url": "https://t3rn.io",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "tabichain",
+    "slug": "tabichain",
+    "name": "Tabichain",
+    "domain": "tabichain.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://tabichain.com",
+    "referral_url": null,
+    "outbound_url": "https://tabichain.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "taho",
+    "slug": "taho",
+    "name": "Taho",
+    "domain": "taho.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://taho.xyz",
+    "referral_url": null,
+    "outbound_url": "https://taho.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "taiko",
+    "slug": "taiko",
+    "name": "Taiko",
+    "domain": "taiko.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://taiko.xyz",
+    "referral_url": null,
+    "outbound_url": "https://taiko.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "taker",
+    "slug": "taker",
+    "name": "Taker",
+    "domain": "taker.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://taker.xyz",
+    "referral_url": null,
+    "outbound_url": "https://taker.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  }
+]

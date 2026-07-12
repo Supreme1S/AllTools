@@ -3,15 +3,32 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "rm -rf .next && next dev --webpack -p 3338",
+    "dev:turbo": "next dev --turbopack",
+    "clean": "rm -rf .next",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "sync:catalog": "tsx scripts/sync-catalog.ts",
+    "reclassify:exchanges": "tsx scripts/reclassify-exchanges.ts",
+    "audit:catalog": "tsx scripts/audit-catalog.ts",
+    "export:platforms": "tsx scripts/export-official-platforms.ts",
+    "referrals:report": "tsx scripts/referrals-registry.ts report",
+    "referrals:init": "tsx scripts/referrals-registry.ts init",
+    "referrals:set": "tsx scripts/referrals-registry.ts set",
+    "referrals:skip": "tsx scripts/referrals-registry.ts skip",
+    "referrals:import": "tsx scripts/import-referrals-from-csv.ts",
+    "referrals:fix": "tsx scripts/fix-and-import-platforms-csv.ts"
   },
   "dependencies": {
+    "clsx": "^2.1.1",
+    "geist": "^1.7.2",
+    "lucide-react": "^1.21.0",
     "next": "16.2.9",
+    "openai": "^4.104.0",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-dom": "19.2.4",
+    "tailwind-merge": "^3.6.0"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
@@ -21,6 +38,7 @@
     "eslint": "^9",
     "eslint-config-next": "16.2.9",
     "tailwindcss": "^4",
+    "tsx": "^4.20.3",
     "typescript": "^5"
   }
 }

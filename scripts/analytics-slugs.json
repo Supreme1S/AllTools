@@ -1,0 +1,182 @@
+[
+  {
+    "slug": "0xscore",
+    "name": "0xScore",
+    "domain": "0xscore.io"
+  },
+  {
+    "slug": "arbitragescanner-io",
+    "name": "ArbitrageScanner.io",
+    "domain": "arbitragescanner.io"
+  },
+  {
+    "slug": "bankless-earnfi",
+    "name": "Bankless (Earnfi)",
+    "domain": "bankless.com"
+  },
+  {
+    "slug": "banklessdao",
+    "name": "BanklessDAO",
+    "domain": "banklessdao.substack.com"
+  },
+  {
+    "slug": "blockscan",
+    "name": "Blockscan",
+    "domain": "blockscan.com"
+  },
+  {
+    "slug": "botometer",
+    "name": "Botometer",
+    "domain": "botometer.osome.iu.edu"
+  },
+  {
+    "slug": "breadcrumbs",
+    "name": "Breadcrumbs",
+    "domain": "breadcrumbs.app"
+  },
+  {
+    "slug": "coingecko",
+    "name": "CoinGecko",
+    "domain": "coingecko.com"
+  },
+  {
+    "slug": "coinmarketcap",
+    "name": "Coinmarketcap",
+    "domain": "coinmarketcap.com"
+  },
+  {
+    "slug": "coinstats",
+    "name": "CoinStats",
+    "domain": "coinstats.app"
+  },
+  {
+    "slug": "cointool",
+    "name": "CoinTool",
+    "domain": "ct.app"
+  },
+  {
+    "slug": "cosmos-drops",
+    "name": "Cosmos Drops",
+    "domain": "cosmosdrops.io"
+  },
+  {
+    "slug": "crunchbase",
+    "name": "CrunchBase",
+    "domain": "crunchbase.com"
+  },
+  {
+    "slug": "crypto-fundraising",
+    "name": "Crypto Fundraising",
+    "domain": "crypto-fundraising.info"
+  },
+  {
+    "slug": "cryptopanic",
+    "name": "CryptoPanic",
+    "domain": "cryptopanic.com"
+  },
+  {
+    "slug": "cryptorank",
+    "name": "Cryptorank",
+    "domain": "cryptorank.io"
+  },
+  {
+    "slug": "dappradar",
+    "name": "DappRadar",
+    "domain": "dappradar.com"
+  },
+  {
+    "slug": "defi-llama",
+    "name": "DeFi Llama",
+    "domain": "defillama.com"
+  },
+  {
+    "slug": "dex-screener",
+    "name": "DEX Screener",
+    "domain": "dexscreener.com"
+  },
+  {
+    "slug": "dl-news",
+    "name": "DL News",
+    "domain": "dlnews.com"
+  },
+  {
+    "slug": "dropstab",
+    "name": "Dropstab",
+    "domain": "dropstab.com"
+  },
+  {
+    "slug": "dune",
+    "name": "Dune",
+    "domain": "dune.com"
+  },
+  {
+    "slug": "earn-drop",
+    "name": "Earn Drop",
+    "domain": "earndrop.io"
+  },
+  {
+    "slug": "ethtective",
+    "name": "Ethtective",
+    "domain": "ethtective.com"
+  },
+  {
+    "slug": "messari",
+    "name": "Messari",
+    "domain": "messari.io"
+  },
+  {
+    "slug": "moni-talks",
+    "name": "Moni Talks",
+    "domain": "monitalks.xyz"
+  },
+  {
+    "slug": "nansen",
+    "name": "Nansen",
+    "domain": "nansen.ai"
+  },
+  {
+    "slug": "nftgo",
+    "name": "NFTGO",
+    "domain": "nftgo.io"
+  },
+  {
+    "slug": "poocoin",
+    "name": "PooCoin",
+    "domain": "poocoin.app"
+  },
+  {
+    "slug": "rareboard",
+    "name": "Rareboard",
+    "domain": "rareboard.com"
+  },
+  {
+    "slug": "solsniper",
+    "name": "SolSniper",
+    "domain": "solsniper.xyz"
+  },
+  {
+    "slug": "tradingview",
+    "name": "TradingView",
+    "domain": "tradingview.com"
+  },
+  {
+    "slug": "tweetscout",
+    "name": "TweetScout",
+    "domain": "tweetscout.io"
+  },
+  {
+    "slug": "twitterscore",
+    "name": "TwitterScore",
+    "domain": "twitterscore.io"
+  },
+  {
+    "slug": "x-pro",
+    "name": "X Pro",
+    "domain": "pro.x.com"
+  },
+  {
+    "slug": "zapper",
+    "name": "Zapper",
+    "domain": "zapper.fi"
+  }
+]

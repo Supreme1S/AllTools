@@ -1,0 +1,1742 @@
+[
+  {
+    "slug": "0g",
+    "name": "0G",
+    "domain": "0g.ai"
+  },
+  {
+    "slug": "3dos",
+    "name": "3DOS",
+    "domain": "dashboard.3dos.io"
+  },
+  {
+    "slug": "agent",
+    "name": "Agent",
+    "domain": "agent.mindnetwork.xyz"
+  },
+  {
+    "slug": "aleo",
+    "name": "Aleo",
+    "domain": "aleo.org"
+  },
+  {
+    "slug": "almanak",
+    "name": "Almanak",
+    "domain": "app.almanak.co"
+  },
+  {
+    "slug": "altiuslabs",
+    "name": "Altiuslabs",
+    "domain": "altiuslabs.xyz"
+  },
+  {
+    "slug": "anoma",
+    "name": "Anoma",
+    "domain": "anoma.net"
+  },
+  {
+    "slug": "apr",
+    "name": "Apr",
+    "domain": "apr.io"
+  },
+  {
+    "slug": "aptosfoundation",
+    "name": "Aptosfoundation",
+    "domain": "aptosfoundation.org"
+  },
+  {
+    "slug": "apyx",
+    "name": "Apyx",
+    "domain": "app.apyx.fi"
+  },
+  {
+    "slug": "arai",
+    "name": "Arai",
+    "domain": "arai.systems"
+  },
+  {
+    "slug": "arc",
+    "name": "Arc",
+    "domain": "arc.network"
+  },
+  {
+    "slug": "arcade",
+    "name": "Arcade",
+    "domain": "arcade.piratenation.game"
+  },
+  {
+    "slug": "arch",
+    "name": "Arch",
+    "domain": "arch.network"
+  },
+  {
+    "slug": "arcium",
+    "name": "Arcium",
+    "domain": "arcium.com"
+  },
+  {
+    "slug": "askjune",
+    "name": "Askjune",
+    "domain": "askjune.ai"
+  },
+  {
+    "slug": "asksurf",
+    "name": "Asksurf",
+    "domain": "asksurf.ai"
+  },
+  {
+    "slug": "avantisfi",
+    "name": "Avantisfi",
+    "domain": "avantisfi.com"
+  },
+  {
+    "slug": "avaprotocol",
+    "name": "Avaprotocol",
+    "domain": "avaprotocol.org"
+  },
+  {
+    "slug": "axieinfinity",
+    "name": "Axieinfinity",
+    "domain": "axieinfinity.com"
+  },
+  {
+    "slug": "axisrobotics",
+    "name": "Axisrobotics",
+    "domain": "hub.axisrobotics.ai"
+  },
+  {
+    "slug": "aztec",
+    "name": "Aztec",
+    "domain": "aztec.network"
+  },
+  {
+    "slug": "b3",
+    "name": "B3",
+    "domain": "b3.fun"
+  },
+  {
+    "slug": "babylonlabs",
+    "name": "Babylonlabs",
+    "domain": "babylonlabs.io"
+  },
+  {
+    "slug": "bagel",
+    "name": "Bagel",
+    "domain": "bagel.com"
+  },
+  {
+    "slug": "base",
+    "name": "Base",
+    "domain": "base.org"
+  },
+  {
+    "slug": "based",
+    "name": "Based",
+    "domain": "app.based.one"
+  },
+  {
+    "slug": "berachain",
+    "name": "Berachain",
+    "domain": "berachain.com"
+  },
+  {
+    "slug": "blackhole",
+    "name": "Blackhole",
+    "domain": "blackhole.xyz"
+  },
+  {
+    "slug": "blast",
+    "name": "Blast",
+    "domain": "blast.io"
+  },
+  {
+    "slug": "bless",
+    "name": "Bless",
+    "domain": "bless.network"
+  },
+  {
+    "slug": "blum",
+    "name": "Blum",
+    "domain": "blum.io"
+  },
+  {
+    "slug": "bondex",
+    "name": "Bondex",
+    "domain": "bondex.app"
+  },
+  {
+    "slug": "bonfida",
+    "name": "Bonfida",
+    "domain": "bonfida.org"
+  },
+  {
+    "slug": "brevis",
+    "name": "Brevis",
+    "domain": "brevis.network"
+  },
+  {
+    "slug": "bullpen",
+    "name": "Bullpen",
+    "domain": "bullpen.fi"
+  },
+  {
+    "slug": "bullshot",
+    "name": "Bullshot",
+    "domain": "bullshot.io"
+  },
+  {
+    "slug": "bytenova",
+    "name": "Bytenova",
+    "domain": "bytenova.ai"
+  },
+  {
+    "slug": "caldera",
+    "name": "Caldera",
+    "domain": "caldera.xyz"
+  },
+  {
+    "slug": "cambria",
+    "name": "Cambria",
+    "domain": "cambria.gg"
+  },
+  {
+    "slug": "cambrian",
+    "name": "Cambrian",
+    "domain": "cambrian.org"
+  },
+  {
+    "slug": "campaign",
+    "name": "Campaign",
+    "domain": "campaign.coinshift.xyz"
+  },
+  {
+    "slug": "carbon",
+    "name": "Carbon",
+    "domain": "app.carbon.inc"
+  },
+  {
+    "slug": "cascade",
+    "name": "Cascade",
+    "domain": "cascade.xyz"
+  },
+  {
+    "slug": "catenalabs",
+    "name": "Catenalabs",
+    "domain": "catenalabs.com"
+  },
+  {
+    "slug": "cdn",
+    "name": "Cdn",
+    "domain": "cdn.prod.website-files.com"
+  },
+  {
+    "slug": "celo",
+    "name": "Celo",
+    "domain": "celo.org"
+  },
+  {
+    "slug": "cerebro",
+    "name": "Cerebro",
+    "domain": "cerebro.xyz"
+  },
+  {
+    "slug": "certik",
+    "name": "Certik",
+    "domain": "certik.com"
+  },
+  {
+    "slug": "cess",
+    "name": "Cess",
+    "domain": "cess.network"
+  },
+  {
+    "slug": "chainbase",
+    "name": "Chainbase",
+    "domain": "chainbase.com"
+  },
+  {
+    "slug": "chainopera",
+    "name": "Chainopera",
+    "domain": "chat.chainopera.ai"
+  },
+  {
+    "slug": "chaoslabs",
+    "name": "Chaoslabs",
+    "domain": "chaoslabs.xyz"
+  },
+  {
+    "slug": "citrea",
+    "name": "Citrea",
+    "domain": "citrea.xyz"
+  },
+  {
+    "slug": "community",
+    "name": "Community",
+    "domain": "community.quranium.org"
+  },
+  {
+    "slug": "cookie3",
+    "name": "Cookie3",
+    "domain": "cookie3.com"
+  },
+  {
+    "slug": "coresky",
+    "name": "Coresky",
+    "domain": "coresky.com"
+  },
+  {
+    "slug": "cryptoblades",
+    "name": "Cryptoblades",
+    "domain": "cryptoblades.io"
+  },
+  {
+    "slug": "cryptopond",
+    "name": "Cryptopond",
+    "domain": "cryptopond.xyz"
+  },
+  {
+    "slug": "cysic",
+    "name": "Cysic",
+    "domain": "cysic.xyz"
+  },
+  {
+    "slug": "dapp",
+    "name": "Dapp",
+    "domain": "dapp.fractionai.xyz"
+  },
+  {
+    "slug": "datagram",
+    "name": "Datagram",
+    "domain": "dashboard.datagram.network"
+  },
+  {
+    "slug": "datahaven",
+    "name": "Datahaven",
+    "domain": "datahaven.xyz"
+  },
+  {
+    "slug": "decent",
+    "name": "Decent",
+    "domain": "decent.build"
+  },
+  {
+    "slug": "deepbook",
+    "name": "Deepbook",
+    "domain": "deepbook.tech"
+  },
+  {
+    "slug": "defx",
+    "name": "Defx",
+    "domain": "app.defx.com"
+  },
+  {
+    "slug": "deposit",
+    "name": "Deposit",
+    "domain": "deposit.testnet.romeprotocol.xyz"
+  },
+  {
+    "slug": "dispatch",
+    "name": "Dispatch",
+    "domain": "dispatch.spekter.games"
+  },
+  {
+    "slug": "doma",
+    "name": "Doma",
+    "domain": "app.doma.xyz"
+  },
+  {
+    "slug": "dreamcash",
+    "name": "Dreamcash",
+    "domain": "dreamcash.xyz"
+  },
+  {
+    "slug": "drip",
+    "name": "Drip",
+    "domain": "drip.haus"
+  },
+  {
+    "slug": "drosera",
+    "name": "Drosera",
+    "domain": "app.drosera.io"
+  },
+  {
+    "slug": "ducatprotocol",
+    "name": "Ducatprotocol",
+    "domain": "ducatprotocol.com"
+  },
+  {
+    "slug": "eclipse",
+    "name": "Eclipse",
+    "domain": "eclipse.xyz"
+  },
+  {
+    "slug": "eigencloud",
+    "name": "Eigencloud",
+    "domain": "eigencloud.xyz"
+  },
+  {
+    "slug": "elixir",
+    "name": "Elixir",
+    "domain": "elixir.xyz"
+  },
+  {
+    "slug": "enso",
+    "name": "Enso",
+    "domain": "enso.build"
+  },
+  {
+    "slug": "espressosys",
+    "name": "Espressosys",
+    "domain": "espressosys.com"
+  },
+  {
+    "slug": "ethgas",
+    "name": "Ethgas",
+    "domain": "ethgas.com"
+  },
+  {
+    "slug": "ethos",
+    "name": "Ethos",
+    "domain": "app.ethos.network"
+  },
+  {
+    "slug": "euclidprotocol",
+    "name": "Euclidprotocol",
+    "domain": "euclidprotocol.io"
+  },
+  {
+    "slug": "euphoria",
+    "name": "Euphoria",
+    "domain": "euphoria.finance"
+  },
+  {
+    "slug": "exabits",
+    "name": "Exabits",
+    "domain": "exabits.ai"
+  },
+  {
+    "slug": "fableborne",
+    "name": "Fableborne",
+    "domain": "fableborne.com"
+  },
+  {
+    "slug": "fabric",
+    "name": "Fabric",
+    "domain": "fabric.openmind.org"
+  },
+  {
+    "slug": "farcaster",
+    "name": "Farcaster",
+    "domain": "farcaster.xyz"
+  },
+  {
+    "slug": "fastlane",
+    "name": "Fastlane",
+    "domain": "fastlane.xyz"
+  },
+  {
+    "slug": "faucet",
+    "name": "Faucet",
+    "domain": "faucet.testnet.chain.robinhood.com"
+  },
+  {
+    "slug": "fermah",
+    "name": "Fermah",
+    "domain": "fermah.xyz"
+  },
+  {
+    "slug": "fhenix",
+    "name": "Fhenix",
+    "domain": "fhenix.io"
+  },
+  {
+    "slug": "fiammalabs",
+    "name": "Fiammalabs",
+    "domain": "fiammalabs.io"
+  },
+  {
+    "slug": "fleek",
+    "name": "Fleek",
+    "domain": "fleek.sh"
+  },
+  {
+    "slug": "flock",
+    "name": "Flock",
+    "domain": "flock.io"
+  },
+  {
+    "slug": "fluence",
+    "name": "Fluence",
+    "domain": "fluence.network"
+  },
+  {
+    "slug": "fluent",
+    "name": "Fluent",
+    "domain": "fluent.xyz"
+  },
+  {
+    "slug": "fogo",
+    "name": "Fogo",
+    "domain": "fogo.io"
+  },
+  {
+    "slug": "fragmetric",
+    "name": "Fragmetric",
+    "domain": "fragmetric.xyz"
+  },
+  {
+    "slug": "fuel",
+    "name": "Fuel",
+    "domain": "fuel.network"
+  },
+  {
+    "slug": "gaianet",
+    "name": "Gaianet",
+    "domain": "gaianet.ai"
+  },
+  {
+    "slug": "gata",
+    "name": "Gata",
+    "domain": "app.gata.xyz"
+  },
+  {
+    "slug": "gate2",
+    "name": "Gate2",
+    "domain": "gate2.oshi.co"
+  },
+  {
+    "slug": "genlayer",
+    "name": "Genlayer",
+    "domain": "genlayer.com"
+  },
+  {
+    "slug": "gensyn",
+    "name": "Gensyn",
+    "domain": "gensyn.ai"
+  },
+  {
+    "slug": "getgrass",
+    "name": "Getgrass",
+    "domain": "getgrass.io"
+  },
+  {
+    "slug": "getoptimum",
+    "name": "Getoptimum",
+    "domain": "getoptimum.xyz"
+  },
+  {
+    "slug": "getoro",
+    "name": "Getoro",
+    "domain": "app.getoro.xyz"
+  },
+  {
+    "slug": "gigaverse",
+    "name": "Gigaverse",
+    "domain": "gigaverse.io"
+  },
+  {
+    "slug": "glacier",
+    "name": "Glacier",
+    "domain": "glacier.io"
+  },
+  {
+    "slug": "glob",
+    "name": "Glob",
+    "domain": "glob.shaga.xyz"
+  },
+  {
+    "slug": "gobob",
+    "name": "Gobob",
+    "domain": "gobob.xyz"
+  },
+  {
+    "slug": "godaylight",
+    "name": "Godaylight",
+    "domain": "godaylight.com"
+  },
+  {
+    "slug": "gokite",
+    "name": "Gokite",
+    "domain": "testnet.gokite.ai"
+  },
+  {
+    "slug": "gomble",
+    "name": "Gomble",
+    "domain": "gomble.io"
+  },
+  {
+    "slug": "gonative",
+    "name": "Gonative",
+    "domain": "gonative.cc"
+  },
+  {
+    "slug": "google",
+    "name": "Google",
+    "domain": "google.com"
+  },
+  {
+    "slug": "gpu",
+    "name": "Gpu",
+    "domain": "gpu.net"
+  },
+  {
+    "slug": "gradient",
+    "name": "Gradient",
+    "domain": "app.gradient.network"
+  },
+  {
+    "slug": "group",
+    "name": "Group",
+    "domain": "group.mantle.xyz"
+  },
+  {
+    "slug": "grvt",
+    "name": "Grvt",
+    "domain": "grvt.io"
+  },
+  {
+    "slug": "gte",
+    "name": "Gte",
+    "domain": "gte.xyz"
+  },
+  {
+    "slug": "halliday",
+    "name": "Halliday",
+    "domain": "halliday.xyz"
+  },
+  {
+    "slug": "hamsterkombatgame",
+    "name": "Hamsterkombatgame",
+    "domain": "hamsterkombatgame.io"
+  },
+  {
+    "slug": "hana",
+    "name": "Hana",
+    "domain": "hana.network"
+  },
+  {
+    "slug": "helioschain",
+    "name": "Helioschain",
+    "domain": "app.helioschain.network"
+  },
+  {
+    "slug": "hemi",
+    "name": "Hemi",
+    "domain": "hemi.xyz"
+  },
+  {
+    "slug": "heyelsa",
+    "name": "Heyelsa",
+    "domain": "app.heyelsa.ai"
+  },
+  {
+    "slug": "hibachi",
+    "name": "Hibachi",
+    "domain": "hibachi.xyz"
+  },
+  {
+    "slug": "huddle01",
+    "name": "Huddle01",
+    "domain": "huddle01.com"
+  },
+  {
+    "slug": "humanity",
+    "name": "Humanity",
+    "domain": "humanity.org"
+  },
+  {
+    "slug": "hyli",
+    "name": "Hyli",
+    "domain": "hyli.org"
+  },
+  {
+    "slug": "hylo",
+    "name": "Hylo",
+    "domain": "hylo.so"
+  },
+  {
+    "slug": "hyperbolic",
+    "name": "Hyperbolic",
+    "domain": "app.hyperbolic.ai"
+  },
+  {
+    "slug": "hyperlane",
+    "name": "Hyperlane",
+    "domain": "hyperlane.xyz"
+  },
+  {
+    "slug": "ika",
+    "name": "Ika",
+    "domain": "claim.ika.xyz"
+  },
+  {
+    "slug": "incentiv",
+    "name": "Incentiv",
+    "domain": "incentiv.net"
+  },
+  {
+    "slug": "infinifi",
+    "name": "Infinifi",
+    "domain": "infinifi.xyz"
+  },
+  {
+    "slug": "infinityg",
+    "name": "Infinityg",
+    "domain": "infinityg.ai"
+  },
+  {
+    "slug": "initia",
+    "name": "Initia",
+    "domain": "initia.xyz"
+  },
+  {
+    "slug": "inkonchain",
+    "name": "Inkonchain",
+    "domain": "inkonchain.com"
+  },
+  {
+    "slug": "intuition",
+    "name": "Intuition",
+    "domain": "intuition.systems"
+  },
+  {
+    "slug": "io",
+    "name": "Io",
+    "domain": "io.net"
+  },
+  {
+    "slug": "iopn",
+    "name": "Iopn",
+    "domain": "iopn.io"
+  },
+  {
+    "slug": "irys",
+    "name": "Irys",
+    "domain": "portal.irys.xyz"
+  },
+  {
+    "slug": "ithaca",
+    "name": "Ithaca",
+    "domain": "ithaca.xyz"
+  },
+  {
+    "slug": "jiritsu",
+    "name": "Jiritsu",
+    "domain": "jiritsu.network"
+  },
+  {
+    "slug": "kadena",
+    "name": "Kadena",
+    "domain": "kadena.io"
+  },
+  {
+    "slug": "kalshi",
+    "name": "Kalshi",
+    "domain": "kalshi.com"
+  },
+  {
+    "slug": "kamino",
+    "name": "Kamino",
+    "domain": "swap.kamino.finance"
+  },
+  {
+    "slug": "katana-katana-network",
+    "name": "Katana",
+    "domain": "katana.network"
+  },
+  {
+    "slug": "kerneldao",
+    "name": "Kerneldao",
+    "domain": "kerneldao.com"
+  },
+  {
+    "slug": "kgen",
+    "name": "Kgen",
+    "domain": "kgen.io"
+  },
+  {
+    "slug": "kiichain",
+    "name": "Kiichain",
+    "domain": "kiichain.io"
+  },
+  {
+    "slug": "kintsu",
+    "name": "Kintsu",
+    "domain": "kintsu.xyz"
+  },
+  {
+    "slug": "kuru",
+    "name": "Kuru",
+    "domain": "kuru.io"
+  },
+  {
+    "slug": "lagrange",
+    "name": "Lagrange",
+    "domain": "lagrange.dev"
+  },
+  {
+    "slug": "layeredge",
+    "name": "Layeredge",
+    "domain": "layeredge.io"
+  },
+  {
+    "slug": "layerhub",
+    "name": "Layerhub",
+    "domain": "layerhub.xyz"
+  },
+  {
+    "slug": "linera",
+    "name": "Linera",
+    "domain": "portal.linera.net"
+  },
+  {
+    "slug": "linktr",
+    "name": "Linktr",
+    "domain": "linktr.ee"
+  },
+  {
+    "slug": "litvm",
+    "name": "Litvm",
+    "domain": "litvm.com"
+  },
+  {
+    "slug": "logx",
+    "name": "Logx",
+    "domain": "app.logx.network"
+  },
+  {
+    "slug": "lombard",
+    "name": "Lombard",
+    "domain": "lombard.finance"
+  },
+  {
+    "slug": "loyalty",
+    "name": "Loyalty",
+    "domain": "loyalty.campnetwork.xyz"
+  },
+  {
+    "slug": "magicnewton",
+    "name": "Magicnewton",
+    "domain": "magicnewton.com"
+  },
+  {
+    "slug": "magmastaking",
+    "name": "Magmastaking",
+    "domain": "magmastaking.xyz"
+  },
+  {
+    "slug": "mahojin",
+    "name": "Mahojin",
+    "domain": "app.mahojin.ai"
+  },
+  {
+    "slug": "manta",
+    "name": "Manta",
+    "domain": "manta.network"
+  },
+  {
+    "slug": "mantrachain",
+    "name": "Mantrachain",
+    "domain": "mantrachain.io"
+  },
+  {
+    "slug": "mavryk",
+    "name": "Mavryk",
+    "domain": "mavryk.org"
+  },
+  {
+    "slug": "mawari",
+    "name": "Mawari",
+    "domain": "mawari.net"
+  },
+  {
+    "slug": "mayan",
+    "name": "Mayan",
+    "domain": "mayan.finance"
+  },
+  {
+    "slug": "megaeth",
+    "name": "Megaeth",
+    "domain": "testnet.megaeth.com"
+  },
+  {
+    "slug": "meteora",
+    "name": "Meteora",
+    "domain": "app.meteora.ag"
+  },
+  {
+    "slug": "metri",
+    "name": "Metri",
+    "domain": "app.metri.xyz"
+  },
+  {
+    "slug": "mezo",
+    "name": "Mezo",
+    "domain": "mezo.org"
+  },
+  {
+    "slug": "miden",
+    "name": "Miden",
+    "domain": "miden.xyz"
+  },
+  {
+    "slug": "midl",
+    "name": "Midl",
+    "domain": "midl.xyz"
+  },
+  {
+    "slug": "milkyway",
+    "name": "Milkyway",
+    "domain": "milkyway.zone"
+  },
+  {
+    "slug": "minara",
+    "name": "Minara",
+    "domain": "minara.ai"
+  },
+  {
+    "slug": "mira",
+    "name": "Mira",
+    "domain": "mira.network"
+  },
+  {
+    "slug": "moca",
+    "name": "Moca",
+    "domain": "moca.network"
+  },
+  {
+    "slug": "mode",
+    "name": "Mode",
+    "domain": "app.mode.network"
+  },
+  {
+    "slug": "monad-fantasy-top",
+    "name": "Monad",
+    "domain": "monad.fantasy.top"
+  },
+  {
+    "slug": "monad-monad-xyz",
+    "name": "Monad",
+    "domain": "testnet.monad.xyz"
+  },
+  {
+    "slug": "moonbirds",
+    "name": "Moonbirds",
+    "domain": "moonbirds.com"
+  },
+  {
+    "slug": "moonveil",
+    "name": "Moonveil",
+    "domain": "moonveil.gg"
+  },
+  {
+    "slug": "morph",
+    "name": "Morph",
+    "domain": "morph.network"
+  },
+  {
+    "slug": "morpho",
+    "name": "Morpho",
+    "domain": "morpho.org"
+  },
+  {
+    "slug": "movementlabs",
+    "name": "Movementlabs",
+    "domain": "movementlabs.xyz"
+  },
+  {
+    "slug": "multipli",
+    "name": "Multipli",
+    "domain": "multipli.fi"
+  },
+  {
+    "slug": "multivmlabs",
+    "name": "Multivmlabs",
+    "domain": "multivmlabs.com"
+  },
+  {
+    "slug": "myriad",
+    "name": "Myriad",
+    "domain": "myriad.markets"
+  },
+  {
+    "slug": "myshell",
+    "name": "Myshell",
+    "domain": "myshell.ai"
+  },
+  {
+    "slug": "n1",
+    "name": "N1",
+    "domain": "n1.xyz"
+  },
+  {
+    "slug": "nado",
+    "name": "Nado",
+    "domain": "app.nado.xyz"
+  },
+  {
+    "slug": "nexira",
+    "name": "Nexira",
+    "domain": "nexira.ai"
+  },
+  {
+    "slug": "nexus",
+    "name": "Nexus",
+    "domain": "nexus.xyz"
+  },
+  {
+    "slug": "noble",
+    "name": "Noble",
+    "domain": "noble.xyz"
+  },
+  {
+    "slug": "nodeops",
+    "name": "Nodeops",
+    "domain": "nodeops.network"
+  },
+  {
+    "slug": "nodepay",
+    "name": "Nodepay",
+    "domain": "app.nodepay.ai"
+  },
+  {
+    "slug": "noise",
+    "name": "Noise",
+    "domain": "noise.xyz"
+  },
+  {
+    "slug": "nousresearch",
+    "name": "Nousresearch",
+    "domain": "portal.nousresearch.com"
+  },
+  {
+    "slug": "novig",
+    "name": "Novig",
+    "domain": "novig.com"
+  },
+  {
+    "slug": "noya",
+    "name": "Noya",
+    "domain": "app.noya.ai"
+  },
+  {
+    "slug": "octra",
+    "name": "Octra",
+    "domain": "octra.org"
+  },
+  {
+    "slug": "offlineprotocol",
+    "name": "Offlineprotocol",
+    "domain": "offlineprotocol.com"
+  },
+  {
+    "slug": "omni-variational-io",
+    "name": "Omni",
+    "domain": "omni.variational.io"
+  },
+  {
+    "slug": "onchainheroes",
+    "name": "Onchainheroes",
+    "domain": "onchainheroes.xyz"
+  },
+  {
+    "slug": "onebalance",
+    "name": "Onebalance",
+    "domain": "app.onebalance.io"
+  },
+  {
+    "slug": "opengdp",
+    "name": "Opengdp",
+    "domain": "opengdp.network"
+  },
+  {
+    "slug": "opengradient",
+    "name": "Opengradient",
+    "domain": "opengradient.ai"
+  },
+  {
+    "slug": "openledger",
+    "name": "Openledger",
+    "domain": "openledger.xyz"
+  },
+  {
+    "slug": "ordeez",
+    "name": "Ordeez",
+    "domain": "ordeez.io"
+  },
+  {
+    "slug": "orochi",
+    "name": "Orochi",
+    "domain": "orochi.network"
+  },
+  {
+    "slug": "otherside",
+    "name": "Otherside",
+    "domain": "otherside.xyz"
+  },
+  {
+    "slug": "pacifica",
+    "name": "Pacifica",
+    "domain": "app.pacifica.fi"
+  },
+  {
+    "slug": "parasail",
+    "name": "Parasail",
+    "domain": "parasail.network"
+  },
+  {
+    "slug": "partyicons",
+    "name": "Partyicons",
+    "domain": "partyicons.com"
+  },
+  {
+    "slug": "passport",
+    "name": "Passport",
+    "domain": "passport.human.tech"
+  },
+  {
+    "slug": "perena",
+    "name": "Perena",
+    "domain": "app.perena.org"
+  },
+  {
+    "slug": "perle",
+    "name": "Perle",
+    "domain": "app.perle.xyz"
+  },
+  {
+    "slug": "pharosnetwork",
+    "name": "Pharosnetwork",
+    "domain": "testnet.pharosnetwork.xyz"
+  },
+  {
+    "slug": "phi",
+    "name": "Phi",
+    "domain": "phi.box"
+  },
+  {
+    "slug": "pingnetwork",
+    "name": "Pingnetwork",
+    "domain": "pingnetwork.io"
+  },
+  {
+    "slug": "pipe",
+    "name": "Pipe",
+    "domain": "pipe.network"
+  },
+  {
+    "slug": "plantvsundead",
+    "name": "Plantvsundead",
+    "domain": "plantvsundead.com"
+  },
+  {
+    "slug": "plasma",
+    "name": "Plasma",
+    "domain": "plasma.to"
+  },
+  {
+    "slug": "playavalon",
+    "name": "Playavalon",
+    "domain": "playavalon.com"
+  },
+  {
+    "slug": "plume",
+    "name": "Plume",
+    "domain": "portal.plume.org"
+  },
+  {
+    "slug": "polyhedra",
+    "name": "Polyhedra",
+    "domain": "polyhedra.network"
+  },
+  {
+    "slug": "polymarket",
+    "name": "Polymarket",
+    "domain": "polymarket.com"
+  },
+  {
+    "slug": "predict",
+    "name": "Predict",
+    "domain": "predict.fun"
+  },
+  {
+    "slug": "prismax",
+    "name": "Prismax",
+    "domain": "app.prismax.ai"
+  },
+  {
+    "slug": "prjx",
+    "name": "Prjx",
+    "domain": "prjx.com"
+  },
+  {
+    "slug": "probable",
+    "name": "Probable",
+    "domain": "probable.markets"
+  },
+  {
+    "slug": "profile",
+    "name": "Profile",
+    "domain": "profile.bluwhale.com"
+  },
+  {
+    "slug": "psdn",
+    "name": "Psdn",
+    "domain": "app.psdn.ai"
+  },
+  {
+    "slug": "publicai",
+    "name": "Publicai",
+    "domain": "beta.publicai.io"
+  },
+  {
+    "slug": "pudgypenguins",
+    "name": "Pudgypenguins",
+    "domain": "pudgypenguins.com"
+  },
+  {
+    "slug": "puffer",
+    "name": "Puffer",
+    "domain": "puffer.fi"
+  },
+  {
+    "slug": "pump",
+    "name": "Pump",
+    "domain": "pump.fun"
+  },
+  {
+    "slug": "quackai",
+    "name": "Quackai",
+    "domain": "app.quackai.ai"
+  },
+  {
+    "slug": "quests",
+    "name": "Quests",
+    "domain": "quests.magicblock.app"
+  },
+  {
+    "slug": "ranger",
+    "name": "Ranger",
+    "domain": "app.ranger.finance"
+  },
+  {
+    "slug": "re",
+    "name": "Re",
+    "domain": "re.xyz"
+  },
+  {
+    "slug": "recall",
+    "name": "Recall",
+    "domain": "recall.network"
+  },
+  {
+    "slug": "ref",
+    "name": "Ref",
+    "domain": "ref.minionlab.io"
+  },
+  {
+    "slug": "referral",
+    "name": "Referral",
+    "domain": "tryliquid.xyz"
+  },
+  {
+    "slug": "renaiss",
+    "name": "Renaiss",
+    "domain": "renaiss.xyz"
+  },
+  {
+    "slug": "revolvinggames",
+    "name": "Revolvinggames",
+    "domain": "revolvinggames.com"
+  },
+  {
+    "slug": "rewards",
+    "name": "Rewards",
+    "domain": "rewards.canopynetwork.org"
+  },
+  {
+    "slug": "reya",
+    "name": "Reya",
+    "domain": "app.reya.xyz"
+  },
+  {
+    "slug": "risczero",
+    "name": "Risczero",
+    "domain": "risczero.com"
+  },
+  {
+    "slug": "ritual",
+    "name": "Ritual",
+    "domain": "ritual.net"
+  },
+  {
+    "slug": "rumilabs",
+    "name": "Rumilabs",
+    "domain": "rumilabs.io"
+  },
+  {
+    "slug": "saharaai",
+    "name": "Saharaai",
+    "domain": "saharaai.com"
+  },
+  {
+    "slug": "sanctum",
+    "name": "Sanctum",
+    "domain": "sanctum.so"
+  },
+  {
+    "slug": "sandbox",
+    "name": "Sandbox",
+    "domain": "sandbox.game"
+  },
+  {
+    "slug": "sandchain",
+    "name": "Sandchain",
+    "domain": "sandchain.com"
+  },
+  {
+    "slug": "seismic",
+    "name": "Seismic",
+    "domain": "seismic.systems"
+  },
+  {
+    "slug": "sentient",
+    "name": "Sentient",
+    "domain": "sentient.foundation"
+  },
+  {
+    "slug": "shape",
+    "name": "Shape",
+    "domain": "shape.network"
+  },
+  {
+    "slug": "shelby",
+    "name": "Shelby",
+    "domain": "shelby.xyz"
+  },
+  {
+    "slug": "shop",
+    "name": "Shop",
+    "domain": "shop.dawninternet.com"
+  },
+  {
+    "slug": "signup",
+    "name": "Signup",
+    "domain": "signup.billions.network"
+  },
+  {
+    "slug": "sixpence",
+    "name": "Sixpence",
+    "domain": "sixpence.xyz"
+  },
+  {
+    "slug": "slingshot",
+    "name": "Slingshot",
+    "domain": "slingshot.app"
+  },
+  {
+    "slug": "sns",
+    "name": "Sns",
+    "domain": "sns.id"
+  },
+  {
+    "slug": "solanamobile",
+    "name": "Solanamobile",
+    "domain": "solanamobile.com"
+  },
+  {
+    "slug": "solayer",
+    "name": "Solayer",
+    "domain": "app.solayer.org"
+  },
+  {
+    "slug": "solflare",
+    "name": "Solflare",
+    "domain": "solflare.com"
+  },
+  {
+    "slug": "solv",
+    "name": "Solv",
+    "domain": "solv.finance"
+  },
+  {
+    "slug": "somnia",
+    "name": "Somnia",
+    "domain": "somnia.network"
+  },
+  {
+    "slug": "soneium",
+    "name": "Soneium",
+    "domain": "soneium.org"
+  },
+  {
+    "slug": "soniclabs",
+    "name": "Soniclabs",
+    "domain": "soniclabs.com"
+  },
+  {
+    "slug": "soo",
+    "name": "Soo",
+    "domain": "soo.network"
+  },
+  {
+    "slug": "sophon",
+    "name": "Sophon",
+    "domain": "app.sophon.xyz"
+  },
+  {
+    "slug": "sosovalue",
+    "name": "Sosovalue",
+    "domain": "sosovalue.com"
+  },
+  {
+    "slug": "spheron",
+    "name": "Spheron",
+    "domain": "spheron.network"
+  },
+  {
+    "slug": "sphx",
+    "name": "Sphx",
+    "domain": "sphx.io"
+  },
+  {
+    "slug": "spicenet",
+    "name": "Spicenet",
+    "domain": "portal.spicenet.io"
+  },
+  {
+    "slug": "squads",
+    "name": "Squads",
+    "domain": "app.squads.so"
+  },
+  {
+    "slug": "squidrouter",
+    "name": "Squidrouter",
+    "domain": "app.squidrouter.com"
+  },
+  {
+    "slug": "stable",
+    "name": "Stable",
+    "domain": "stable.xyz"
+  },
+  {
+    "slug": "story",
+    "name": "Story",
+    "domain": "story.foundation"
+  },
+  {
+    "slug": "sui",
+    "name": "Sui",
+    "domain": "sui.io"
+  },
+  {
+    "slug": "sunriselayer",
+    "name": "Sunriselayer",
+    "domain": "sunriselayer.io"
+  },
+  {
+    "slug": "sunscreen",
+    "name": "Sunscreen",
+    "domain": "sunscreen.tech"
+  },
+  {
+    "slug": "superchain",
+    "name": "Superchain",
+    "domain": "account.superchain.eco"
+  },
+  {
+    "slug": "superfluid",
+    "name": "Superfluid",
+    "domain": "claim.superfluid.org"
+  },
+  {
+    "slug": "superposition",
+    "name": "Superposition",
+    "domain": "superposition.so"
+  },
+  {
+    "slug": "superprotocol",
+    "name": "Superprotocol",
+    "domain": "superprotocol.com"
+  },
+  {
+    "slug": "supra",
+    "name": "Supra",
+    "domain": "supra.com"
+  },
+  {
+    "slug": "sx",
+    "name": "Sx",
+    "domain": "sx.bet"
+  },
+  {
+    "slug": "symbiotic",
+    "name": "Symbiotic",
+    "domain": "app.symbiotic.fi"
+  },
+  {
+    "slug": "t3rn",
+    "name": "T3rn",
+    "domain": "t3rn.io"
+  },
+  {
+    "slug": "tabichain",
+    "name": "Tabichain",
+    "domain": "tabichain.com"
+  },
+  {
+    "slug": "taho",
+    "name": "Taho",
+    "domain": "taho.xyz"
+  },
+  {
+    "slug": "taiko",
+    "name": "Taiko",
+    "domain": "taiko.xyz"
+  },
+  {
+    "slug": "taker",
+    "name": "Taker",
+    "domain": "taker.xyz"
+  },
+  {
+    "slug": "talus",
+    "name": "Talus",
+    "domain": "hub.talus.network"
+  },
+  {
+    "slug": "tanssi",
+    "name": "Tanssi",
+    "domain": "tanssi.network"
+  },
+  {
+    "slug": "tempo",
+    "name": "Tempo",
+    "domain": "docs.tempo.xyz"
+  },
+  {
+    "slug": "teneo",
+    "name": "Teneo",
+    "domain": "dashboard.teneo.pro"
+  },
+  {
+    "slug": "theo",
+    "name": "Theo",
+    "domain": "theo.xyz"
+  },
+  {
+    "slug": "theoriq",
+    "name": "Theoriq",
+    "domain": "theoriq.ai"
+  },
+  {
+    "slug": "theradius",
+    "name": "Theradius",
+    "domain": "theradius.xyz"
+  },
+  {
+    "slug": "titandex",
+    "name": "Titandex",
+    "domain": "titandex.io"
+  },
+  {
+    "slug": "towns",
+    "name": "Towns",
+    "domain": "towns.com"
+  },
+  {
+    "slug": "trade",
+    "name": "Trade",
+    "domain": "app.trade.xyz"
+  },
+  {
+    "slug": "tradegenius",
+    "name": "Tradegenius",
+    "domain": "tradegenius.com"
+  },
+  {
+    "slug": "treehouse",
+    "name": "Treehouse",
+    "domain": "treehouse.finance"
+  },
+  {
+    "slug": "trex",
+    "name": "Trex",
+    "domain": "trex.xyz"
+  },
+  {
+    "slug": "trustalabs",
+    "name": "Trustalabs",
+    "domain": "trustalabs.ai"
+  },
+  {
+    "slug": "tryyourbest",
+    "name": "Tryyourbest",
+    "domain": "tryyourbest.tyb.xyz"
+  },
+  {
+    "slug": "tusky",
+    "name": "Tusky",
+    "domain": "app.tusky.io"
+  },
+  {
+    "slug": "unavatar",
+    "name": "Unavatar",
+    "domain": "unavatar.io"
+  },
+  {
+    "slug": "unichain",
+    "name": "Unichain",
+    "domain": "unichain.org"
+  },
+  {
+    "slug": "union",
+    "name": "Union",
+    "domain": "union.build"
+  },
+  {
+    "slug": "unite",
+    "name": "Unite",
+    "domain": "claim.unite.io"
+  },
+  {
+    "slug": "uptopia",
+    "name": "Uptopia",
+    "domain": "portal.uptopia.xyz"
+  },
+  {
+    "slug": "usecorn",
+    "name": "Usecorn",
+    "domain": "usecorn.com"
+  },
+  {
+    "slug": "usual",
+    "name": "Usual",
+    "domain": "usual.money"
+  },
+  {
+    "slug": "vana",
+    "name": "Vana",
+    "domain": "vana.org"
+  },
+  {
+    "slug": "vestmarkets",
+    "name": "Vestmarkets",
+    "domain": "trade.vestmarkets.com"
+  },
+  {
+    "slug": "vlayer",
+    "name": "Vlayer",
+    "domain": "vlayer.xyz"
+  },
+  {
+    "slug": "vooi",
+    "name": "Vooi",
+    "domain": "app.vooi.io"
+  },
+  {
+    "slug": "wallet",
+    "name": "Wallet",
+    "domain": "wallet.tx.xyz"
+  },
+  {
+    "slug": "walletconnect",
+    "name": "Walletconnect",
+    "domain": "walletconnect.network"
+  },
+  {
+    "slug": "walrus",
+    "name": "Walrus",
+    "domain": "walrus.xyz"
+  },
+  {
+    "slug": "wardenprotocol",
+    "name": "Wardenprotocol",
+    "domain": "app.wardenprotocol.org"
+  },
+  {
+    "slug": "welf",
+    "name": "Welf",
+    "domain": "welf.com"
+  },
+  {
+    "slug": "wormhole",
+    "name": "Wormhole",
+    "domain": "wormhole.com"
+  },
+  {
+    "slug": "xion",
+    "name": "Xion",
+    "domain": "xion.burnt.com"
+  },
+  {
+    "slug": "xo",
+    "name": "Xo",
+    "domain": "beta.xo.market"
+  },
+  {
+    "slug": "xter",
+    "name": "Xter",
+    "domain": "xter.io"
+  },
+  {
+    "slug": "yala",
+    "name": "Yala",
+    "domain": "yala.org"
+  },
+  {
+    "slug": "yaps",
+    "name": "Yaps",
+    "domain": "yaps.kaito.ai"
+  },
+  {
+    "slug": "yellow",
+    "name": "Yellow",
+    "domain": "yellow.org"
+  },
+  {
+    "slug": "yupp",
+    "name": "Yupp",
+    "domain": "yupp.ai"
+  },
+  {
+    "slug": "zama",
+    "name": "Zama",
+    "domain": "zama.org"
+  },
+  {
+    "slug": "zee-verse",
+    "name": "Zee-verse",
+    "domain": "zee-verse.com"
+  },
+  {
+    "slug": "zerobase",
+    "name": "Zerobase",
+    "domain": "app.zerobase.pro"
+  },
+  {
+    "slug": "zeusnetwork",
+    "name": "Zeusnetwork",
+    "domain": "zeusnetwork.xyz"
+  },
+  {
+    "slug": "zircuit",
+    "name": "Zircuit",
+    "domain": "zircuit.com"
+  },
+  {
+    "slug": "zkverify",
+    "name": "Zkverify",
+    "domain": "zkverify.io"
+  },
+  {
+    "slug": "zofai",
+    "name": "Zofai",
+    "domain": "zofai.io"
+  },
+  {
+    "slug": "zora",
+    "name": "Zora",
+    "domain": "zora.co"
+  }
+]

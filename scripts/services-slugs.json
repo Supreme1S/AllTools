@@ -1,0 +1,252 @@
+[
+  {
+    "slug": "5sim",
+    "name": "5SIM",
+    "domain": "5sim.net"
+  },
+  {
+    "slug": "abscan",
+    "name": "Abscan",
+    "domain": "abscan.org"
+  },
+  {
+    "slug": "adspower",
+    "name": "AdsPower",
+    "domain": "adspower-ru.com"
+  },
+  {
+    "slug": "amlbot",
+    "name": "AMLBot",
+    "domain": "web.amlbot.com"
+  },
+  {
+    "slug": "arbiscan",
+    "name": "Arbiscan",
+    "domain": "arbiscan.io"
+  },
+  {
+    "slug": "asocks",
+    "name": "Asocks",
+    "domain": "asocks.com"
+  },
+  {
+    "slug": "aurorascan",
+    "name": "AuroraScan",
+    "domain": "explorer.aurora.dev"
+  },
+  {
+    "slug": "basescan",
+    "name": "BaseScan",
+    "domain": "basescan.org"
+  },
+  {
+    "slug": "blockchain-com",
+    "name": "Blockchain.com",
+    "domain": "blockchain.com"
+  },
+  {
+    "slug": "bobascan",
+    "name": "BOBAscan",
+    "domain": "bobascan.com"
+  },
+  {
+    "slug": "bscscan",
+    "name": "BscScan",
+    "domain": "bscscan.com"
+  },
+  {
+    "slug": "celoscan",
+    "name": "CELOscan",
+    "domain": "celoscan.io"
+  },
+  {
+    "slug": "chainlist",
+    "name": "Chainlist",
+    "domain": "chainlist.org"
+  },
+  {
+    "slug": "chainscheck",
+    "name": "ChainsCheck",
+    "domain": "chainscheck.com"
+  },
+  {
+    "slug": "contabo",
+    "name": "Contabo",
+    "domain": "contabo.com"
+  },
+  {
+    "slug": "cronosscan",
+    "name": "CronosScan",
+    "domain": "cronoscan.com"
+  },
+  {
+    "slug": "crypto-dictionary",
+    "name": "Crypto Dictionary",
+    "domain": "crypton-prime.notion.site"
+  },
+  {
+    "slug": "disperse",
+    "name": "Disperse",
+    "domain": "disperse.app"
+  },
+  {
+    "slug": "dolphinanty",
+    "name": "DolphinAnty",
+    "domain": "dolphin-anty.net"
+  },
+  {
+    "slug": "etherscan",
+    "name": "Etherscan",
+    "domain": "etherscan.io"
+  },
+  {
+    "slug": "gnosisscan",
+    "name": "GnosisScan",
+    "domain": "gnosisscan.io"
+  },
+  {
+    "slug": "gologin",
+    "name": "GoLogin",
+    "domain": "go.gologin.com"
+  },
+  {
+    "slug": "holograph",
+    "name": "Holograph",
+    "domain": "app.holograph.xyz"
+  },
+  {
+    "slug": "hostkey",
+    "name": "Hostkey",
+    "domain": "hostkey.ru"
+  },
+  {
+    "slug": "hydraheaders",
+    "name": "HydraHeaders",
+    "domain": "hydraproxy.com"
+  },
+  {
+    "slug": "incogniton",
+    "name": "Incogniton",
+    "domain": "incogniton.com"
+  },
+  {
+    "slug": "kava-scan",
+    "name": "Kava Scan",
+    "domain": "kavascan.com"
+  },
+  {
+    "slug": "lineascan",
+    "name": "LineaScan",
+    "domain": "lineascan.build"
+  },
+  {
+    "slug": "linode",
+    "name": "Linode",
+    "domain": "linode.com"
+  },
+  {
+    "slug": "macloud",
+    "name": "Macloud",
+    "domain": "macloud.ru"
+  },
+  {
+    "slug": "moonscan",
+    "name": "MoonScan",
+    "domain": "moonbeam.moonscan.io"
+  },
+  {
+    "slug": "octo-browser",
+    "name": "Octo Browser",
+    "domain": "octobrowser.net"
+  },
+  {
+    "slug": "onlinesim",
+    "name": "OnlineSIM",
+    "domain": "onlinesim.io"
+  },
+  {
+    "slug": "polygonscan",
+    "name": "PolygonScan",
+    "domain": "polygonscan.com"
+  },
+  {
+    "slug": "proxy-market",
+    "name": "Proxy Market",
+    "domain": "proxy.market"
+  },
+  {
+    "slug": "proxy6",
+    "name": "Proxy6",
+    "domain": "px6.me"
+  },
+  {
+    "slug": "proxyline",
+    "name": "ProxyLine",
+    "domain": "proxyline.net"
+  },
+  {
+    "slug": "proxys",
+    "name": "Proxys",
+    "domain": "proxys.io"
+  },
+  {
+    "slug": "proxyseller",
+    "name": "ProxySeller",
+    "domain": "proxy-seller.com"
+  },
+  {
+    "slug": "proxystore",
+    "name": "ProxyStore",
+    "domain": "proxy-store.com"
+  },
+  {
+    "slug": "proxywing",
+    "name": "ProxyWing",
+    "domain": "proxywing.com"
+  },
+  {
+    "slug": "sms-activate",
+    "name": "SMS Activate",
+    "domain": "sms-activate.org"
+  },
+  {
+    "slug": "snowtrace",
+    "name": "SnowTrace",
+    "domain": "snowtrace.io"
+  },
+  {
+    "slug": "starknetscan",
+    "name": "StarknetScan",
+    "domain": "starkscan.co"
+  },
+  {
+    "slug": "tonscan",
+    "name": "Tonscan",
+    "domain": "tonscan.org"
+  },
+  {
+    "slug": "tonviewer",
+    "name": "Tonviewer",
+    "domain": "tonviewer.com"
+  },
+  {
+    "slug": "travchis-proxies",
+    "name": "Travchis Proxies",
+    "domain": "travchisproxies.com"
+  },
+  {
+    "slug": "ufo-hosting",
+    "name": "UFO Hosting",
+    "domain": "ufo.hosting"
+  },
+  {
+    "slug": "vdsina",
+    "name": "VDSina",
+    "domain": "vdsina.ru"
+  },
+  {
+    "slug": "zomro",
+    "name": "ZOMRO",
+    "domain": "zomro.com"
+  }
+]

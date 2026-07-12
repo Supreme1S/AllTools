@@ -1,0 +1,852 @@
+[
+  {
+    "id": "kgen",
+    "slug": "kgen",
+    "name": "Kgen",
+    "domain": "kgen.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://kgen.io",
+    "referral_url": null,
+    "outbound_url": "https://kgen.io",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "kiichain",
+    "slug": "kiichain",
+    "name": "Kiichain",
+    "domain": "kiichain.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://kiichain.io/testnet",
+    "referral_url": null,
+    "outbound_url": "https://kiichain.io/testnet",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "kintsu",
+    "slug": "kintsu",
+    "name": "Kintsu",
+    "domain": "kintsu.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://kintsu.xyz/staking",
+    "referral_url": null,
+    "outbound_url": "https://kintsu.xyz/staking",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "kuru",
+    "slug": "kuru",
+    "name": "Kuru",
+    "domain": "kuru.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://kuru.io",
+    "referral_url": null,
+    "outbound_url": "https://kuru.io",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "lagrange",
+    "slug": "lagrange",
+    "name": "Lagrange",
+    "domain": "lagrange.dev",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://lagrange.dev",
+    "referral_url": null,
+    "outbound_url": "https://lagrange.dev",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "layeredge",
+    "slug": "layeredge",
+    "name": "Layeredge",
+    "domain": "layeredge.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://layeredge.io",
+    "referral_url": null,
+    "outbound_url": "https://layeredge.io",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "layerhub",
+    "slug": "layerhub",
+    "name": "Layerhub",
+    "domain": "layerhub.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://layerhub.xyz/protocols/polymarket),",
+    "referral_url": null,
+    "outbound_url": "https://layerhub.xyz/protocols/polymarket),",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "linera",
+    "slug": "linera",
+    "name": "Linera",
+    "domain": "portal.linera.net",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://portal.linera.net",
+    "referral_url": null,
+    "outbound_url": "https://portal.linera.net",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "linktr",
+    "slug": "linktr",
+    "name": "Linktr",
+    "domain": "linktr.ee",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://linktr.ee/succinctlabs",
+    "referral_url": null,
+    "outbound_url": "https://linktr.ee/succinctlabs",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "litvm",
+    "slug": "litvm",
+    "name": "Litvm",
+    "domain": "litvm.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://litvm.com",
+    "referral_url": null,
+    "outbound_url": "https://litvm.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "logx",
+    "slug": "logx",
+    "name": "Logx",
+    "domain": "app.logx.network",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://app.logx.network",
+    "referral_url": null,
+    "outbound_url": "https://app.logx.network",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "lombard",
+    "slug": "lombard",
+    "name": "Lombard",
+    "domain": "lombard.finance",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://lombard.finance",
+    "referral_url": null,
+    "outbound_url": "https://lombard.finance",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "loyalty",
+    "slug": "loyalty",
+    "name": "Loyalty",
+    "domain": "loyalty.campnetwork.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://loyalty.campnetwork.xyz/loyalty",
+    "referral_url": null,
+    "outbound_url": "https://loyalty.campnetwork.xyz/loyalty",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "magicnewton",
+    "slug": "magicnewton",
+    "name": "Magicnewton",
+    "domain": "magicnewton.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://magicnewton.com",
+    "referral_url": null,
+    "outbound_url": "https://magicnewton.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "magmastaking",
+    "slug": "magmastaking",
+    "name": "Magmastaking",
+    "domain": "magmastaking.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://magmastaking.xyz",
+    "referral_url": null,
+    "outbound_url": "https://magmastaking.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "mahojin",
+    "slug": "mahojin",
+    "name": "Mahojin",
+    "domain": "app.mahojin.ai",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://app.mahojin.ai/workflows",
+    "referral_url": null,
+    "outbound_url": "https://app.mahojin.ai/workflows",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "manta",
+    "slug": "manta",
+    "name": "Manta",
+    "domain": "manta.network",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://manta.network",
+    "referral_url": null,
+    "outbound_url": "https://manta.network",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "mantrachain",
+    "slug": "mantrachain",
+    "name": "Mantrachain",
+    "domain": "mantrachain.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://mantrachain.io",
+    "referral_url": null,
+    "outbound_url": "https://mantrachain.io",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "mavryk",
+    "slug": "mavryk",
+    "name": "Mavryk",
+    "domain": "mavryk.org",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://mavryk.org",
+    "referral_url": null,
+    "outbound_url": "https://mavryk.org",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "mawari",
+    "slug": "mawari",
+    "name": "Mawari",
+    "domain": "mawari.net",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://mawari.net",
+    "referral_url": null,
+    "outbound_url": "https://mawari.net",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "mayan",
+    "slug": "mayan",
+    "name": "Mayan",
+    "domain": "mayan.finance",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://mayan.finance",
+    "referral_url": null,
+    "outbound_url": "https://mayan.finance",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "megaeth",
+    "slug": "megaeth",
+    "name": "Megaeth",
+    "domain": "testnet.megaeth.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://testnet.megaeth.com",
+    "referral_url": null,
+    "outbound_url": "https://testnet.megaeth.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "meteora",
+    "slug": "meteora",
+    "name": "Meteora",
+    "domain": "app.meteora.ag",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://app.meteora.ag",
+    "referral_url": null,
+    "outbound_url": "https://app.meteora.ag",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "metri",
+    "slug": "metri",
+    "name": "Metri",
+    "domain": "app.metri.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://app.metri.xyz",
+    "referral_url": null,
+    "outbound_url": "https://app.metri.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "mezo",
+    "slug": "mezo",
+    "name": "Mezo",
+    "domain": "mezo.org",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://mezo.org",
+    "referral_url": null,
+    "outbound_url": "https://mezo.org",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "miden",
+    "slug": "miden",
+    "name": "Miden",
+    "domain": "miden.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://miden.xyz",
+    "referral_url": null,
+    "outbound_url": "https://miden.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "midl",
+    "slug": "midl",
+    "name": "Midl",
+    "domain": "midl.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://midl.xyz",
+    "referral_url": null,
+    "outbound_url": "https://midl.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "milkyway",
+    "slug": "milkyway",
+    "name": "Milkyway",
+    "domain": "milkyway.zone",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://milkyway.zone",
+    "referral_url": null,
+    "outbound_url": "https://milkyway.zone",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "minara",
+    "slug": "minara",
+    "name": "Minara",
+    "domain": "minara.ai",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://minara.ai/home?code=XZ4LTH&from=user",
+    "referral_url": null,
+    "outbound_url": "https://minara.ai/home?code=XZ4LTH&from=user",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "mira",
+    "slug": "mira",
+    "name": "Mira",
+    "domain": "mira.network",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://mira.network",
+    "referral_url": null,
+    "outbound_url": "https://mira.network",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "moca",
+    "slug": "moca",
+    "name": "Moca",
+    "domain": "moca.network",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://moca.network/en",
+    "referral_url": null,
+    "outbound_url": "https://moca.network/en",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "mode",
+    "slug": "mode",
+    "name": "Mode",
+    "domain": "app.mode.network",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://app.mode.network/early",
+    "referral_url": null,
+    "outbound_url": "https://app.mode.network/early",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "monad-fantasy-top",
+    "slug": "monad-fantasy-top",
+    "name": "Monad",
+    "domain": "monad.fantasy.top",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://monad.fantasy.top",
+    "referral_url": null,
+    "outbound_url": "https://monad.fantasy.top",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "monad-monad-xyz",
+    "slug": "monad-monad-xyz",
+    "name": "Monad",
+    "domain": "testnet.monad.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://testnet.monad.xyz",
+    "referral_url": null,
+    "outbound_url": "https://testnet.monad.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "moonbirds",
+    "slug": "moonbirds",
+    "name": "Moonbirds",
+    "domain": "moonbirds.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://moonbirds.com",
+    "referral_url": null,
+    "outbound_url": "https://moonbirds.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "moonveil",
+    "slug": "moonveil",
+    "name": "Moonveil",
+    "domain": "moonveil.gg",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://moonveil.gg",
+    "referral_url": null,
+    "outbound_url": "https://moonveil.gg",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "morph",
+    "slug": "morph",
+    "name": "Morph",
+    "domain": "morph.network",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://morph.network",
+    "referral_url": null,
+    "outbound_url": "https://morph.network",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "morpho",
+    "slug": "morpho",
+    "name": "Morpho",
+    "domain": "morpho.org",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://morpho.org",
+    "referral_url": null,
+    "outbound_url": "https://morpho.org",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "movementlabs",
+    "slug": "movementlabs",
+    "name": "Movementlabs",
+    "domain": "movementlabs.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://movementlabs.xyz",
+    "referral_url": null,
+    "outbound_url": "https://movementlabs.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "multipli",
+    "slug": "multipli",
+    "name": "Multipli",
+    "domain": "multipli.fi",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://multipli.fi",
+    "referral_url": null,
+    "outbound_url": "https://multipli.fi",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "multivmlabs",
+    "slug": "multivmlabs",
+    "name": "Multivmlabs",
+    "domain": "multivmlabs.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://multivmlabs.com",
+    "referral_url": null,
+    "outbound_url": "https://multivmlabs.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "myriad",
+    "slug": "myriad",
+    "name": "Myriad",
+    "domain": "myriad.markets",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://myriad.markets/markets/will-china-invade-taiwan-before-july?t=1768119598&rC=DTqnaq",
+    "referral_url": null,
+    "outbound_url": "https://myriad.markets/markets/will-china-invade-taiwan-before-july?t=1768119598&rC=DTqnaq",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "myshell",
+    "slug": "myshell",
+    "name": "Myshell",
+    "domain": "myshell.ai",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://myshell.ai",
+    "referral_url": null,
+    "outbound_url": "https://myshell.ai",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "n1",
+    "slug": "n1",
+    "name": "N1",
+    "domain": "n1.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://n1.xyz",
+    "referral_url": null,
+    "outbound_url": "https://n1.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "nado",
+    "slug": "nado",
+    "name": "Nado",
+    "domain": "app.nado.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://app.nado.xyz/perpetuals",
+    "referral_url": null,
+    "outbound_url": "https://app.nado.xyz/perpetuals",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "nexira",
+    "slug": "nexira",
+    "name": "Nexira",
+    "domain": "nexira.ai",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://nexira.ai",
+    "referral_url": null,
+    "outbound_url": "https://nexira.ai",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "nexus",
+    "slug": "nexus",
+    "name": "Nexus",
+    "domain": "nexus.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://nexus.xyz",
+    "referral_url": null,
+    "outbound_url": "https://nexus.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "noble",
+    "slug": "noble",
+    "name": "Noble",
+    "domain": "noble.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://noble.xyz",
+    "referral_url": null,
+    "outbound_url": "https://noble.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "nodeops",
+    "slug": "nodeops",
+    "name": "Nodeops",
+    "domain": "nodeops.network",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://nodeops.network",
+    "referral_url": null,
+    "outbound_url": "https://nodeops.network",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "nodepay",
+    "slug": "nodepay",
+    "name": "Nodepay",
+    "domain": "app.nodepay.ai",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://app.nodepay.ai",
+    "referral_url": null,
+    "outbound_url": "https://app.nodepay.ai",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  }
+]

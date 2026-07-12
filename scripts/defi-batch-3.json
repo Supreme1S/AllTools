@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "liquidswap",
+    "name": "LiquidSwap",
+    "domain": "liquidswap.com"
+  },
+  {
+    "slug": "liskbridge",
+    "name": "liskBridge",
+    "domain": "bridge.gelato.network"
+  },
+  {
+    "slug": "looksrare",
+    "name": "LooksRare",
+    "domain": "looksrare.org"
+  },
+  {
+    "slug": "macaron",
+    "name": "Macaron",
+    "domain": "macaron.xyz"
+  },
+  {
+    "slug": "magic-eden",
+    "name": "Magic Eden",
+    "domain": "magiceden.io"
+  },
+  {
+    "slug": "matcha",
+    "name": "Matcha",
+    "domain": "matcha.xyz"
+  },
+  {
+    "slug": "maverick",
+    "name": "Maverick",
+    "domain": "mav.xyz"
+  },
+  {
+    "slug": "mavis-market",
+    "name": "Mavis Market",
+    "domain": "marketplace.skymavis.com"
+  },
+  {
+    "slug": "meme-bridge",
+    "name": "Meme Bridge",
+    "domain": "memebridge.xyz"
+  },
+  {
+    "slug": "merkly",
+    "name": "Merkly",
+    "domain": "minter.merkly.com"
+  },
+  {
+    "slug": "merlinswap",
+    "name": "MerlinSwap",
+    "domain": "merlinswap.org"
+  },
+  {
+    "slug": "meson",
+    "name": "Meson",
+    "domain": "meson.fi"
+  },
+  {
+    "slug": "metal-l2-bridge",
+    "name": "Metal L2 bridge",
+    "domain": "bridge.metall2.com"
+  },
+  {
+    "slug": "metalend",
+    "name": "MetaLend",
+    "domain": "metalend.tech"
+  },
+  {
+    "slug": "metalx-dex",
+    "name": "MetalX Dex",
+    "domain": "app.metalx.com"
+  },
+  {
+    "slug": "mintswap-finance",
+    "name": "MintSwap Finance",
+    "domain": "mintswap.finance"
+  },
+  {
+    "slug": "mirror",
+    "name": "Mirror",
+    "domain": "mirror.xyz"
+  },
+  {
+    "slug": "multiversx",
+    "name": "multiversx",
+    "domain": "bridge.multiversx.com"
+  },
+  {
+    "slug": "myswap",
+    "name": "mySwap",
+    "domain": "myswap.xyz"
+  },
+  {
+    "slug": "navi-protocol",
+    "name": "NAVI Protocol",
+    "domain": "naviprotocol.io"
+  },
+  {
+    "slug": "netswap",
+    "name": "Netswap",
+    "domain": "netswap.io"
+  },
+  {
+    "slug": "nexus-mutual",
+    "name": "Nexus Mutual",
+    "domain": "app.nexusmutual.io"
+  },
+  {
+    "slug": "nostra",
+    "name": "Nostra",
+    "domain": "alpha.nostra.finance"
+  },
+  {
+    "slug": "odos",
+    "name": "Odos",
+    "domain": "app.odos.xyz"
+  },
+  {
+    "slug": "omnihub-by-l0",
+    "name": "OmniHub (by L0)",
+    "domain": "omnihub.xyz"
+  },
+  {
+    "slug": "onedex",
+    "name": "OneDex",
+    "domain": "swap.onedex.app"
+  },
+  {
+    "slug": "oolong-swap",
+    "name": "Oolong swap",
+    "domain": "oolongswap.com"
+  },
+  {
+    "slug": "openocean",
+    "name": "OpenOcean",
+    "domain": "app.openocean.finance"
+  },
+  {
+    "slug": "opensea",
+    "name": "Opensea",
+    "domain": "opensea.io"
+  },
+  {
+    "slug": "opinion",
+    "name": "Opinion",
+    "domain": "app.opinion.trade"
+  },
+  {
+    "slug": "optimism-bridge",
+    "name": "Optimism Bridge",
+    "domain": "app.optimism.io"
+  },
+  {
+    "slug": "orbiter",
+    "name": "Orbiter",
+    "domain": "orbiter.finance"
+  },
+  {
+    "slug": "osmosis",
+    "name": "Osmosis",
+    "domain": "frontier.osmosis.zone"
+  },
+  {
+    "slug": "owlto",
+    "name": "Owlto",
+    "domain": "owlto.finance"
+  },
+  {
+    "slug": "paintswap",
+    "name": "PaintSwap",
+    "domain": "paintswap.finance"
+  },
+  {
+    "slug": "pendle",
+    "name": "Pendle",
+    "domain": "pendle.finance"
+  },
+  {
+    "slug": "pheasant",
+    "name": "Pheasant",
+    "domain": "pheasant.network"
+  },
+  {
+    "slug": "philand",
+    "name": "Philand",
+    "domain": "philand.xyz"
+  },
+  {
+    "slug": "phoenix",
+    "name": "Phoenix",
+    "domain": "phoenix.trade"
+  },
+  {
+    "slug": "phux",
+    "name": "phux",
+    "domain": "phux.io"
+  },
+  {
+    "slug": "polkastarter",
+    "name": "Polkastarter",
+    "domain": "polkastarter.com"
+  },
+  {
+    "slug": "polygon-bridge",
+    "name": "Polygon Bridge",
+    "domain": "portal.polygon.technology"
+  },
+  {
+    "slug": "portal-bridge",
+    "name": "Portal Bridge",
+    "domain": "portalbridge.com"
+  },
+  {
+    "slug": "pulsex",
+    "name": "PulseX",
+    "domain": "pulsex.mypinata.cloud"
+  },
+  {
+    "slug": "quipuswap",
+    "name": "QuipuSwap",
+    "domain": "quipuswap.com"
+  },
+  {
+    "slug": "rabbithole",
+    "name": "RabbitHole",
+    "domain": "rabbithole.gg"
+  },
+  {
+    "slug": "radiant",
+    "name": "Radiant",
+    "domain": "app.radiant.capital"
+  },
+  {
+    "slug": "rainbow-bridge",
+    "name": "Rainbow Bridge",
+    "domain": "rainbowbridge.app"
+  },
+  {
+    "slug": "rango-exchange",
+    "name": "Rango Exchange",
+    "domain": "app.rango.exchange"
+  },
+  {
+    "slug": "rarible",
+    "name": "Rarible",
+    "domain": "rarible.com"
+  },
+  {
+    "slug": "ref-finance",
+    "name": "Ref Finance",
+    "domain": "app.ref.finance"
+  },
+  {
+    "slug": "relay",
+    "name": "Relay",
+    "domain": "relay.link"
+  },
+  {
+    "slug": "renzo",
+    "name": "Renzo",
+    "domain": "renzoprotocol.com"
+  },
+  {
+    "slug": "rhinofi",
+    "name": "RhinoFi",
+    "domain": "app.rhino.fi"
+  },
+  {
+    "slug": "rise",
+    "name": "Rise",
+    "domain": "testnet.rise.trade"
+  }
+]

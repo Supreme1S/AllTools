@@ -1,0 +1,852 @@
+{
+  "gate2": {
+    "short": "Второй шлюз экосистемы Oshi — on-chain вход в игры и социальные dApps на gate2.oshi.co.",
+    "long": "Gate2 — часть платформы Oshi, Web3-инфраструктуры для игр и социальных приложений. Точка входа для подключения кошелька, аутентификации и взаимодействия с on-chain контентом экосистемы.",
+    "tagline": "Шлюз Oshi — один вход в gaming Web3.",
+    "highlight": "Gate2 на gate2.oshi.co работает как портал в экосистему Oshi: подключение кошелька, доступ к играм и социальным функциям без классического Web2-логина. Модель «шлюза» — стандарт для consumer crypto: один вход, много dApps. Ликвидность и база пользователей зависят от adoption конкретных игр на платформе. Для тех, кто уже в экосистеме Oshi, — обязательная точка; для остальных — нишевый gaming-вход.",
+    "facts": [
+      "Consumer gaming gates 2024–2025: десятки платформ копировали модель «один логин — много мини-игр» после успеха Telegram crypto apps.",
+      "Oshi и подобные шлюзы борются за retention после airdrop season — «липкие» игры решают больше, чем красивый лендинг.",
+      "Название Gate2 намекает на итерацию продукта — первые версии шлюзов часто переписывают полностью после launch week."
+    ],
+    "tips": [
+      "Проверь, какую сеть поддерживает Gate2 перед подключением — не все gaming gates multi-chain с первого дня."
+    ],
+    "warnings": [
+      "Игровой портал — риск смарт-контрактов каждой отдельной игры, а не только UI шлюза."
+    ]
+  },
+  "genlayer": {
+    "short": "L1 с optimistic smart contracts и AI-логикой — on-chain решения, которые «думают» через LLM.",
+    "long": "GenLayer — блокчейн нового типа: смарт-контракты могут вызывать AI-модели on-chain через optimistic verification. Для dApps, где нужны не только if/else, но и интерпретация текста, изображений или сложных условий.",
+    "tagline": "Смарт-контракты с AI — когда кода не хватает.",
+    "highlight": "GenLayer на genlayer.com предлагает смену парадигмы: контракт отправляет prompt, валидаторы проверяют output через optimistic-механизм. Сценарии — prediction markets с разрешением на естественном языке, AI-арбитраж, интеллектуальные оракулы. Ранняя стадия — экосистема разработчиков формируется, testnet активен. Риск: выводы AI недетерминированы; экономическая безопасность модели ещё не доказана в production.",
+    "facts": [
+      "GenLayer подняла seed от tier-1 VC с тезисом «AI + blockchain convergence» — нарратив 2024–2025 после бума ChatGPT.",
+      "Optimistic AI verification — новый примитив: если два валидатора не согласны с выводом LLM, challenge game решает спор экономически.",
+      "Критики сравнивают с старыми «AI oracle» проектами 2018 — GenLayer заявляет лучший crypto-economic design, рынок ждёт mainnet proof."
+    ],
+    "tips": [
+      "Разработчикам: начни с testnet docs — паттерны AI-контрактов отличаются от Solidity best practices."
+    ],
+    "warnings": [
+      "Недетерминированный AI on-chain — новая категория риска; не деплой production funds без audit trail."
+    ]
+  },
+  "gensyn": {
+    "short": "Децентрализованные ML-вычисления — распределённая сеть для обучения AI-моделей без монополии облачных гигантов.",
+    "long": "Gensyn — протокол децентрализованных вычислений для machine learning. Владельцы GPU и поставщики данных объединяются в trustless-сеть для training и inference.",
+    "tagline": "Decentralized compute для ML без Big Tech.",
+    "highlight": "Gensyn.ai строит marketplace ML compute: исследователи отправляют jobs, провайдеры исполняют на распределённом железе, верификация через cryptographic proofs. Конкурирует с io.net, Render, Bittensor в DePIN-AI секторе. Ранняя стадия с сильной академической базой. Points/testnet campaigns привлекли фармеров; adoption реальных ML-нагрузок — ключевой metric для долгосрочности.",
+    "facts": [
+      "Gensyn привлекла $43M+ от a16z и других — один из крупнейших раундов в DePIN-AI 2023.",
+      "Testnet queue: тысячи GPU-провайдеров зарегистрировались, но реальные training jobs отставали от хайпа — классическая DePIN chicken-and-egg.",
+      "ML verification on-chain — сложная задача; подход Gensyn цитируют в academic papers, production scale не доказан."
+    ],
+    "tips": [
+      "GPU-провайдерам: проверь uptime requirements и slashing rules перед подключением железа."
+    ],
+    "warnings": [
+      "DePIN points ≠ гарантированный токен — фарми ответственно, амортизация железа — реальная статья расходов."
+    ]
+  },
+  "getgrass": {
+    "short": "DePIN bandwidth network — продай неиспользуемый интернет-трафик и заработай points за участие в AI data layer.",
+    "long": "Grass (getgrass.io) — сеть, где пользователи делятся bandwidth для web scraping и сбора данных для AI training. Browser extension или desktop app, нарратив пассивного заработка.",
+    "tagline": "Grass DePIN — продай bandwidth AI-компаниям.",
+    "highlight": "Getgrass.io взорвался в 2024 через referral program и маркетинг «пассивного дохода»: установи extension, делись неиспользуемым bandwidth, зарабатывай Grass points. Поддержка Wynd Labs. Privacy concerns обсуждались в community — что именно роутится через твой IP. Связи с Solana ecosystem для potential token. Миллионы нод зарегистрированы; устойчивость зависит от реального B2B-спроса на bandwidth vs referral farming.",
+    "facts": [
+      "Grass referral links залили crypto Twitter 2024 — «sign up with my link» стал мемом наравне с Hamster Kombat.",
+      "Privacy debate: sharing residential IP for scraping — legal и ethical gray zone; пользователи часто не читают ToS.",
+      "100M+ nodes claimed — скептики отмечают много неактивных; B2B revenue disclosure ограничен для retail users."
+    ],
+    "tips": [
+      "Читай ToS про legal use of shared bandwidth — liability может быть на стороне пользователя."
+    ],
+    "warnings": [
+      "Sharing IP для third-party scraping — potential ToS violation ISP и privacy risk."
+    ]
+  },
+  "getoptimum": {
+    "short": "DePIN-сеть GetOptimum — оптимизация распределённых ресурсов и routing для Web3-инфраструктуры на getoptimum.xyz.",
+    "long": "GetOptimum — проект в DePIN/infrastructure space с фокусом на оптимизацию distributed resources. Testnet и points programs для ранних участников.",
+    "tagline": "Optimum routing — эффективная DePIN-инфраструктура.",
+    "highlight": "Getoptimum.xyz позиционируется в переполненном DePIN-рынке: optimization layer для compute, bandwidth или data routing. Ранняя стадия — сайт и app заточены на onboarding node operators и фармеров. Конкретный tech stack и tokenomics требуют проверки актуальных docs. Типичный playbook 2024: testnet → points → надежда на TGE.",
+    "facts": [
+      "DePIN naming explosion 2024: «Optimum», «Gradient», «Hyperbolic» — битва за mindshare в одном нарративе.",
+      "Points programs без раскрытия revenue — розница фармит спекулятивно, VC ставят на TAM сектора.",
+      "DePIN-инфра выживет в 2025 только с реальными enterprise-контрактами, а не счётчиком нод."
+    ],
+    "tips": [
+      "Сверяй домен getoptimum.xyz с официальными каналами — фишинг-клоны DePIN часты в сезон points."
+    ],
+    "warnings": [
+      "Ранний DePIN — токен может так и не выйти; относись к points как к лотерейному билету, не к зарплате."
+    ]
+  },
+  "getoro": {
+    "short": "Yield-приложение на app.getoro.xyz — on-chain квесты и пассивные стратегии для ранних пользователей.",
+    "long": "GetOro — Web3-приложение с фокусом на yield opportunities, квесты и community rewards. Точка входа для подключения кошелька и участия в программах ранней активности.",
+    "tagline": "GetOro — yield-квесты для ранних пользователей.",
+    "highlight": "App.getoro.xyz предлагает типичный early-stage crypto UX: connect wallet, выполняй задания, получай points или boosted yield на поддерживаемых активах. Модель зависит от партнёрских протоколов и emissions — проверяй актуальные pools перед депозитом. Для фармеров airdrop meta и yield chasers, готовых к smart contract risk на молодых платформах. Не blue-chip DeFi — due diligence обязателен.",
+    "facts": [
+      "Yield aggregator apps 2024–2025: десятки «oro/gold» брендов конкурировали за wallet connect — retention решает реальный APR, не referral.",
+      "Points + yield combo: пользователи часто не различают organic yield и inflationary token rewards.",
+      "Partner protocol risk: если underlying vault compromised, UI GetOro не защитит депозит."
+    ],
+    "tips": [
+      "Сверяй адрес контракта vault с официальным Discord/Twitter партнёра — не только с UI приложения."
+    ],
+    "warnings": [
+      "Высокий displayed APR часто = emissions — учитывай dilution и unlock schedule токена."
+    ]
+  },
+  "gigaverse": {
+    "short": "On-chain RPG Gigaverse — dungeon crawler с NFT-персонажами и прогрессом в экосистеме Abstract/Ethereum.",
+    "long": "Gigaverse (gigaverse.io) — crypto-native игра в жанре dungeon RPG: mint персонажей, прохождение подземелий, on-chain loot и сезонные ивенты.",
+    "tagline": "Gigaverse — подземелья, loot и on-chain прогресс.",
+    "highlight": "Gigaverse строит sticky gameplay loop: персонажи, gear, dungeon runs и leaderboard seasons на gigaverse.io. Интеграции с L2 вроде Abstract снижают gas для casual sessions. Модель «игра → NFT → secondary market» знакома по Axie era, но команда делает упор на fun-first. Для геймеров Web3 и коллекционеров NFT. Следи за floor price персонажей и utility в новых seasons — без utility NFT быстро обесцениваются.",
+    "facts": [
+      "Abstract gaming wave 2024–2025: Gigaverse среди первых titles на chain — конкуренция с Parallel, Pirate Nation за mindshare.",
+      "Dungeon RPG on-chain: gas cost per run matters — выбор L2 определяет, playable ли игра для mass market.",
+      "Season resets и power creep — типичная модель live-service crypto games; early adopters иногда теряют edge после rebalance."
+    ],
+    "tips": [
+      "Перед mint персонажа проверь secondary floor и active player count — пустой dungeon = мёртвая игра."
+    ],
+    "warnings": [
+      "Игровые NFT волатильны — не покупай gear на пике season hype без понимания post-season utility."
+    ]
+  },
+  "glacier": {
+    "short": "Modular data layer Glacier — verifiable storage и indexing для AI и DePIN на glacier.io.",
+    "long": "Glacier Network — инфраструктура данных для Web3 и AI: decentralized indexing, verifiable storage и data availability для dApps и ML pipelines.",
+    "tagline": "Glacier — data layer для AI × Web3.",
+    "highlight": "Glacier.io позиционируется на пересечении AI training data и blockchain verifiability: провайдеры хранят и индексируют datasets, клиенты получают proofs integrity. Конкурирует с Filecoin, Arweave, Celestia-adjacent narratives в data availability. Testnet campaigns и node programs для early operators. Для dev teams, которым нужен trustless data pipeline, и DePIN farmers с storage capacity. Revenue model ещё формируется — points season ≠ sustainable business.",
+    "facts": [
+      "AI data licensing 2024: Glacier и аналоги пытались monetize «consented datasets» — legal framework отстаёт от crypto speed.",
+      "Modular DA stack: data layers multiply — победят те, у кого реальные платящие AI-клиенты, а не счётчик нод.",
+      "Storage DePIN history: Sia/Storj decades of «replace AWS» — розница всё ещё предпочитает S3 для production."
+    ],
+    "tips": [
+      "Операторам нод: проверь bandwidth и storage SLA в docs — слабое железо не квалифицируется на rewards."
+    ],
+    "warnings": [
+      "Data layer tokens часто опережают mainnet utility — не вкладывайся в железо только ради points."
+    ]
+  },
+  "glob": {
+    "short": "Shaga GLOB — DePIN cloud gaming на glob.shaga.xyz: раздавай compute и играй в distributed game streaming.",
+    "long": "Glob (Shaga) — decentralized cloud gaming network: node operators предоставляют GPU для streaming, игроки получают low-latency sessions через P2P/edge routing.",
+    "tagline": "Shaga GLOB — cloud gaming без центрального DC.",
+    "highlight": "Glob.shaga.xyz — gaming-focused DePIN от Shaga: операторы запускают nodes с GPU, игроки подключаются к sessions без классического Stadia-style central DC. Latency и quality зависят от geographic distribution nodes — ранние сети patchy. Points и referral programs привлекли фармеров; реальный тест — тянет ли AAA-titles стабильно. Для любопытных геймеров и владельцев GPU с idle capacity. Privacy: gaming traffic через third-party nodes — читай ToS.",
+    "facts": [
+      "Cloud gaming DePIN 2024: Shaga, Aethir, LiquidSky — «Netflix for games on blockchain» на каждом слайде.",
+      "Latency убивает cloud gaming: decentralized nodes без dense coverage проигрывают GeForce NOW в metro areas.",
+      "GPU DePIN overlap: один RTX 4090 фармят на io.net, Render, Shaga — double-dipping может нарушать ToS."
+    ],
+    "tips": [
+      "Операторам нод: измерь upload bandwidth и ping — cloud gaming требует stable low-latency uplink."
+    ],
+    "warnings": [
+      "Ранний DePIN gaming — sessions могут обрываться; не заменяет локальный gaming для competitive play."
+    ]
+  },
+  "gobob": {
+    "short": "BOB (Build on Bitcoin) — hybrid L2 на gobob.xyz: Ethereum programmability с Bitcoin security narrative.",
+    "long": "BOB — rollup/hybrid chain, соединяющий Bitcoin liquidity и Ethereum smart contract ecosystem. Мосты, DeFi и BTC-backed apps на gobob.xyz.",
+    "tagline": "BOB hybrid L2 — Build on Bitcoin.",
+    "highlight": "Gobob.xyz продвигает «Bitcoin Renaissance»: BTC не только store of value, но и collateral/programmable layer через BOB hybrid design. Ecosystem apps, bridge from Bitcoin, EVM-compatible execution. Конкурирует с Stacks, Merlin, Botanix за BTC L2 mindshare. Early bridge risk и wrapped BTC assumptions — стандартные предупреждения. Для BTC holders, желающих DeFi без полного exit в alt-L1, и builders on Bitcoin narrative.",
+    "facts": [
+      "BTC L2 gold rush 2024–2025: BOB, Merlin, B² — десятки chain заявляют «real Bitcoin DeFi» до доказательства TVL.",
+      "Wrapped BTC bridge history: каждый hack учит одному — сверяй custodian и audit моста перед крупным transfer.",
+      "Hybrid L2 marketing vs security model: пользователи часто не читают, native ли BTC on L2 или IOU."
+    ],
+    "tips": [
+      "Перед bridge сверь official bridge contract address — BTC L2 phishing sites множатся каждый квартал."
+    ],
+    "warnings": [
+      "Bridge и wrapped BTC — elevated smart contract risk; не держи life savings в L2 BTC IOUs."
+    ]
+  },
+  "godaylight": {
+    "short": "Daylight onchain identity — godaylight.com связывает apps, rewards и credentials в единый wallet layer.",
+    "long": "Daylight — платформа onchain identity и rewards: пользователи собирают credentials, участвуют в campaigns и подключают apps через единый профиль на godaylight.com.",
+    "tagline": "Daylight — onchain identity и rewards hub.",
+    "highlight": "Godaylight.com строит «operating system for onchain life»: подключи кошелёk, собирай badges/credentials, получай rewards от partner apps. Пересекается с social graph и loyalty narratives — не pure DeFi. Energy и sustainability angles в branding привлекают ESG-curious users. Ранняя стадия — campaigns и points; long-term value в network effects между apps. Для power users, собирающих onchain reputation, и apps, ищущих verified audience.",
+    "facts": [
+      "Onchain identity 2024: Daylight, Galxe, Passport stacks overlap — усталость от десятого «connect wallet for badge».",
+      "Rewards without liquidity: points от identity apps редко конвертируются в meaningful token value at TGE.",
+      "Partner app churn: если партнёры уходят, credential graph теряет utility для end users."
+    ],
+    "tips": [
+      "Разделяй кошелёк для identity farming и основной savings — sybil и partner leaks случаются."
+    ],
+    "warnings": [
+      "Identity platforms агрегируют wallet history — privacy trade-off vs rewards."
+    ]
+  },
+  "gokite": {
+    "short": "Testnet Kite AI на testnet.gokite.ai — AI-native blockchain для ранних пользователей и разработчиков.",
+    "long": "GoKite / Kite AI — L1 с фокусом на AI workloads и on-chain inference. Testnet для транзакций, faucet и developer onboarding.",
+    "tagline": "Kite AI testnet — blockchain для AI-native apps.",
+    "highlight": "Testnet.gokite.ai — точка входа в AI × blockchain meta: faucet tokens, deploy contracts, возможные quests за on-chain activity. Kite позиционируется как chain, оптимизированная под AI agent transactions и model-related primitives. Конкуренция с GenLayer, Ritual, Sentient за тот же нарратив. Gas из faucet бесплатный, но время фarmera — реальная цена. Проверяй официальные каналы — testnet phishing UI распространён.",
+    "facts": [
+      "AI L1 testnet season 2024–2025: Kite среди десятков chains hunting «100k active wallets» metric.",
+      "Faucet bots drain testnet tokens — captcha и social auth стали standard anti-sybil.",
+      "Testnet contracts и addresses могут полностью измениться перед mainnet — не считай их permanent."
+    ],
+    "tips": [
+      "Веди отдельный testnet-кошелёк — не импортируй mainnet seed на непроверенных сайтах."
+    ],
+    "warnings": [
+      "Testnet activity ≠ guaranteed airdrop — infra L1 часто награждают devs, а не casual clickers."
+    ]
+  },
+  "gomble": {
+    "short": "Gomble Games — Web3 game studio на gomble.io с casual titles и tokenized rewards для mobile audience.",
+    "long": "Gomble — корейская/глобальная game studio в Web3: casual и mid-core игры, NFT integration, seasonal events на gomble.io.",
+    "tagline": "Gomble — casual Web3 games и seasonal events.",
+    "highlight": "Gomble.io выпускает mobile-friendly crypto games с token и NFT layers: SpaceKids и другие titles в portfolio. Модель studio — IP + community events + partner chain integrations. Для casual gamers из Telegram/Asia markets, привыкших к gacha и daily quests. Token economics зависят от DAU — без retention post-airdrop типичный dump. Следи за official announcements по TGE и NFT utility.",
+    "facts": [
+      "Korean Web3 gaming 2023–2024: studios like Gomble rode LINE/Kaia ecosystem waves — global reach still patchy.",
+      "Casual crypto games: 90% DAU drops after token launch week — studio survival needs non-crypto fun.",
+      "Multi-game studio risk: one hit title carries token; flopped sequel drags whole ecosystem."
+    ],
+    "tips": [
+      "Перед in-app purchases проверь, on-chain или off-chain assets — refund policy часто отсутствует."
+    ],
+    "warnings": [
+      "Game tokens highly speculative — относись к in-game earnings как к entertainment, не к income."
+    ]
+  },
+  "gonative": {
+    "short": "Native Protocol на gonative.cc — cross-chain liquidity и Bitcoin-native DeFi primitives.",
+    "long": "Native (gonative.cc) — протокол cross-chain liquidity с фокусом на Bitcoin и major assets: lending, swaps и unified liquidity across supported chains.",
+    "tagline": "Native — cross-chain liquidity с Bitcoin angle.",
+    "highlight": "Gonative.cc предлагает unified liquidity layer для assets across chains — особенно BTC and stables. Integrations с bridges и L2 partners. Для тех, кто ищет yield на BTC без custodial CEX, и трейдеров, нуждающихся в cross-chain depth. Smart contract and bridge risk compounded — каждая новая chain integration добавляет attack surface. Сравни rates с established lending (Aave, Compound) перед крупным депозитом.",
+    "facts": [
+      "BTC DeFi 2024: Native конкурирует с Lombard, Solv, Bedrock за «productive Bitcoin» narrative.",
+      "Cross-chain liquidity protocols face oracle and bridge correlation risk — один bridge hack cascades.",
+      "New protocols offer high APR to bootstrap TVL — sustainability question at month 6 post-TGE."
+    ],
+    "tips": [
+      "Выясни, какой bridge custody твоего BTC — Native UI может route через несколько wrappers."
+    ],
+    "warnings": [
+      "Не депозить весь BTC stack в unaudited cross-chain vault — диверсифицируй протоколы."
+    ]
+  },
+  "google": {
+    "short": "Google Cloud Web3 — Blockchain Node Engine и infra для Ethereum/Bitcoin nodes в enterprise cloud.",
+    "long": "Google Cloud предлагает managed blockchain infrastructure: Blockchain Node Engine для Ethereum и Bitcoin, BigQuery crypto datasets, partnerships с Web3 projects.",
+    "tagline": "Google Cloud — enterprise Web3 node infrastructure.",
+    "highlight": "Несмотря на generic slug в каталоге, Google Cloud — ключевой TradFi-cloud player в Web3 infra: managed nodes без self-hosting, SLA для institutions, integrations с exchanges and analytics. Не consumer wallet или DEX — B2B layer. Разработчики и institutions используют для reliable RPC, compliance-friendly setup и data pipelines. Pricing enterprise-grade — не замена бесплатным public RPC для retail degens.",
+    "facts": [
+      "Google Blockchain Node Engine launch 2023: Big Tech legitimizes «run your own node without DevOps» for banks.",
+      "BigQuery public crypto datasets — researchers и chain analytics firms строят на Google pipes daily.",
+      "Cloud concentration irony: decentralization ethos vs AWS/GCP dependency для majority dApp backends."
+    ],
+    "tips": [
+      "Для production dApps сравни GCP node pricing с Alchemy/Infura — managed services differ on rate limits."
+    ],
+    "warnings": [
+      "Enterprise cloud ≠ decentralized — jurisdictional shutdown risk для sanctioned regions."
+    ]
+  },
+  "gpu": {
+    "short": "GPU.net — DePIN marketplace GPU compute для AI training, rendering и Web3 workloads.",
+    "long": "GPU.net — decentralized network GPU providers: rent compute for ML, rendering, gaming and blockchain validation tasks.",
+    "tagline": "GPU.net — decentralized GPU marketplace.",
+    "highlight": "Gpu.net соединяет supply (GPU owners) и demand (AI startups, miners, render farms). Token incentives bootstrap network; real sustainability needs paying customers vs points farmers. Конкурирует с io.net, Akash, Render в crowded DePIN-GPU sector. Providers check hardware whitelist, uptime SLAs, payout in native token vs stable. Buyers compare latency, reliability and price vs AWS/GCP — DePIN wins on margin sometimes, loses on support.",
+    "facts": [
+      "GPU.net token launch 2024 amid io.net hype — sector TVL and token prices highly correlated to AI narrative news cycle.",
+      "Consumer GPU farming: electricity cost often exceeds token rewards after halving hype — spreadsheet before rig.",
+      "Double-farming same GPU across multiple DePIN apps may violate ToS on all platforms."
+    ],
+    "tips": [
+      "Провайдерам: мониторь GPU temperature и power draw — 24/7 farming сокращает lifespan железа."
+    ],
+    "warnings": [
+      "Token-denominated payouts volatile — считай breakeven в USD, не по token ATH."
+    ]
+  },
+  "gradient": {
+    "short": "Gradient Network DePIN — app.gradient.network: edge nodes через browser extension для distributed AI compute.",
+    "long": "Gradient — DePIN network где users run lightweight nodes (often browser extension) contributing compute/bandwidth for AI and Web3 infrastructure.",
+    "tagline": "Gradient — edge nodes в browser для DePIN.",
+    "highlight": "App.gradient.network exploded in referral season: install extension, stay online, earn Gradient points. Model similar to Grass — passive participation narrative. Enterprise demand for edge compute still proving; farmers dominate early metrics. Multi-tier referral boosted growth; sustainability depends on B2B contracts. Для тех, кто готов делиться browser resources — читай privacy policy carefully.",
+    "facts": [
+      "Browser DePIN 2024: Gradient and Grass led «install extension get rich» meme — antivirus vendors flagged some extensions.",
+      "Referral MLM dynamics: top referrers capture disproportionate points — retail late joiners get crumbs.",
+      "Extension permissions: broad host access = security risk if team compromised or sold."
+    ],
+    "tips": [
+      "Запускай Gradient в отдельном browser profile — limit exposure logged-in sessions."
+    ],
+    "warnings": [
+      "Browser extensions с network access — uninstall если проект замолчал или team anonymous."
+    ]
+  },
+  "group": {
+    "short": "Mantle Group hub на group.mantle.xyz — community, governance и social layer экосистемы Mantle Network.",
+    "long": "Group.mantle.xyz — официальный community hub Mantle: discussions, events, ecosystem discovery и coordination для MNT holders и builders.",
+    "tagline": "Mantle Group — community hub L2 экосистемы.",
+    "highlight": "Mantle Group на group.mantle.xyz собирает участников экосystemы Mantle: форумы, кампании, ссылки на dApps. Это не протокол, а social/coordination layer для Mantle L2 (наследие BitDAO). Удобно следить за grants, hackathons и governance MNT. Сверяй внешние ссылки — community hubs часто отстают после ухода партнёров.",
+    "facts": [
+      "Mantle rebrand from BitDAO L2 2023: community platforms rebuilt to match new identity — old links still confuse users.",
+      "L2 community hubs compete with Discord for attention — on-chain reputation integrations still immature.",
+      "MNT incentives for community participation often front-load marketing, taper after TVL milestones."
+    ],
+    "tips": [
+      "Сверяй campaign links с официальным Mantle Twitter перед подключением кошелька."
+    ],
+    "warnings": [
+      "Ссылки community-сайта — не endorsement; каждый dApp несёт свой smart contract risk."
+    ]
+  },
+  "grvt": {
+    "short": "GRVT hybrid exchange — grvt.io с zk infrastructure: CEX-grade UX и self-custody options для perps и spot.",
+    "long": "GRVT (Gravity) — hybrid crypto exchange combining off-chain matching with on-chain settlement and zk proofs. Perpetuals, spot and institutional features on grvt.io.",
+    "tagline": "GRVT — hybrid exchange с zk settlement.",
+    "highlight": "Grvt.io для трейдеров, которым нужна скорость уровня Binance с optional self-custody и proof of reserves через zk stack. Гибридная модель: matching off-chain, balances verifiable on-chain. Конкурирует с dYdX v4, Vertex, Hyperliquid. Token и points привлекли pro и retail flow. KYC tiers для высоких лимитов — читай geo-ограничения. Smart contract risk ниже чем у pure on-chain CLOB, но trust к оператору остаётся.",
+    "facts": [
+      "Hybrid exchange wave 2024: GRVT, Hyperliquid, EdgeX fought for perp volume after FTX — trust UX mattered as much as fees.",
+      "Zk proof marketing: not all users verify proofs — «zk-backed» becomes label without user-facing verification tools.",
+      "Points seasons on exchanges: wash trading inflates leaderboard — teams deploy sybil detection before TGE."
+    ],
+    "tips": [
+      "Начни с небольшого депозита и проверь latency вывода — hybrid exchanges различаются по on-chain settlement."
+    ],
+    "warnings": [
+      "Exchange tokens и points спекулятивны — trading rewards ≠ profit, если убытки больше rebates."
+    ]
+  },
+  "gte": {
+    "short": "GTE DEX на gte.xyz — native trading на MegaETH и high-performance L2 ecosystem с on-chain order book narrative.",
+    "long": "GTE — decentralized exchange tied to MegaETH/high-speed L2 ecosystem: swaps, liquidity and trading primitives on gte.xyz.",
+    "tagline": "GTE — native DEX для speed-focused L2.",
+    "highlight": "Gte.xyz — native liquidity layer для performance L2 (MegaETH alliance): low latency trading, on-chain order book или advanced AMM. Early TVL на incentives и hype partner chain. Для degens уже на target L2 с airdrop farming — не cross-chain hub. Тонкая ликвидность на launch pairs — slippage и IL elevated. Следи за audit status и связью команды с MegaETH.",
+    "facts": [
+      "MegaETH ecosystem DEX race 2024–2025: GTE launches alongside dozen «native exchange» brands — most TVL is mercenary.",
+      "Performance L2 DEX marketing emphasizes latency — retail swappers still care about depth, not milliseconds.",
+      "Incentive farming exit: TVL -80% within weeks of emissions drop — pattern repeated on Blast, Mode, etc."
+    ],
+    "tips": [
+      "Сравни routing с aggregators — native DEX редко даёт лучшую цену на thin pairs."
+    ],
+    "warnings": [
+      "Неаудированные launch contracts — малый size до community audit или time-tested deployment."
+    ]
+  },
+  "halliday": {
+    "short": "Halliday payments — halliday.xyz unified checkout и cross-chain payments API для games и apps.",
+    "long": "Halliday — payments infrastructure для Web3: embeddable checkout, multi-asset payments, cross-chain routing for games and consumer apps.",
+    "tagline": "Halliday — cross-chain payments для apps и games.",
+    "highlight": "Halliday.xyz упрощает «pay with any token» для разработчиков: API и widgets прячут bridges и swaps за единым checkout UX. Целевая аудитория — game studios и apps, теряющие users на wallet friction. B2B infra, не consumer wallet. Интеграции с major chains и stables; fees и settlement зависят от routing. Пользователи чаще взаимодействуют через partner apps, не напрямую с halliday.xyz.",
+    "facts": [
+      "Web3 payments infra 2024: Halliday, Crossmint, Thirdweb payments — fight for default embed in Unity/Unreal plugins.",
+      "Checkout abstraction hides bridge risk — user may not know asset wrapped during payment flow.",
+      "Game studio adoption: studios want fiat-like UX — crypto-native checkout still <5% of mobile game revenue."
+    ],
+    "tips": [
+      "Разработчикам: протестируй checkout на testnet с малыми суммами на всех целевых chains перед launch."
+    ],
+    "warnings": [
+      "Сбой embedded bridge блокирует платежи — следи за status page Halliday при congestion."
+    ]
+  },
+  "hamsterkombatgame": {
+    "short": "Hamster Kombat — Telegram tap-to-earn игра на hamsterkombatgame.io с HMSTR token и миллионами пользователей.",
+    "long": "Hamster Kombat — viral Telegram mini-app: tap hamster, upgrade exchange CEO stats, earn in-game coins convertible to HMSTR token.",
+    "tagline": "Hamster Kombat — Telegram tap game и HMSTR.",
+    "highlight": "Hamsterkombatgame.io rode Telegram Open Network wave 2024: hundreds of millions of taps, referral trees, daily cipher quests. Model «Notcoin clone» — massive user base, contentious token distribution. TON ecosystem beneficiary; users farmed via bots drawing team anti-cheat. Post-TGE price action typical for tap games — peak hype, long decline. Для casual Telegram users; serious investors treat as high-risk meme exposure.",
+    "facts": [
+      "Hamster Kombat claimed 300M+ players pre-TGE — one of largest Telegram crypto apps ever; conversion to on-chain active users far lower.",
+      "Bot farming forced team to disqualify accounts — «fair drop» debates dominated TON community for weeks.",
+      "Tap-to-earn graveyard: Notcoin exception, most clones token near zero within months of launch."
+    ],
+    "tips": [
+      "При claim HMSTR используй только официальные Telegram bot links — scam claim sites пикуют на TGE."
+    ],
+    "warnings": [
+      "Meme game tokens крайне волатильны — не покупай HMSTR на деньги, которые нельзя потерять."
+    ]
+  },
+  "hana": {
+    "short": "Hana Network — hana.network privacy payments и modular chain для confidential transactions.",
+    "long": "Hana — blockchain network focused on privacy-preserving payments and modular architecture for apps needing confidential state.",
+    "tagline": "Hana — privacy-first payments network.",
+    "highlight": "Hana.network builds privacy payment rails — hiding amounts/recipients where design allows while maintaining compliance hooks. Testnet and early apps for remittance and consumer payment use cases. Конкурирует с Zcash ecosystem apps, Aztec consumer layer, Railgun integrations. Regulatory scrutiny on privacy chains — users should understand jurisdiction. Для privacy-conscious users и devs building confidential payment flows.",
+    "facts": [
+      "Privacy chain regulatory pressure 2024: EU AML rules push exchanges to delist privacy coins — Hana must navigate compliance story.",
+      "Modular privacy: teams split compliance module from core privacy — design still evolving globally.",
+      "Testnet privacy chains attract both legitimate users and laundering concerns — reputation risk for early adopters."
+    ],
+    "tips": [
+      "Privacy features только с legal understanding в твоей стране — not all jurisdictions allow shielded txs."
+    ],
+    "warnings": [
+      "Privacy tech ≠ immunity from law enforcement — on/off ramps are traceable."
+    ]
+  },
+  "helioschain": {
+    "short": "Helios Chain app.helioschain.network — L1/blockchain platform с testnet и ecosystem dApps для early users.",
+    "long": "Helios Chain — blockchain project с app portal на app.helioschain.network: wallet connect, faucet, ecosystem apps и community campaigns.",
+    "tagline": "Helios Chain — portal новой L1 экосystemы.",
+    "highlight": "App.helioschain.network serves as dashboard for Helios ecosystem: on-chain activity tracking, testnet tasks, links to native dApps. Typical new L1 GTM — attract wallets before mainnet maturity. Farmers accumulate txs for potential retro rewards; developers deploy test contracts. Сверяй official domains — Helios common name spawns clones. Gas from faucet; real cost is time and opsec on wallet hygiene.",
+    "facts": [
+      "New L1 naming collision: «Helios» used by multiple unrelated chains — always verify chain ID and official socials.",
+      "Testnet portal metrics inflated by sybil bots — teams tighten proof-of-human over time.",
+      "Ecosystem app quality varies — early L1 dApps often unaudited forks."
+    ],
+    "tips": [
+      "Документируй on-chain activity со screenshots и tx hashes — some retro programs require manual proof."
+    ],
+    "warnings": [
+      "Не bridge mainnet assets в unverified Helios contracts — testnet only until official mainnet bridge."
+    ]
+  },
+  "hemi": {
+    "short": "Hemi Network — hemi.xyz Bitcoin + Ethereum programmability: modular L2 с BTC and EVM interoperability.",
+    "long": "Hemi — network bridging Bitcoin and Ethereum worlds: programmability, cross-chain messaging and unified security model on hemi.xyz.",
+    "tagline": "Hemi — Bitcoin meets Ethereum programmability.",
+    "highlight": "Hemi.xyz promotes dual-stack design: tap Bitcoin liquidity and security narrative while enabling EVM-compatible apps. Portal for testnet/mainnet activities, staking, and ecosystem dApps. Part of crowded BTC L2 / hybrid chain sector post-Ordinals boom. Bridge risk and wrapped asset assumptions standard. Points and node programs for early participants. Для BTC maxis exploring DeFi и EVM devs targeting Bitcoin holders.",
+    "facts": [
+      "Hemi raised from tier VCs in BTC L2 wave 2024 — sector funding outpaced actual bridged BTC volume.",
+      "Bitcoin renaissance marketing: dozens of chains claim «first real BTC DeFi» — differentiation is tech, not slogans.",
+      "Modular BTC L2 design debates: purists reject any pegged BTC on sidechains."
+    ],
+    "tips": [
+      "Сравни Hemi bridge design с Stacks/Merlin — understand custodian model before deposit."
+    ],
+    "warnings": [
+      "Wrapped BTC on new L2 — smart contract risk; start with minimum test amount."
+    ]
+  },
+  "heyelsa": {
+    "short": "Hey Elsa AI — app.heyelsa.ai crypto assistant для swaps, portfolio и DeFi actions через natural language.",
+    "long": "Elsa — AI-powered crypto copilot: chat interface для executing swaps, bridging, and portfolio questions across supported chains.",
+    "tagline": "Elsa AI — DeFi через natural language chat.",
+    "highlight": "App.heyelsa.ai: опиши intent («swap ETH to USDC on Base») — AI маршрутизирует в DEX/bridge integrations. Снижает UX friction для новичков; power users сверяют txs вручную перед sign. API keys и wallet connect — стандартная Web3 security. Конкурирует с Coinbase AgentKit и другими AI wallets. Риск misinterpretation AI — wrong chain или token при ambiguous prompt. Всегда review transaction preview в кошельке.",
+    "facts": [
+      "AI crypto assistants 2024–2025: Elsa, HeyAnon, Bankr — race to default «ChatGPT for on-chain» before reliability catches up.",
+      "LLM hallucination on token addresses caused user losses — leading apps add confirmation steps and address books.",
+      "Wallet connect to AI app: malicious update could swap recipient — verify app signature and domain."
+    ],
+    "tips": [
+      "Дважды сверь token contract address, когда AI предлагает obscure assets — scam tokens копируют имена."
+    ],
+    "warnings": [
+      "Никогда не вставляй seed phrase в AI chat — Elsa и legit apps никогда не просят её."
+    ]
+  },
+  "hibachi": {
+    "short": "Hibachi perp DEX — hibachi.xyz privacy-preserving derivatives trading с on-chain settlement.",
+    "long": "Hibachi — decentralized perpetuals exchange emphasizing privacy: trade perps with reduced on-chain footprint and competitive fees on hibachi.xyz.",
+    "tagline": "Hibachi — privacy perps DEX.",
+    "highlight": "Hibachi.xyz enters privacy × perps niche: traders wanting leverage without full position transparency on public mempool. Architecture may use encryption or delayed disclosure — read docs for trust model. Конкурирует с dYdX, Hyperliquid, RabbitX. Liquidity bootstrapped via incentives; early markets may have wide spreads. Для experienced perp traders comfortable with smart contract and oracle risks plus privacy trade-offs.",
+    "facts": [
+      "Privacy perps 2024: niche after regulators targeted mixers — exchanges balance privacy features with compliance.",
+      "Perp DEX wars: new entrants offer points — professional flow stays where liquidity deepest.",
+      "Oracle manipulation on low-liquidity perp markets — classic exploit vector for new DEXs."
+    ],
+    "tips": [
+      "Начни с минимального leverage на новом market — проверь поведение liquidation engine."
+    ],
+    "warnings": [
+      "Privacy features могут ограничить recourse в disputes — разберись с resolution process перед size."
+    ]
+  },
+  "huddle01": {
+    "short": "Huddle01 — huddle01.com decentralized video meetings и real-time comms infra для Web3 teams.",
+    "long": "Huddle01 — Web3-native communication platform: video calls, streaming, and DePIN-powered RTC infrastructure for dApps and communities.",
+    "tagline": "Huddle01 — Web3 video calls и RTC infra.",
+    "highlight": "Huddle01.com — Zoom-alternative с wallet login, token gating для комнат и decentralized edge nodes для media routing. DePIN angle: node operators делятся bandwidth за rewards. Используют DAO calls, NFT communities, hackathons. Качество сравнимо с Web2 для малых комнат; крупные ивенты зависят от распределения нод. Для remote Web3 teams с native crypto integrations в meetings.",
+    "facts": [
+      "Web3 Zoom alternatives 2023–2024: Huddle01, Meet with Wallet — adoption spikes during bull, drops in bear.",
+      "DePIN RTC: latency-sensitive — decentralized routing harder than storage DePIN.",
+      "Token-gated meetings leak when share links public — opssec still user responsibility."
+    ],
+    "tips": [
+      "Для sensitive calls используй unique room links и отключай запись, если не нужна."
+    ],
+    "warnings": [
+      "Сверяй домен huddle01.com — fake meeting links ежедневно в Discord phishing."
+    ]
+  },
+  "humanity": {
+    "short": "Humanity Protocol — humanity.org proof-of-humanity identity без централизованного KYC monopoly.",
+    "long": "Humanity Protocol — decentralized identity network verifying unique humans via biometrics/palm scan and on-chain credentials on humanity.org.",
+    "tagline": "Humanity Protocol — proof of personhood on-chain.",
+    "highlight": "Humanity.org решает sybil problem для airdrops и UBI: один раз подтверди человека — portable credential across apps. Palm scan и privacy-preserving proofs — спорный biometrics trade-off. Конкурирует с Worldcoin, Gitcoin Passport, Civic. Всплеск signup в airdrop seasons; long-term value зависит от integrations, принимающих Humanity credential. Читай data retention policy — biometrics чувствительны.",
+    "facts": [
+      "Proof of personhood wars 2024: Humanity vs Worldcoin — orb vs palm scan optics dominated headlines.",
+      "Airdrop farmers hate PoP until it excludes their sybil farms — then they hate exclusion.",
+      "Biometric data breach risk: centralized storage of scans = honeypot — decentralization claims need technical audit."
+    ],
+    "tips": [
+      "Используй только официальное Humanity app — fake verification apps крадут biometrics."
+    ],
+    "warnings": [
+      "Biometric identity необратима при leak — оцени privacy policy перед scan."
+    ]
+  },
+  "hyli": {
+    "short": "Hyli — hyli.org modular blockchain для provable apps и efficient on-chain/off-chain execution.",
+    "long": "Hyli (formerly Hylé) — L1 focused on provable applications: developers write apps with native proof generation, chain verifies efficiently.",
+    "tagline": "Hyli — blockchain для provable applications.",
+    "highlight": "Hyli.org — infra, где apps natively produce proofs: дешевле verifiable computation vs generic EVM loops. Цели — games, finance, identity с scalable verification. Testnet для developers; narrative пересекается с ZK app chains и app-specific rollups. Ранняя экосystemа — grants и hackathons для builders. Для разработчиков provable app paradigm, не retail trading.",
+    "facts": [
+      "Hyli rebrand from Hylé 2024: name change confused early followers — verify docs on hyli.org only.",
+      "Provable apps meta competes with Cairo/Starknet, Risc Zero app chains — developer mindshare battle.",
+      "New L1 without consumer app: airdrop farmers deploy hello-world contracts — teams filter sybil via complexity gates."
+    ],
+    "tips": [
+      "Разработчикам: начни с official Hyli tutorials — proof patterns отличаются от standard Solidity."
+    ],
+    "warnings": [
+      "Ранние L1 contracts неаудированы — без production funds на experimental deployments."
+    ]
+  },
+  "hylo": {
+    "short": "Hylo на Solana — hylo.so synthetic dollar и leveraged strategies для advanced DeFi users.",
+    "long": "Hylo — Solana DeFi protocol offering hyUSD stablecoin and leverage products: mint, stake, and manage leveraged exposure on hylo.so/leverage.",
+    "tagline": "Hylo — synthetic dollar и leverage на Solana.",
+    "highlight": "Hylo.so provides Solana-native stable and leverage primitives — hyUSD backed by protocol design, leverage module for amplified strategies. Конкурирует с Kamino, Marginfi, Sanctum in Solana DeFi stack. Advanced users only: liquidation, depeg, and oracle risks familiar from Maker/Reflexer playbooks adapted to Solana speed. High APY displays may reflect token emissions — parse organic yield.",
+    "facts": [
+      "Solana DeFi 2024 comeback: Hylo launched amid memecoin liquidity flood — stable protocols fight for trust after FTX.",
+      "Synthetic stables depeg history: UST lesson applies to any algo stable — monitor collateral ratio dashboards.",
+      "Leverage on fast chain: liquidations happen in seconds — keep health buffer wider than on Ethereum."
+    ],
+    "tips": [
+      "Следи за peg hyUSD на DEX — persistent depeg сигнализирует о collateral или confidence issues."
+    ],
+    "warnings": [
+      "Leveraged positions на Solana — congestion может задержать liquidation txs в stress events."
+    ]
+  },
+  "hyperbolic": {
+    "short": "Hyperbolic GPU cloud — app.hyperbolic.ai marketplace AI compute и GPU rental для training/inference.",
+    "long": "Hyperbolic — decentralized GPU cloud platform on app.hyperbolic.ai: rent GPUs for AI workloads or supply hardware to network.",
+    "tagline": "Hyperbolic — GPU cloud marketplace для AI.",
+    "highlight": "App.hyperbolic.ai joins DePIN-GPU cluster: researchers and startups rent H100/A100-class compute cheaper than hyperscalers when supply available. Providers stake hardware, earn token/points. Конкурирует с io.net, Lambda, CoreWeave retail narrative. Reliability and support below AWS — acceptable for batch jobs, risky for production SLA. Points seasons attract farmers; verify job completion and payout history before big hardware investment.",
+    "facts": [
+      "Hyperbolic naming sits in DePIN cluster with Gradient, Optimum — marketers love calculus terms for GPU brands.",
+      "H100 supply crunch 2023–2024: DePIN GPU networks promised access — waitlists still long for premium SKUs.",
+      "Crypto-paid compute: token price drop can make provider economics negative mid-contract."
+    ],
+    "tips": [
+      "Покупателям: benchmark small job перед month-long rental — performance varies по host."
+    ],
+    "warnings": [
+      "Провайдерам: читай slashing и uptime rules — один downtime event может обнулить недельный earn."
+    ]
+  },
+  "hyperlane": {
+    "short": "Hyperlane — hyperlane.xyz permissionless interoperability: cross-chain messaging для apps и token bridges.",
+    "long": "Hyperlane — modular interoperability protocol: any chain can permissionlessly connect, send messages and tokens via Hyperlane API on hyperlane.xyz.",
+    "tagline": "Hyperlane — permissionless cross-chain messaging.",
+    "highlight": "Hyperlane.xyz позволяет разработчикам подключать chains без ожидания official bridge partnerships — deploy Hyperlane modules, route messages, build multi-chain apps. Десятки rollups и apps post-2023. HYPER token и validator economics для securers. Пользователи через integrated dApps, не raw Hyperlane UI. Bridge risk на application layer — сверяй, какой Hyperlane route использует app.",
+    "facts": [
+      "Hyperlane raised from Variant, Galaxy — interoperability infra hot after multichain UX became bottleneck 2022–2024.",
+      "Permissionless connections mean malicious warp routes possible — apps must curate trusted routes.",
+      "Interoperability token launches 2025 crowded — value accrues to chains with real fee revenue, not message count alone."
+    ],
+    "tips": [
+      "Разработчикам: Hyperlane registry и audited route configs — не принимай default routes вслепую."
+    ],
+    "warnings": [
+      "Cross-chain messages необратимы при ошибке пользователя — дважды сверь destination chain и recipient."
+    ]
+  },
+  "ika": {
+    "short": "Ika claim portal — claim.ika.xyz для token distribution и onboarding в Sui cross-chain ecosystem.",
+    "long": "Ika — interoperability protocol on Sui ecosystem with claim portal at claim.ika.xyz for token allocations, rewards and network participation.",
+    "tagline": "Ika — Sui ecosystem interoperability и claims.",
+    "highlight": "Claim.ika.xyz — portal token claims и eligibility checks Ika network, типичный post-funding или pre-TGE portal. Ika — cross-chain infra в Sui и broader Move ecosystem. Подключи кошелёk, выполни tasks, claim allocations. Пик scam season на любом claim site — только official links из verified Ika/Sui socials. Для участников Sui ecosystem и interoperability narrative.",
+    "facts": [
+      "Sui ecosystem 2024: десятки claim portals — fake clones крадут signatures за часы после announcement.",
+      "Cross-chain на Move: Ika конкурирует с Wormhole, LayerZero — победит dev adoption.",
+      "Deadline claim давит на rushed txs — пользователи approve malicious contracts в спешке."
+    ],
+    "tips": [
+      "Закладка claim.ika.xyz только из official announcement — не кликай DM links."
+    ],
+    "warnings": [
+      "Claim portals просят только wallet connect — любой запрос seed phrase = scam."
+    ]
+  },
+  "incentiv": {
+    "short": "Incentiv Network — incentiv.net L1 с soulbound incentives и gamified on-chain economy.",
+    "long": "Incentiv — blockchain network designing tokenomics around soulbound tokens and behavioral incentives on incentiv.net.",
+    "tagline": "Incentiv — L1 с soulbound incentive design.",
+    "highlight": "Incentiv.net экспериментирует с non-transferable tokens и reward loops за on-chain actions — anti-sybil и pro-engagement design. Testnet campaigns награждают consistent behavior vs wash txs. Для исследователей tokenomics и фarmerов новых L1 narratives. Soulbound mechanics — ошибки permanent, unwanted SBT не продать. Roadmap governance и mainnet — типичный для новой chain.",
+    "facts": [
+      "Soulbound token hype 2022–2024: Incentiv builds chain-level SBT — UX friction high for normies.",
+      "Anti-sybil via SBT: farmers create one identity per person constraint — markets for verified accounts emerge illegally.",
+      "New L1 incentive design: game theory looks elegant in whitepaper, breaks under mercenary capital."
+    ],
+    "tips": [
+      "Читай, какие actions mint soulbound tokens — часть marks irreversible reputation."
+    ],
+    "warnings": [
+      "Experimental tokenomics — не блокируй значительный капитал на untested L1."
+    ]
+  },
+  "infinifi": {
+    "short": "InfiniFi — infinifi.xyz unified fixed yield protocol: стабильный доход через curated DeFi strategies.",
+    "long": "InfiniFi — DeFi protocol aggregating fixed-rate yield products: deposit stables or supported assets, receive predictable returns on infinifi.xyz.",
+    "tagline": "InfiniFi — fixed yield в одном протоколе.",
+    "highlight": "Infinifi.xyz упаковывает fixed yield strategies для уставших от variable lending rates: curated vaults, duration choices, прозрачные fees. Конкурирует с Pendle fixed side, Notional, Element. Smart contract risk underlying protocols compounded — InfiniFi wrapper layer. Fixed rate привлекателен при high variable rates; менее при падении base rates. Сверяй maturity dates и early exit penalties.",
+    "facts": [
+      "Fixed yield meta 2024: Pendle TVL billions — InfiniFi and peers fight for «set and forget stables» segment.",
+      "Fixed rate often achieved via derivatives — user may not see underlying counterparty risk.",
+      "Strategy curator failure: one bad underlying protocol drags entire fixed vault — diversification matters."
+    ],
+    "tips": [
+      "Сравни fixed APY с Pendle implied yield — рынок иногда misprices duration."
+    ],
+    "warnings": [
+      "Fixed yield ≠ guaranteed principal — остаются smart contract и counterparty risks."
+    ]
+  },
+  "infinityg": {
+    "short": "Infinity Ground — infinityg.ai AI × gaming platform: UGC, agents и on-chain game assets.",
+    "long": "Infinity Ground — platform combining AI agents, user-generated game content and Web3 ownership on infinityg.ai.",
+    "tagline": "Infinity Ground — AI gaming и UGC platform.",
+    "highlight": "Infinityg.ai — creator economy в играх: AI tools генерируют content, blockchain фиксирует ownership и rewards creators. Narrative пересекается с AI agent gaming и modular engines. Ранняя стадия — demos, waitlists, potential token/points. Для creators с AI game assets и crypto-native monetization. Качество AI output и retention platform не доказаны at scale.",
+    "facts": [
+      "AI UGC gaming 2024–2025: Roblox + AI mods everywhere — crypto layer добавляет ownership, но не всегда players.",
+      "Agent gaming hype: infinite NPC dialogue круто в demo — cost и moderation сложны at scale.",
+      "Creator platform token launches: 95% ниже launch за 90 days — creator earnings в token страдают."
+    ],
+    "tips": [
+      "Экспортируй и бэкапь created assets off-platform — ранние platforms закрываются без migration."
+    ],
+    "warnings": [
+      "UGC IP rights мутны с AI training — читай creator ToS перед commercial use."
+    ]
+  },
+  "initia": {
+    "short": "Initia — initia.xyz modular L1 «interwoven rollups»: app-specific chains с unified liquidity.",
+    "long": "Initia — blockchain platform for launching interwoven rollups: each app gets optimized chain while sharing Initia liquidity and security on initia.xyz.",
+    "tagline": "Initia — interwoven rollups и modular L1.",
+    "highlight": "Initia.xyz продвигает «interwoven rollups» — Minitias (app chains) на Initia L1 с native interoperability и shared liquidity. Testnet и builder programs привлекли Cosmos и modular blockchain developers. INIT token и ecosystem fund поддерживают deployments. Для devs app-specific chains без full L1 from scratch. Bridge assets только через official Initia bridge.",
+    "facts": [
+      "Initia raised $18M+ 2024 — modular L1 sector crowded с Celestia app chains, Cosmos SDK, Arbitrum Orbit.",
+      "Interwoven branding технически отличается — retail всё равно видит «ещё один L1 testnet».",
+      "Ecosystem rollup quality uneven — первые Minitias часто memecoin chains до serious apps."
+    ],
+    "tips": [
+      "Билдерам: Initia official SDK docs — rollup deployment ≠ single contract deploy."
+    ],
+    "warnings": [
+      "Bridge в новую Minitia — сверь chain ID; wrong network = funds in limbo."
+    ]
+  },
+  "inkonchain": {
+    "short": "Ink L2 — inkonchain.com Kraken-backed Ethereum L2 для DeFi и on-chain apps с CEX integration narrative.",
+    "long": "Ink — Layer 2 blockchain from Kraken ecosystem on inkonchain.com/apps: EVM-compatible, focused on trading and DeFi with exchange bridge advantages.",
+    "tagline": "Ink onchain — Kraken L2 для DeFi apps.",
+    "highlight": "Inkonchain.com — app directory Ink chain: DeFi, NFT, trading apps на Kraken-aligned L2. Нарратив: seamless path CEX → on-chain без friction. Optimism stack lineage типичен для exchange L2s. Early ecosystem incentives и Kraken user funnel. Для пользователей Kraken с self-custody DeFi и builders с exchange distribution. Стандартные L2 risks: bridge, sequencer downtime, early centralization.",
+    "facts": [
+      "Exchange L2 trend 2024: Ink рядом с Base (Coinbase), Scroll partners — CEXes строят on-chain moats.",
+      "Kraken regulatory reputation — Ink может face stricter compliance чем anonymous L2s.",
+      "App directory curated медленно — dead links часты первые месяцы после L2 launch."
+    ],
+    "tips": [
+      "Используй official Kraken/Ink bridge — third-party bridges добавляют лишний risk."
+    ],
+    "warnings": [
+      "Новый L2 sequencer centralization — следи за status page при high volatility."
+    ]
+  },
+  "intuition": {
+    "short": "Intuition Systems — intuition.systems decentralized knowledge graph и on-chain attestations для trust.",
+    "long": "Intuition — protocol for creating and querying decentralized attestations, identity signals and knowledge graph on intuition.systems.",
+    "tagline": "Intuition — on-chain knowledge graph и attestations.",
+    "highlight": "Intuition.systems — users и apps публикуют attestations о entities, skills, relationships: portable reputation для Web3 social и hiring. Конкурирует с EAS, Lens, Farcaster integrations. Early adopters mint и curate attestations; search UX evolving. Для builders trust layer без centralized databases. Spam attestations — сверяй reputation attester.",
+    "facts": [
+      "Attestation infra 2024: Intuition и EAS parallel — fragmentation standards hurts composability.",
+      "Knowledge graph on-chain: storage costs limit granularity — off-chain IPFS hybrid common.",
+      "Reputation markets: покупка attestations undermines graph — sybil resistance ongoing arms race."
+    ],
+    "tips": [
+      "Перед доверием attestation сверь stake и history attester — не все stamps равны."
+    ],
+    "warnings": [
+      "Public attestations permanent on-chain — не публикуй sensitive personal data."
+    ]
+  },
+  "io": {
+    "short": "io.net — decentralized GPU cluster для AI и ML: aggregate idle GPUs в on-demand cloud.",
+    "long": "Io.net — DePIN network aggregating GPU supply from data centers and consumers into scalable AI compute cluster on io.net.",
+    "tagline": "io.net — decentralized GPU cluster для AI.",
+    "highlight": "Io.net — DePIN flagship 2024: IO token, massive GPU count marketing, partnerships с AI startups. Workers deploy nodes, clients run training/inference jobs. Token volatility влияет на provider economics. Конкурирует с Akash, Render, AWS. Споры о real utilization vs registered GPUs в community. Для ML engineers с cheaper batch compute и GPU owners с idle hardware — с operational overhead.",
+    "facts": [
+      "Io.net TGE 2024: IO among largest DePIN launches — FDV swings двигали sector sentiment weekly.",
+      "Reported GPU count vs active jobs: skeptics highlight low utilization — team публикует dashboards.",
+      "Solana-based IO token — congestion редко влияет на compute jobs, но на payouts и staking."
+    ],
+    "tips": [
+      "Провайдерам: изолируй mining/GPU rental machines — io.net clients run arbitrary workloads."
+    ],
+    "warnings": [
+      "Произвольные compute jobs — security risk; dedicated hardware без personal data."
+    ]
+  },
+  "iopn": {
+    "short": "IOPn — iopn.io open internet protocol: decentralized identity и connectivity layer для Web3 apps.",
+    "long": "IOPn — blockchain protocol for decentralized identity, data ownership and open internet primitives on iopn.io.",
+    "tagline": "IOPn — open internet protocol on blockchain.",
+    "highlight": "Iopn.io строит self-sovereign identity и peer connectivity — apps без centralized gatekeepers. Testnet и developer grants для integrations. Narrative пересекается с ICP, ENS, Ceramic. Ранняя стадия — node operators и developers primary audience. Token и governance roadmap типичны для infra L1. Сверяй official IOPn channels — generic acronym attracts copycats.",
+    "facts": [
+      "Open internet protocol branding 2024: many projects claim «new internet» — differentiation requires shipped apps.",
+      "Identity L1 fatigue: users already have ENS, Lens handles — IOPn must prove incremental value.",
+      "Node operator incentives without demand — DePIN pattern repeats until enterprise pilots land."
+    ],
+    "tips": [
+      "Разработчикам: оцени IOPn SDK maturity vs established identity stacks перед migration."
+    ],
+    "warnings": [
+      "Ранние protocol upgrades могут ломать integrations — pin version в production apps."
+    ]
+  },
+  "irys": {
+    "short": "Irys portal — portal.irys.xyz permanent data storage (ex-Bundlr) для Arweave и multi-chain apps.",
+    "long": "Irys — decentralized data layer for permanent storage and programmable datachain; portal.irys.xyz for uploads, funding and developer tools.",
+    "tagline": "Irys — permanent storage и datachain portal.",
+    "highlight": "Portal.irys.xyz — вход для developers funding storage uploads в Arweave через Irys bundler: fast uploads, lazy settlement, multi-chain payment. Rebrand Bundlr → Irys consolidated datachain vision. NFT projects, social apps, archives с permanent data. Pay once store forever — upfront cost calculation essential. Для devs с immutable media/metadata.",
+    "facts": [
+      "Bundlr → Irys rebrand 2024: existing integrations updated — old docs still confuse developers.",
+      "Arweave permanent storage: pay once — but app frontends still need hosting elsewhere.",
+      "Irys datachain expands beyond Arweave bundling — watch network upgrades for pricing changes."
+    ],
+    "tips": [
+      "Оцени storage size перед upload — Arweave fees upfront; wrong file без refund."
+    ],
+    "warnings": [
+      "Permanent = permanent — не upload private keys или secrets в public storage."
+    ]
+  },
+  "ithaca": {
+    "short": "Ithaca Protocol — ithaca.xyz structured products и options DeFi от команды Opyn heritage.",
+    "long": "Ithaca — DeFi protocol for options and structured products: structured yield, hedging tools on ithaca.xyz from experienced derivatives team.",
+    "tagline": "Ithaca — options и structured DeFi products.",
+    "highlight": "Ithaca.xyz — institutional-grade options on-chain: structured products с yields и downside protection. Команда из Opyn — знает pitfalls DeFi derivatives. Для sophisticated DeFi users с Greeks, expiry, counterparty smart contract risk. Liquidity на exotic structures thin — exit до expiry может быть costly. Не для новичков — misconfigured positions теряют principal.",
+    "facts": [
+      "Opyn Squeeth era pioneers — Ithaca carries lessons from 2022 DeFi options blowups.",
+      "Structured products marketing hides complexity — retail often buys «high yield» without reading payoff diagram.",
+      "Options protocol exploits 2023–2024: oracle and liquidity pool attacks — audit history matters."
+    ],
+    "tips": [
+      "Читай payoff chart перед deposit — понимай max loss scenario."
+    ],
+    "warnings": [
+      "DeFi options без insurance — smart contract bug может обнулить structured position."
+    ]
+  },
+  "jiritsu": {
+    "short": "Jiritsu Network — jiritsu.network verifiable off-chain compute и oracles для RWA и payments.",
+    "long": "Jiritsu — infrastructure for verifiable off-chain data and computation: ZK/proof-based oracles for real-world assets and fintech on jiritsu.network.",
+    "tagline": "Jiritsu — verifiable compute для RWA.",
+    "highlight": "Jiritsu.network — RWA и payment providers с cryptographic proofs off-chain state: bank balances, invoices, identity checks. B2B infra, не consumer app. Partnerships с fintech и tokenization platforms. Конкурирует с Chainlink Functions, Pyth, custom ZK oracle stacks. Token и node programs для early securers. Long sales cycles — retail airdrop uncertain.",
+    "facts": [
+      "RWA oracle meta 2024–2025: Jiritsu, Chainlink, RedStone compete for tokenized treasury integrations.",
+      "Verifiable compute whitepapers abundant — production bank integrations scarce and NDA-shrouded.",
+      "Regulatory clarity on RWA oracles lag — proof of reserve ≠ legal ownership transfer."
+    ],
+    "tips": [
+      "Институциям: pilot с minimal value перед production RWA feed integration."
+    ],
+    "warnings": [
+      "Oracle failure в RWA misprices collateral — cascade liquidations возможны."
+    ]
+  },
+  "kadena": {
+    "short": "Kadena — kadena.io PoW L1 с Pact smart contracts; исторически enterprise-focused chain в трудном положении.",
+    "long": "Kadena — proof-of-work blockchain with Pact language, chainweb multi-chain architecture and enterprise partnerships on kadena.io.",
+    "tagline": "Kadena — PoW L1 и Pact smart contracts.",
+    "highlight": "Kadena.io когда-то продвигала enterprise-grade PoW с free gas через gas stations — KDA ecosystem проиграла EVM chains по developer adoption. 2024–2025 concerns о continuity — сверяй status перед investment. Chainweb architecture интересна technically; liquidity и dApp count упали с peak. Для legacy KDA holders и researchers — не default для new Web3 builds.",
+    "facts": [
+      "Kadena peak 2021–2022: KDA top-50 market cap — TVL and dev activity never matched hype.",
+      "Gas station model subsidized txs — unsustainable without treasury refill; economics strained in bear.",
+      "Pact language niche: no EVM compatibility — bridge to Ethereum ecosystem limited developer pool."
+    ],
+    "tips": [
+      "Перед любым действием с KDA сверь network status через official channels — ecosystem может быть degraded."
+    ],
+    "warnings": [
+      "Illiquid alt-L1 tokens — exit slippage extreme; не считай chain активно развивающейся без research."
+    ]
+  },
+  "kalshi": {
+    "short": "Kalshi — kalshi.com, регулируемая биржа prediction markets в США: ставки на события через CFTC-licensed exchange.",
+    "long": "Kalshi — биржа event contracts под надзором CFTC: yes/no markets на экономику, политику, погоду и другие события на kalshi.com.",
+    "tagline": "Kalshi — регулируемый prediction market США.",
+    "highlight": "Kalshi.com легально открывает prediction markets для пользователей из США — в отличие от офшорных crypto-платформ. Custody в USD, обязательный KYC, контракты сходятся к $0 или $1. Пересекается с нарративом Polymarket, но с TradFi compliance-слоем. Для резидентов США, которые хотят торговать событиями без crypto wallet friction. Не on-chain DeFi — риски централизованной биржи и geo-ограничения.",
+    "facts": [
+      "Kalshi CFTC approval 2020–2024: legal wins открыли эру US prediction markets до возвращения Polymarket в дискурс.",
+      "Election cycle 2024 дал record volume — Kalshi и Polymarket mainstreamed «ставки на политику» в медиа.",
+      "Regulated markets ограничивают leverage и типы событий — часть рынков Polymarket на Kalshi illegal."
+    ],
+    "tips": [
+      "Читай правила контракта про resolution source — спорные события обсуждают на форумах."
+    ],
+    "warnings": [
+      "Event contracts могут обнулиться — только risk capital; не investment advice."
+    ]
+  },
+  "kamino": {
+    "short": "Kamino Finance — swap.kamino.finance Solana DeFi hub: lending, liquidity vaults и automated strategies.",
+    "long": "Kamino — leading Solana DeFi protocol: CLMM liquidity, multiply strategies, lending markets and swap interface on swap.kamino.finance.",
+    "tagline": "Kamino — automated liquidity и lending на Solana.",
+    "highlight": "Kamino.finance became core Solana DeFi after FTX collapse recovery: auto-compounding vaults, leveraged LP, kmno governance token. Swap subdomain handles routing; main app for vaults and lending. High yields on volatile pairs = high IL and liquidation risk on multiply. Integrations with Jupiter, Sanctum, restaking narratives. Для experienced Solana DeFi users — monitor health factor on leveraged positions.",
+    "facts": [
+      "Kamino TVL billions peak 2024 Solana season — multiply vaults amplified both gains and liquidations in memecoin volatility.",
+      "KMNO token launch followed points season — farmers debated sybil rules and allocation fairness.",
+      "Solana congestion March 2024: liquidations failed to land — users lost more than expected in stress test."
+    ],
+    "tips": [
+      "На multiply vaults ставь alert на collateral ratio — Solana blocks fill fast в crashes."
+    ],
+    "warnings": [
+      "Automated strategies скрывают complexity — один oracle tick может trigger cascade liquidation."
+    ]
+  },
+  "katana-katana-network": {
+    "short": "Katana Network — katana.network DeFi chain от Sushi: yield, vaults и ecosystem apps на dedicated L2.",
+    "long": "Katana — DeFi-optimized blockchain by Sushi Labs on katana.network: native yield products, vaults and ecosystem dApps with Sushi brand distribution.",
+    "tagline": "Katana — DeFi chain от Sushi ecosystem.",
+    "highlight": "Katana.network launches as appchain/L2 style venue for Sushi ecosystem: concentrated liquidity, vault strategies, partner protocols migrating for incentives. Tied to Sushi tokenomics and treasury — cross-promotion from Sushi DEX user base. Early mercenary TVL from emissions typical. Для Sushi loyalists and yield farmers chasing new chain boosts. Bridge only via official Katana bridge; verify chain ID in wallet.",
+    "facts": [
+      "Sushi appchain narrative 2024–2025: Katana joins trend of DEX brands launching own chain — token value accrual debated.",
+      "Katana name collision with Ronin historical «Katana» — verify katana.network not unrelated project.",
+      "New chain vault APY mostly emissions — sustainable yield needs organic swap fees after incentives end."
+    ],
+    "tips": [
+      "Мости сначала test amount — на новых chains scams с wrong token address в первые недели."
+    ],
+    "warnings": [
+      "Mercenary capital уходит fast post-incentives — IL и token dump risk на LP pairs."
+    ]
+  },
+  "kerneldao": {
+    "short": "Kernel DAO / Kelp — kerneldao.com/kelp liquid restaking rsETH и DeFi yield на Ethereum LRT stack.",
+    "long": "Kernel DAO управляет протоколом Kelp на kerneldao.com/kelp: liquid restaking token rsETH, restaking на EigenLayer AVSs с DeFi composability.",
+    "tagline": "Kelp rsETH — liquid restaking от Kernel DAO.",
+    "highlight": "Kerneldao.com/kelp — портал liquid restaking Kelp DAO: стейкай ETH, получай rsETH для DeFi и restaking rewards с points. Конкурирует с Ether.fi, Renzo, Puffer в LRT-секторе post-EigenLayer. Restaking добавляет AVS slashing risk поверх Ethereum staking и smart contract layer. Points seasons разогнали TVL; post-TGE yield сжимается. Для держателей ETH, принимающих layered risk ради incremental yield.",
+    "facts": [
+      "LRT wars 2024: Kelp TVL billions peak — EigenLayer points meta гнала депозиты до snapshot rumors.",
+      "Restaking slashing пока theoretical для большинства AVSs — первый major slash пересчитает все LRT.",
+      "rsETH depeg в stress: March 2024 показал, что LRT не всегда 1:1 redeemable мгновенно."
+    ],
+    "tips": [
+      "Сравни rsETH exchange rate и redemption queue с ether.fi eETH — ликвидность differs по протоколам."
+    ],
+    "warnings": [
+      "Restaking stacks slashing risks — не считай LRT risk-free заменой ETH."
+    ]
+  }
+}

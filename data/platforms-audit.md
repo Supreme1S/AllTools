@@ -1,0 +1,121 @@
+# Platforms CSV — audit
+
+Input: /Users/aleksei/Desktop/platforms-official.csv + /Users/aleksei/Desktop/alltools/data/platforms-official.csv
+Output: /Users/aleksei/Desktop/alltools/data/platforms-official.csv
+
+## Summary
+- Rows: 1086
+- Valid referral URLs (after propagate): 124
+- Unique domains with ref: 62
+- Propagated to duplicate rows: 0
+- SKIP: 0
+- Imported to referrals.json: 62
+- Still empty (fill_referral=yes): 194
+
+## Imported domains
+- 365sms.org
+- academy.binance.com
+- accounts.binance.com
+- adspower-ru.com
+- adspower.net
+- afina.io
+- agentx-antidetect.com
+- app.aevo.xyz
+- app.ether.fi
+- app.extended.exchange
+- app.geelark.com
+- app.gmx.io
+- app.lighter.xyz
+- app.paradex.trade
+- app.sushi.com
+- arbitragescanner.io
+- asocks.com
+- bestchange.com
+- binance.com
+- bingx.com
+- bitget.com
+- bybit.com
+- combo.cards
+- cryptoquant.com
+- cursor.com
+- dolphin-anty.net
+- ether.fi
+- gate.com
+- gate.io
+- geelark.com
+- go.gologin.com
+- hydraproxy.com
+- incogniton.com
+- jup.ag
+- kucoin.com
+- launchpad.binance.com
+- macloud.ru
+- mexc.com
+- morelogin.com
+- octobrowser.net
+- octobrowser.org
+- okx.com
+- onlinesim.io
+- partner.bitget.com
+- partner.bybit.com
+- pro.edgex.exchange
+- proxy-store.com
+- proxy.market
+- proxyline.net
+- px6.me
+- replit.com
+- smspool.net
+- solcard.cc
+- standx.com
+- sushi.com
+- tradingview.com
+- ufo.hosting
+- undetectable.io
+- vdsina.ru
+- web3.bitget.com
+- webshare.io
+- zomro.com
+
+## Still need ref (TOP priority first)
+- HTX (huobi.com)
+- BackPack (backpack.exchange)
+- Hyperliquid (app.hyperliquid.xyz)
+- Kraken (kraken.com)
+- Coinbase Wallet (coinbase.com)
+- CoinW (coinw.com)
+- Arkham Exchange (arkm.com)
+- Ostium (app.ostium.com)
+- Drift Protocol (app.drift.trade)
+- dYdX (dydx.exchange)
+- Dydx (dydx.trade)
+- Polymarket (polymarket.com)
+- 1inch (1inch.com)
+- Matcha (matcha.xyz)
+- KyberSwap (kyberswap.com)
+- OpenOcean (openocean.finance)
+- Multi-Login (multilogin.com)
+- Kameleo (kameleo.io)
+- Hetzner (hetzner.com)
+- Hetzner (hetzner.cloud)
+- Aeza (aeza.net)
+- Contabo (contabo.com)
+- Linode (linode.com)
+- OVHCloud (ovhcloud.com)
+- Hostkey (hostkey.ru)
+- 4VPS (4vps.su)
+- Netcup (netcup.com)
+- Cloudzy (cloudzy.com)
+- ProxySeller (proxy-seller.com)
+- Proxys (proxys.io)
+- 5SIM (5sim.net)
+- Hero-sms (hero-sms.com)
+- Tiger SMS (tiger-sms.com)
+- TextVerified (textverified.com)
+- CinCin (cincin.cards)
+- Kripicard (kripicard.com)
+- KAST (kast.xyz)
+- Nansen (pro.nansen.ai)
+- App (app.nansen.ai)
+- Nansen (nansen.ai)
+
+... +154 more

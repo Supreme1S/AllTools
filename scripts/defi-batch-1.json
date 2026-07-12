@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "10kswap",
+    "name": "10kswap",
+    "domain": "10kswap.com"
+  },
+  {
+    "slug": "9inch",
+    "name": "9inch",
+    "domain": "app.9inch.io"
+  },
+  {
+    "slug": "aave",
+    "name": "AAVE",
+    "domain": "app.aave.com"
+  },
+  {
+    "slug": "abs",
+    "name": "Abs",
+    "domain": "bridge.abs.xyz"
+  },
+  {
+    "slug": "across-bridge",
+    "name": "Across Bridge",
+    "domain": "across.to"
+  },
+  {
+    "slug": "alcor",
+    "name": "Alcor",
+    "domain": "alcor.exchange"
+  },
+  {
+    "slug": "allbridge",
+    "name": "Allbridge",
+    "domain": "app.allbridge.io"
+  },
+  {
+    "slug": "altura",
+    "name": "Altura",
+    "domain": "app.altura.trade"
+  },
+  {
+    "slug": "ambient",
+    "name": "Ambient",
+    "domain": "ambient.finance"
+  },
+  {
+    "slug": "angle-bridge-by-l0",
+    "name": "Angle Bridge (by L0)",
+    "domain": "app.angle.money"
+  },
+  {
+    "slug": "arbitrum",
+    "name": "Arbitrum",
+    "domain": "arbitrum.io"
+  },
+  {
+    "slug": "arbswap",
+    "name": "Arbswap",
+    "domain": "arbswap.io"
+  },
+  {
+    "slug": "archly",
+    "name": "Archly",
+    "domain": "archly.fi"
+  },
+  {
+    "slug": "arkm",
+    "name": "Arkm",
+    "domain": "arkm.com"
+  },
+  {
+    "slug": "arthswap",
+    "name": "ArthSwap",
+    "domain": "app.arthswap.org"
+  },
+  {
+    "slug": "atomichub",
+    "name": "AtomicHub",
+    "domain": "wax.atomichub.io"
+  },
+  {
+    "slug": "aurigami",
+    "name": "Aurigami",
+    "domain": "app.aurigami.finance"
+  },
+  {
+    "slug": "avalaunch",
+    "name": "Avalaunch",
+    "domain": "avalaunch.app"
+  },
+  {
+    "slug": "avalon-finance",
+    "name": "Avalon Finance",
+    "domain": "app.avalonfinance.xyz"
+  },
+  {
+    "slug": "avnu",
+    "name": "Avnu",
+    "domain": "app.avnu.fi"
+  },
+  {
+    "slug": "axiom",
+    "name": "Axiom",
+    "domain": "axiom.trade"
+  },
+  {
+    "slug": "base-name-service",
+    "name": "Base Name Service",
+    "domain": "basename.app"
+  },
+  {
+    "slug": "bastion-protocol",
+    "name": "Bastion Protocol",
+    "domain": "app.bastionprotocol.com"
+  },
+  {
+    "slug": "bebop",
+    "name": "Bebop",
+    "domain": "bebop.xyz"
+  },
+  {
+    "slug": "beefy-finance",
+    "name": "Beefy Finance",
+    "domain": "beefy.finance"
+  },
+  {
+    "slug": "benqi",
+    "name": "Benqi",
+    "domain": "app.benqi.fi"
+  },
+  {
+    "slug": "bitcow",
+    "name": "BitCow",
+    "domain": "bitcow.xyz"
+  },
+  {
+    "slug": "bitgenie",
+    "name": "BitGenie",
+    "domain": "bitgenie.io"
+  },
+  {
+    "slug": "bitstar",
+    "name": "BitStar",
+    "domain": "bitstar.pro"
+  },
+  {
+    "slug": "bloctoswap",
+    "name": "BloctoSwap",
+    "domain": "swap.blocto.app"
+  },
+  {
+    "slug": "bluemove",
+    "name": "BlueMove",
+    "domain": "bluemove.net"
+  },
+  {
+    "slug": "blur",
+    "name": "Blur",
+    "domain": "blur.io"
+  },
+  {
+    "slug": "bulk",
+    "name": "Bulk",
+    "domain": "bulk.trade"
+  },
+  {
+    "slug": "bungee",
+    "name": "Bungee",
+    "domain": "bungee.exchange"
+  },
+  {
+    "slug": "bunnyfi",
+    "name": "Bunnyfi",
+    "domain": "bunnyfi.io"
+  },
+  {
+    "slug": "cashmere",
+    "name": "Cashmere",
+    "domain": "app.cashmere.exchange"
+  },
+  {
+    "slug": "celer-cbridge",
+    "name": "Celer cBridge",
+    "domain": "cbridge.celer.network"
+  },
+  {
+    "slug": "cetus",
+    "name": "Cetus",
+    "domain": "app.cetus.zone"
+  },
+  {
+    "slug": "chainspot",
+    "name": "Chainspot",
+    "domain": "app.chainspot.io"
+  },
+  {
+    "slug": "claimswap",
+    "name": "Claimswap",
+    "domain": "claimswap.org"
+  },
+  {
+    "slug": "coinlist",
+    "name": "CoinList",
+    "domain": "coinlist.co"
+  },
+  {
+    "slug": "cometbridge",
+    "name": "CometBridge",
+    "domain": "cometbridge.app"
+  },
+  {
+    "slug": "compound",
+    "name": "Compound",
+    "domain": "app.compound.finance"
+  },
+  {
+    "slug": "connext-bridge",
+    "name": "Connext Bridge",
+    "domain": "bridge.connext.network"
+  },
+  {
+    "slug": "convex",
+    "name": "Convex",
+    "domain": "convexfinance.com"
+  },
+  {
+    "slug": "core-bridge-by-l0",
+    "name": "Core Bridge (by L0)",
+    "domain": "bridge.coredao.org"
+  },
+  {
+    "slug": "cowswap",
+    "name": "CowSwap",
+    "domain": "swap.cow.fi"
+  },
+  {
+    "slug": "crodex",
+    "name": "Crodex",
+    "domain": "swap.crodex.app"
+  },
+  {
+    "slug": "dao-maker",
+    "name": "DAO Maker",
+    "domain": "app.daomaker.com"
+  },
+  {
+    "slug": "debank",
+    "name": "DeBank",
+    "domain": "debank.com"
+  },
+  {
+    "slug": "debridge",
+    "name": "deBridge",
+    "domain": "debridge.finance"
+  },
+  {
+    "slug": "dedust",
+    "name": "DeDust",
+    "domain": "dedust.io"
+  },
+  {
+    "slug": "defibox",
+    "name": "Defibox",
+    "domain": "defibox.io"
+  },
+  {
+    "slug": "desyn",
+    "name": "DeSyn",
+    "domain": "desyn.io"
+  },
+  {
+    "slug": "dexguru",
+    "name": "DexGuru",
+    "domain": "dex.guru"
+  }
+]

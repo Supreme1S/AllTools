@@ -1,0 +1,818 @@
+[
+  {
+    "id": "talus",
+    "slug": "talus",
+    "name": "Talus",
+    "domain": "hub.talus.network",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://hub.talus.network/loyalty",
+    "referral_url": null,
+    "outbound_url": "https://hub.talus.network/loyalty",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "tanssi",
+    "slug": "tanssi",
+    "name": "Tanssi",
+    "domain": "tanssi.network",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://tanssi.network",
+    "referral_url": null,
+    "outbound_url": "https://tanssi.network",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "tempo",
+    "slug": "tempo",
+    "name": "Tempo",
+    "domain": "docs.tempo.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://docs.tempo.xyz/quickstart/faucet",
+    "referral_url": null,
+    "outbound_url": "https://docs.tempo.xyz/quickstart/faucet",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "teneo",
+    "slug": "teneo",
+    "name": "Teneo",
+    "domain": "dashboard.teneo.pro",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://dashboard.teneo.pro",
+    "referral_url": null,
+    "outbound_url": "https://dashboard.teneo.pro",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "theo",
+    "slug": "theo",
+    "name": "Theo",
+    "domain": "theo.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://theo.xyz",
+    "referral_url": null,
+    "outbound_url": "https://theo.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "theoriq",
+    "slug": "theoriq",
+    "name": "Theoriq",
+    "domain": "theoriq.ai",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://theoriq.ai",
+    "referral_url": null,
+    "outbound_url": "https://theoriq.ai",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "theradius",
+    "slug": "theradius",
+    "name": "Theradius",
+    "domain": "theradius.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://theradius.xyz",
+    "referral_url": null,
+    "outbound_url": "https://theradius.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "titandex",
+    "slug": "titandex",
+    "name": "Titandex",
+    "domain": "titandex.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://titandex.io",
+    "referral_url": null,
+    "outbound_url": "https://titandex.io",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "towns",
+    "slug": "towns",
+    "name": "Towns",
+    "domain": "towns.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://towns.com",
+    "referral_url": null,
+    "outbound_url": "https://towns.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "trade",
+    "slug": "trade",
+    "name": "Trade",
+    "domain": "app.trade.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://app.trade.xyz/?market=BTC-USDC",
+    "referral_url": null,
+    "outbound_url": "https://app.trade.xyz/?market=BTC-USDC",
+    "referral_status": "pending",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "tradegenius",
+    "slug": "tradegenius",
+    "name": "Tradegenius",
+    "domain": "tradegenius.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://tradegenius.com",
+    "referral_url": null,
+    "outbound_url": "https://tradegenius.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "treehouse",
+    "slug": "treehouse",
+    "name": "Treehouse",
+    "domain": "treehouse.finance",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://treehouse.finance/favicon.ico",
+    "referral_url": null,
+    "outbound_url": "https://treehouse.finance/favicon.ico",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "trex",
+    "slug": "trex",
+    "name": "Trex",
+    "domain": "trex.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://trex.xyz",
+    "referral_url": null,
+    "outbound_url": "https://trex.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "trustalabs",
+    "slug": "trustalabs",
+    "name": "Trustalabs",
+    "domain": "trustalabs.ai",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://trustalabs.ai",
+    "referral_url": null,
+    "outbound_url": "https://trustalabs.ai",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "tryyourbest",
+    "slug": "tryyourbest",
+    "name": "Tryyourbest",
+    "domain": "tryyourbest.tyb.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://tryyourbest.tyb.xyz",
+    "referral_url": null,
+    "outbound_url": "https://tryyourbest.tyb.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "tusky",
+    "slug": "tusky",
+    "name": "Tusky",
+    "domain": "app.tusky.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://app.tusky.io/connect",
+    "referral_url": null,
+    "outbound_url": "https://app.tusky.io/connect",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "unavatar",
+    "slug": "unavatar",
+    "name": "Unavatar",
+    "domain": "unavatar.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://unavatar.io/x/variational_io",
+    "referral_url": null,
+    "outbound_url": "https://unavatar.io/x/variational_io",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "unichain",
+    "slug": "unichain",
+    "name": "Unichain",
+    "domain": "unichain.org",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://unichain.org/explore",
+    "referral_url": null,
+    "outbound_url": "https://unichain.org/explore",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "union",
+    "slug": "union",
+    "name": "Union",
+    "domain": "union.build",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://union.build",
+    "referral_url": null,
+    "outbound_url": "https://union.build",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "unite",
+    "slug": "unite",
+    "name": "Unite",
+    "domain": "claim.unite.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://claim.unite.io/connect",
+    "referral_url": null,
+    "outbound_url": "https://claim.unite.io/connect",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "uptopia",
+    "slug": "uptopia",
+    "name": "Uptopia",
+    "domain": "portal.uptopia.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://portal.uptopia.xyz",
+    "referral_url": null,
+    "outbound_url": "https://portal.uptopia.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "usecorn",
+    "slug": "usecorn",
+    "name": "Usecorn",
+    "domain": "usecorn.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://usecorn.com",
+    "referral_url": null,
+    "outbound_url": "https://usecorn.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "usual",
+    "slug": "usual",
+    "name": "Usual",
+    "domain": "usual.money",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://usual.money",
+    "referral_url": null,
+    "outbound_url": "https://usual.money",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "vana",
+    "slug": "vana",
+    "name": "Vana",
+    "domain": "vana.org",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://vana.org",
+    "referral_url": null,
+    "outbound_url": "https://vana.org",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "vestmarkets",
+    "slug": "vestmarkets",
+    "name": "Vestmarkets",
+    "domain": "trade.vestmarkets.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://trade.vestmarkets.com",
+    "referral_url": null,
+    "outbound_url": "https://trade.vestmarkets.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "vlayer",
+    "slug": "vlayer",
+    "name": "Vlayer",
+    "domain": "vlayer.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://vlayer.xyz",
+    "referral_url": null,
+    "outbound_url": "https://vlayer.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "vooi",
+    "slug": "vooi",
+    "name": "Vooi",
+    "domain": "app.vooi.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://app.vooi.io/?r=CAD7J3U",
+    "referral_url": null,
+    "outbound_url": "https://app.vooi.io/?r=CAD7J3U",
+    "referral_status": "pending",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "wallet",
+    "slug": "wallet",
+    "name": "Wallet",
+    "domain": "wallet.tx.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://wallet.tx.xyz",
+    "referral_url": null,
+    "outbound_url": "https://wallet.tx.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "walletconnect",
+    "slug": "walletconnect",
+    "name": "Walletconnect",
+    "domain": "walletconnect.network",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://walletconnect.network",
+    "referral_url": null,
+    "outbound_url": "https://walletconnect.network",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "walrus",
+    "slug": "walrus",
+    "name": "Walrus",
+    "domain": "walrus.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://walrus.xyz",
+    "referral_url": null,
+    "outbound_url": "https://walrus.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "wardenprotocol",
+    "slug": "wardenprotocol",
+    "name": "Wardenprotocol",
+    "domain": "app.wardenprotocol.org",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://app.wardenprotocol.org",
+    "referral_url": null,
+    "outbound_url": "https://app.wardenprotocol.org",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "welf",
+    "slug": "welf",
+    "name": "Welf",
+    "domain": "welf.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://welf.com",
+    "referral_url": null,
+    "outbound_url": "https://welf.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "wormhole",
+    "slug": "wormhole",
+    "name": "Wormhole",
+    "domain": "wormhole.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://wormhole.com",
+    "referral_url": null,
+    "outbound_url": "https://wormhole.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "xion",
+    "slug": "xion",
+    "name": "Xion",
+    "domain": "xion.burnt.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://xion.burnt.com",
+    "referral_url": null,
+    "outbound_url": "https://xion.burnt.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "xo",
+    "slug": "xo",
+    "name": "Xo",
+    "domain": "beta.xo.market",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://beta.xo.market/markets",
+    "referral_url": null,
+    "outbound_url": "https://beta.xo.market/markets",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "xter",
+    "slug": "xter",
+    "name": "Xter",
+    "domain": "xter.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://xter.io",
+    "referral_url": null,
+    "outbound_url": "https://xter.io",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "yala",
+    "slug": "yala",
+    "name": "Yala",
+    "domain": "yala.org",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://yala.org",
+    "referral_url": null,
+    "outbound_url": "https://yala.org",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "yaps",
+    "slug": "yaps",
+    "name": "Yaps",
+    "domain": "yaps.kaito.ai",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://yaps.kaito.ai",
+    "referral_url": null,
+    "outbound_url": "https://yaps.kaito.ai",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "yellow",
+    "slug": "yellow",
+    "name": "Yellow",
+    "domain": "yellow.org",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://yellow.org",
+    "referral_url": null,
+    "outbound_url": "https://yellow.org",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "yupp",
+    "slug": "yupp",
+    "name": "Yupp",
+    "domain": "yupp.ai",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://yupp.ai",
+    "referral_url": null,
+    "outbound_url": "https://yupp.ai",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "zama",
+    "slug": "zama",
+    "name": "Zama",
+    "domain": "zama.org",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://zama.org",
+    "referral_url": null,
+    "outbound_url": "https://zama.org",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "zee-verse",
+    "slug": "zee-verse",
+    "name": "Zee-verse",
+    "domain": "zee-verse.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://zee-verse.com",
+    "referral_url": null,
+    "outbound_url": "https://zee-verse.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "zerobase",
+    "slug": "zerobase",
+    "name": "Zerobase",
+    "domain": "app.zerobase.pro",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://app.zerobase.pro/?code=21FI4",
+    "referral_url": null,
+    "outbound_url": "https://app.zerobase.pro/?code=21FI4",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "zeusnetwork",
+    "slug": "zeusnetwork",
+    "name": "Zeusnetwork",
+    "domain": "zeusnetwork.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://zeusnetwork.xyz",
+    "referral_url": null,
+    "outbound_url": "https://zeusnetwork.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "zircuit",
+    "slug": "zircuit",
+    "name": "Zircuit",
+    "domain": "zircuit.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://zircuit.com",
+    "referral_url": null,
+    "outbound_url": "https://zircuit.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "zkverify",
+    "slug": "zkverify",
+    "name": "Zkverify",
+    "domain": "zkverify.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://zkverify.io",
+    "referral_url": null,
+    "outbound_url": "https://zkverify.io",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "zofai",
+    "slug": "zofai",
+    "name": "Zofai",
+    "domain": "zofai.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://zofai.io",
+    "referral_url": null,
+    "outbound_url": "https://zofai.io",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "zora",
+    "slug": "zora",
+    "name": "Zora",
+    "domain": "zora.co",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://zora.co",
+    "referral_url": null,
+    "outbound_url": "https://zora.co",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  }
+]

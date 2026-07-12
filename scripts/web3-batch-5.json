@@ -1,0 +1,852 @@
+[
+  {
+    "id": "noise",
+    "slug": "noise",
+    "name": "Noise",
+    "domain": "noise.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://noise.xyz/news/what-is-noise",
+    "referral_url": null,
+    "outbound_url": "https://noise.xyz/news/what-is-noise",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "nousresearch",
+    "slug": "nousresearch",
+    "name": "Nousresearch",
+    "domain": "portal.nousresearch.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://portal.nousresearch.com",
+    "referral_url": null,
+    "outbound_url": "https://portal.nousresearch.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "novig",
+    "slug": "novig",
+    "name": "Novig",
+    "domain": "novig.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://novig.com/events",
+    "referral_url": null,
+    "outbound_url": "https://novig.com/events",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "noya",
+    "slug": "noya",
+    "name": "Noya",
+    "domain": "app.noya.ai",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://app.noya.ai/space-race-onboarding/xQUvVX",
+    "referral_url": null,
+    "outbound_url": "https://app.noya.ai/space-race-onboarding/xQUvVX",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "octra",
+    "slug": "octra",
+    "name": "Octra",
+    "domain": "octra.org",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://octra.org",
+    "referral_url": null,
+    "outbound_url": "https://octra.org",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "offlineprotocol",
+    "slug": "offlineprotocol",
+    "name": "Offlineprotocol",
+    "domain": "offlineprotocol.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://offlineprotocol.com",
+    "referral_url": null,
+    "outbound_url": "https://offlineprotocol.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "omni-variational-io",
+    "slug": "omni-variational-io",
+    "name": "Omni",
+    "domain": "omni.variational.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://omni.variational.io",
+    "referral_url": null,
+    "outbound_url": "https://omni.variational.io",
+    "referral_status": "pending",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "onchainheroes",
+    "slug": "onchainheroes",
+    "name": "Onchainheroes",
+    "domain": "onchainheroes.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://onchainheroes.xyz",
+    "referral_url": null,
+    "outbound_url": "https://onchainheroes.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "onebalance",
+    "slug": "onebalance",
+    "name": "Onebalance",
+    "domain": "app.onebalance.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://app.onebalance.io/account",
+    "referral_url": null,
+    "outbound_url": "https://app.onebalance.io/account",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "opengdp",
+    "slug": "opengdp",
+    "name": "Opengdp",
+    "domain": "opengdp.network",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://opengdp.network",
+    "referral_url": null,
+    "outbound_url": "https://opengdp.network",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "opengradient",
+    "slug": "opengradient",
+    "name": "Opengradient",
+    "domain": "opengradient.ai",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://opengradient.ai",
+    "referral_url": null,
+    "outbound_url": "https://opengradient.ai",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "openledger",
+    "slug": "openledger",
+    "name": "Openledger",
+    "domain": "openledger.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://openledger.xyz",
+    "referral_url": null,
+    "outbound_url": "https://openledger.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "ordeez",
+    "slug": "ordeez",
+    "name": "Ordeez",
+    "domain": "ordeez.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://ordeez.io",
+    "referral_url": null,
+    "outbound_url": "https://ordeez.io",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "orochi",
+    "slug": "orochi",
+    "name": "Orochi",
+    "domain": "orochi.network",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://orochi.network",
+    "referral_url": null,
+    "outbound_url": "https://orochi.network",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "otherside",
+    "slug": "otherside",
+    "name": "Otherside",
+    "domain": "otherside.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://otherside.xyz",
+    "referral_url": null,
+    "outbound_url": "https://otherside.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "pacifica",
+    "slug": "pacifica",
+    "name": "Pacifica",
+    "domain": "app.pacifica.fi",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://app.pacifica.fi",
+    "referral_url": null,
+    "outbound_url": "https://app.pacifica.fi",
+    "referral_status": "pending",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "parasail",
+    "slug": "parasail",
+    "name": "Parasail",
+    "domain": "parasail.network",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://parasail.network",
+    "referral_url": null,
+    "outbound_url": "https://parasail.network",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "partyicons",
+    "slug": "partyicons",
+    "name": "Partyicons",
+    "domain": "partyicons.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://partyicons.com/download",
+    "referral_url": null,
+    "outbound_url": "https://partyicons.com/download",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "passport",
+    "slug": "passport",
+    "name": "Passport",
+    "domain": "passport.human.tech",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://passport.human.tech",
+    "referral_url": null,
+    "outbound_url": "https://passport.human.tech",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "perena",
+    "slug": "perena",
+    "name": "Perena",
+    "domain": "app.perena.org",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://app.perena.org/portfolio",
+    "referral_url": null,
+    "outbound_url": "https://app.perena.org/portfolio",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "perle",
+    "slug": "perle",
+    "name": "Perle",
+    "domain": "app.perle.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://app.perle.xyz",
+    "referral_url": null,
+    "outbound_url": "https://app.perle.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "pharosnetwork",
+    "slug": "pharosnetwork",
+    "name": "Pharosnetwork",
+    "domain": "testnet.pharosnetwork.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://testnet.pharosnetwork.xyz/experience",
+    "referral_url": null,
+    "outbound_url": "https://testnet.pharosnetwork.xyz/experience",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "phi",
+    "slug": "phi",
+    "name": "Phi",
+    "domain": "phi.box",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://phi.box",
+    "referral_url": null,
+    "outbound_url": "https://phi.box",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "pingnetwork",
+    "slug": "pingnetwork",
+    "name": "Pingnetwork",
+    "domain": "pingnetwork.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://pingnetwork.io",
+    "referral_url": null,
+    "outbound_url": "https://pingnetwork.io",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "pipe",
+    "slug": "pipe",
+    "name": "Pipe",
+    "domain": "pipe.network",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://pipe.network",
+    "referral_url": null,
+    "outbound_url": "https://pipe.network",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "plantvsundead",
+    "slug": "plantvsundead",
+    "name": "Plantvsundead",
+    "domain": "plantvsundead.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://plantvsundead.com/favicon.ico",
+    "referral_url": null,
+    "outbound_url": "https://plantvsundead.com/favicon.ico",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "plasma",
+    "slug": "plasma",
+    "name": "Plasma",
+    "domain": "plasma.to",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://plasma.to",
+    "referral_url": null,
+    "outbound_url": "https://plasma.to",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "playavalon",
+    "slug": "playavalon",
+    "name": "Playavalon",
+    "domain": "playavalon.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://playavalon.com",
+    "referral_url": null,
+    "outbound_url": "https://playavalon.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "plume",
+    "slug": "plume",
+    "name": "Plume",
+    "domain": "portal.plume.org",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://portal.plume.org",
+    "referral_url": null,
+    "outbound_url": "https://portal.plume.org",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "polyhedra",
+    "slug": "polyhedra",
+    "name": "Polyhedra",
+    "domain": "polyhedra.network",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://polyhedra.network",
+    "referral_url": null,
+    "outbound_url": "https://polyhedra.network",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "polymarket",
+    "slug": "polymarket",
+    "name": "Polymarket",
+    "domain": "polymarket.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://polymarket.com/?r=maxywayld",
+    "referral_url": null,
+    "outbound_url": "https://polymarket.com/?r=maxywayld",
+    "referral_status": "pending",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "predict",
+    "slug": "predict",
+    "name": "Predict",
+    "domain": "predict.fun",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://predict.fun",
+    "referral_url": null,
+    "outbound_url": "https://predict.fun",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "prismax",
+    "slug": "prismax",
+    "name": "Prismax",
+    "domain": "app.prismax.ai",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://app.prismax.ai",
+    "referral_url": null,
+    "outbound_url": "https://app.prismax.ai",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "prjx",
+    "slug": "prjx",
+    "name": "Prjx",
+    "domain": "prjx.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://prjx.com/@maxy",
+    "referral_url": null,
+    "outbound_url": "https://prjx.com/@maxy",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "probable",
+    "slug": "probable",
+    "name": "Probable",
+    "domain": "probable.markets",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://probable.markets",
+    "referral_url": null,
+    "outbound_url": "https://probable.markets",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "profile",
+    "slug": "profile",
+    "name": "Profile",
+    "domain": "profile.bluwhale.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://profile.bluwhale.com/login",
+    "referral_url": null,
+    "outbound_url": "https://profile.bluwhale.com/login",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "psdn",
+    "slug": "psdn",
+    "name": "Psdn",
+    "domain": "app.psdn.ai",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://app.psdn.ai/intro",
+    "referral_url": null,
+    "outbound_url": "https://app.psdn.ai/intro",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "publicai",
+    "slug": "publicai",
+    "name": "Publicai",
+    "domain": "beta.publicai.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://beta.publicai.io",
+    "referral_url": null,
+    "outbound_url": "https://beta.publicai.io",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "pudgypenguins",
+    "slug": "pudgypenguins",
+    "name": "Pudgypenguins",
+    "domain": "pudgypenguins.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://pudgypenguins.com",
+    "referral_url": null,
+    "outbound_url": "https://pudgypenguins.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "puffer",
+    "slug": "puffer",
+    "name": "Puffer",
+    "domain": "puffer.fi",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://puffer.fi",
+    "referral_url": null,
+    "outbound_url": "https://puffer.fi",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "pump",
+    "slug": "pump",
+    "name": "Pump",
+    "domain": "pump.fun",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://pump.fun",
+    "referral_url": null,
+    "outbound_url": "https://pump.fun",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "quackai",
+    "slug": "quackai",
+    "name": "Quackai",
+    "domain": "app.quackai.ai",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://app.quackai.ai/quackipedia",
+    "referral_url": null,
+    "outbound_url": "https://app.quackai.ai/quackipedia",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "quests",
+    "slug": "quests",
+    "name": "Quests",
+    "domain": "quests.magicblock.app",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://quests.magicblock.app/?tab=quests",
+    "referral_url": null,
+    "outbound_url": "https://quests.magicblock.app/?tab=quests",
+    "referral_status": "pending",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "ranger",
+    "slug": "ranger",
+    "name": "Ranger",
+    "domain": "app.ranger.finance",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://app.ranger.finance",
+    "referral_url": null,
+    "outbound_url": "https://app.ranger.finance",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "re",
+    "slug": "re",
+    "name": "Re",
+    "domain": "re.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://re.xyz",
+    "referral_url": null,
+    "outbound_url": "https://re.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "recall",
+    "slug": "recall",
+    "name": "Recall",
+    "domain": "recall.network",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://recall.network",
+    "referral_url": null,
+    "outbound_url": "https://recall.network",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "ref",
+    "slug": "ref",
+    "name": "Ref",
+    "domain": "ref.minionlab.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://ref.minionlab.io",
+    "referral_url": null,
+    "outbound_url": "https://ref.minionlab.io",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "referral",
+    "slug": "referral",
+    "name": "Referral",
+    "domain": "tryliquid.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://tryliquid.xyz",
+    "referral_url": null,
+    "outbound_url": "https://tryliquid.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "renaiss",
+    "slug": "renaiss",
+    "name": "Renaiss",
+    "domain": "renaiss.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://renaiss.xyz",
+    "referral_url": null,
+    "outbound_url": "https://renaiss.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "revolvinggames",
+    "slug": "revolvinggames",
+    "name": "Revolvinggames",
+    "domain": "revolvinggames.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://revolvinggames.com/favicon.ico",
+    "referral_url": null,
+    "outbound_url": "https://revolvinggames.com/favicon.ico",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  }
+]

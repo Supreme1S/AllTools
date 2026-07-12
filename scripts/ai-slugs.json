@@ -1,0 +1,457 @@
+[
+  {
+    "slug": "adrenaline",
+    "name": "Adrenaline",
+    "domain": "useadrenaline.com"
+  },
+  {
+    "slug": "aiwriteart",
+    "name": "AiWriteArt",
+    "domain": "aiwriteart.com"
+  },
+  {
+    "slug": "altered-studio",
+    "name": "Altered Studio",
+    "domain": "altered.ai"
+  },
+  {
+    "slug": "article-forge",
+    "name": "Article Forge",
+    "domain": "articleforge.com"
+  },
+  {
+    "slug": "askcodi",
+    "name": "AskCodi",
+    "domain": "askcodi.com"
+  },
+  {
+    "slug": "beatoven",
+    "name": "Beatoven",
+    "domain": "beatoven.ai"
+  },
+  {
+    "slug": "beautiful",
+    "name": "Beautiful",
+    "domain": "beautiful.ai"
+  },
+  {
+    "slug": "beyondwords",
+    "name": "BeyondWords",
+    "domain": "beyondwords.io"
+  },
+  {
+    "slug": "bluewillow-ai",
+    "name": "BlueWillow AI",
+    "domain": "bluewillow.ai"
+  },
+  {
+    "slug": "charm",
+    "name": "Charm",
+    "domain": "usecharm.ai"
+  },
+  {
+    "slug": "closerscopy",
+    "name": "ClosersCopy",
+    "domain": "closerscopy.com"
+  },
+  {
+    "slug": "codeium",
+    "name": "Codeium",
+    "domain": "codeium.com"
+  },
+  {
+    "slug": "codepal",
+    "name": "CodePal",
+    "domain": "codepal.ai"
+  },
+  {
+    "slug": "codewhisperer",
+    "name": "CODEWHISPERER",
+    "domain": "aws.amazon.com"
+  },
+  {
+    "slug": "codiga",
+    "name": "Codiga",
+    "domain": "codiga.io"
+  },
+  {
+    "slug": "colossyan",
+    "name": "Colossyan",
+    "domain": "colossyan.com"
+  },
+  {
+    "slug": "copymonkey",
+    "name": "CopyMonkey",
+    "domain": "copymonkey.app"
+  },
+  {
+    "slug": "craiyon",
+    "name": "Craiyon",
+    "domain": "craiyon.com"
+  },
+  {
+    "slug": "cursor",
+    "name": "Cursor",
+    "domain": "cursor.com"
+  },
+  {
+    "slug": "d-id",
+    "name": "D-ID",
+    "domain": "d-id.com"
+  },
+  {
+    "slug": "deepbrain",
+    "name": "Deepbrain",
+    "domain": "deepbrain.io"
+  },
+  {
+    "slug": "deepl",
+    "name": "DeepL",
+    "domain": "deepl.com"
+  },
+  {
+    "slug": "designs-ai",
+    "name": "Designs.ai",
+    "domain": "designs.ai"
+  },
+  {
+    "slug": "documatic",
+    "name": "Documatic",
+    "domain": "documatic.com"
+  },
+  {
+    "slug": "dream-by-wombo",
+    "name": "Dream (by Wombo)",
+    "domain": "dream.ai"
+  },
+  {
+    "slug": "easy-peasy-ai",
+    "name": "Easy-Peasy.AI",
+    "domain": "easy-peasy.ai"
+  },
+  {
+    "slug": "elai",
+    "name": "Elai",
+    "domain": "elai.io"
+  },
+  {
+    "slug": "eleven",
+    "name": "Eleven",
+    "domain": "beta.elevenlabs.io"
+  },
+  {
+    "slug": "excel-formula-bot",
+    "name": "Excel Formula Bot",
+    "domain": "formulabot.com"
+  },
+  {
+    "slug": "fig",
+    "name": "FIG",
+    "domain": "fig.io"
+  },
+  {
+    "slug": "fineshare",
+    "name": "FineShare",
+    "domain": "fineshare.com"
+  },
+  {
+    "slug": "fliki",
+    "name": "Fliki",
+    "domain": "fliki.ai"
+  },
+  {
+    "slug": "frase-io",
+    "name": "Frase.io",
+    "domain": "frase.io"
+  },
+  {
+    "slug": "gammaai",
+    "name": "GammaAI",
+    "domain": "gamma.app"
+  },
+  {
+    "slug": "gerwin",
+    "name": "Gerwin",
+    "domain": "gerwin.io"
+  },
+  {
+    "slug": "github-copilot",
+    "name": "GitHub Copilot",
+    "domain": "github.com"
+  },
+  {
+    "slug": "heygen",
+    "name": "HeyGen",
+    "domain": "labs.heygen.com"
+  },
+  {
+    "slug": "hitpaw-voice-changer",
+    "name": "Hitpaw Voice Changer",
+    "domain": "hitpaw.com"
+  },
+  {
+    "slug": "hypotenuse-ai",
+    "name": "Hypotenuse AI",
+    "domain": "hypotenuse.ai"
+  },
+  {
+    "slug": "invideo",
+    "name": "Invideo",
+    "domain": "invideo.io"
+  },
+  {
+    "slug": "ispeech",
+    "name": "iSpeech",
+    "domain": "ispeech.org"
+  },
+  {
+    "slug": "jasper",
+    "name": "Jasper",
+    "domain": "jasper.ai"
+  },
+  {
+    "slug": "katteb",
+    "name": "Katteb",
+    "domain": "katteb.com"
+  },
+  {
+    "slug": "kickresume",
+    "name": "Kickresume",
+    "domain": "kickresume.com"
+  },
+  {
+    "slug": "kroma",
+    "name": "Kroma",
+    "domain": "kroma.ai"
+  },
+  {
+    "slug": "looka",
+    "name": "Looka",
+    "domain": "looka.com"
+  },
+  {
+    "slug": "lovo",
+    "name": "LOVO",
+    "domain": "lovo.ai"
+  },
+  {
+    "slug": "lumen5",
+    "name": "Lumen5",
+    "domain": "lumen5.com"
+  },
+  {
+    "slug": "macwhisper",
+    "name": "MacWhisper",
+    "domain": "goodsnooze.gumroad.com"
+  },
+  {
+    "slug": "mage-space",
+    "name": "mage.space",
+    "domain": "mage.space"
+  },
+  {
+    "slug": "mem",
+    "name": "Mem",
+    "domain": "get.mem.ai"
+  },
+  {
+    "slug": "midjorney",
+    "name": "Midjorney",
+    "domain": "midjourney.com"
+  },
+  {
+    "slug": "mintlify",
+    "name": "Mintlify",
+    "domain": "mintlify.com"
+  },
+  {
+    "slug": "moonbeam",
+    "name": "Moonbeam",
+    "domain": "gomoonbeam.com"
+  },
+  {
+    "slug": "multiai",
+    "name": "MultiAI",
+    "domain": "multi-ai.pro"
+  },
+  {
+    "slug": "murf-ai",
+    "name": "Murf AI",
+    "domain": "murf.ai"
+  },
+  {
+    "slug": "notion-ai",
+    "name": "Notion AI",
+    "domain": "notion.com"
+  },
+  {
+    "slug": "openai",
+    "name": "OpenAI",
+    "domain": "openai.com"
+  },
+  {
+    "slug": "peppertype",
+    "name": "PepperType",
+    "domain": "peppercontent.io"
+  },
+  {
+    "slug": "pictory",
+    "name": "Pictory",
+    "domain": "pictory.ai"
+  },
+  {
+    "slug": "pitch",
+    "name": "Pitch",
+    "domain": "pitch.com"
+  },
+  {
+    "slug": "playgroundai",
+    "name": "PlaygroundAI",
+    "domain": "playgroundai.com"
+  },
+  {
+    "slug": "reflect",
+    "name": "Reflect",
+    "domain": "reflect.app"
+  },
+  {
+    "slug": "replit",
+    "name": "Replit",
+    "domain": "replit.com"
+  },
+  {
+    "slug": "robogpt",
+    "name": "RoboGPT",
+    "domain": "robogpt.co"
+  },
+  {
+    "slug": "rosebud-ai",
+    "name": "Rosebud AI",
+    "domain": "rosebud.ai"
+  },
+  {
+    "slug": "rytr",
+    "name": "Rytr",
+    "domain": "app.rytr.me"
+  },
+  {
+    "slug": "scenario",
+    "name": "Scenario",
+    "domain": "scenario.com"
+  },
+  {
+    "slug": "sheetgod",
+    "name": "SheetGod",
+    "domain": "boloforms.com"
+  },
+  {
+    "slug": "slidebean",
+    "name": "Slidebean",
+    "domain": "slidebean.com"
+  },
+  {
+    "slug": "slidesai",
+    "name": "SlidesAI",
+    "domain": "slidesai.io"
+  },
+  {
+    "slug": "snyk-code",
+    "name": "Snyk Code",
+    "domain": "snyk.io"
+  },
+  {
+    "slug": "sourcegraph-cody",
+    "name": "Sourcegraph Cody",
+    "domain": "sourcegraph.com"
+  },
+  {
+    "slug": "speechify",
+    "name": "Speechify",
+    "domain": "speechify.com"
+  },
+  {
+    "slug": "stable-diffusion-videos",
+    "name": "Stable Diffusion Videos",
+    "domain": "replicate.com"
+  },
+  {
+    "slug": "steosvoice",
+    "name": "SteosVoice",
+    "domain": "cybervoice.io"
+  },
+  {
+    "slug": "sudowrite",
+    "name": "Sudowrite",
+    "domain": "sudowrite.com"
+  },
+  {
+    "slug": "suno-ai",
+    "name": "Suno.ai",
+    "domain": "suno.ai"
+  },
+  {
+    "slug": "synthesia",
+    "name": "Synthesia",
+    "domain": "synthesia.io"
+  },
+  {
+    "slug": "tabnine",
+    "name": "TABNINE",
+    "domain": "tabnine.com"
+  },
+  {
+    "slug": "tavus",
+    "name": "Tavus",
+    "domain": "tavus.io"
+  },
+  {
+    "slug": "tinywow",
+    "name": "Tinywow",
+    "domain": "tinywow.com"
+  },
+  {
+    "slug": "tome",
+    "name": "Tome",
+    "domain": "tome.app"
+  },
+  {
+    "slug": "veed",
+    "name": "VEED",
+    "domain": "veed.io"
+  },
+  {
+    "slug": "venngage",
+    "name": "Venngage",
+    "domain": "venngage.com"
+  },
+  {
+    "slug": "visper",
+    "name": "Visper",
+    "domain": "visper.tech"
+  },
+  {
+    "slug": "wavtool",
+    "name": "WavTool",
+    "domain": "wavtool.com"
+  },
+  {
+    "slug": "wisecut",
+    "name": "Wisecut",
+    "domain": "wisecut.video"
+  },
+  {
+    "slug": "wordhero",
+    "name": "WordHero",
+    "domain": "wordhero.co"
+  },
+  {
+    "slug": "writersonic",
+    "name": "WriterSonic",
+    "domain": "writesonic.com"
+  },
+  {
+    "slug": "zvukogram",
+    "name": "Zvukogram",
+    "domain": "zvukogram.com"
+  }
+]

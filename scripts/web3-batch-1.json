@@ -1,0 +1,852 @@
+[
+  {
+    "id": "0g",
+    "slug": "0g",
+    "name": "0G",
+    "domain": "0g.ai",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://0g.ai",
+    "referral_url": null,
+    "outbound_url": "https://0g.ai",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "3dos",
+    "slug": "3dos",
+    "name": "3DOS",
+    "domain": "dashboard.3dos.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://dashboard.3dos.io",
+    "referral_url": null,
+    "outbound_url": "https://dashboard.3dos.io",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "agent",
+    "slug": "agent",
+    "name": "Agent",
+    "domain": "agent.mindnetwork.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://agent.mindnetwork.xyz",
+    "referral_url": null,
+    "outbound_url": "https://agent.mindnetwork.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "aleo",
+    "slug": "aleo",
+    "name": "Aleo",
+    "domain": "aleo.org",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://aleo.org",
+    "referral_url": null,
+    "outbound_url": "https://aleo.org",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "almanak",
+    "slug": "almanak",
+    "name": "Almanak",
+    "domain": "app.almanak.co",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://app.almanak.co",
+    "referral_url": null,
+    "outbound_url": "https://app.almanak.co",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "altiuslabs",
+    "slug": "altiuslabs",
+    "name": "Altiuslabs",
+    "domain": "altiuslabs.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://altiuslabs.xyz",
+    "referral_url": null,
+    "outbound_url": "https://altiuslabs.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "anoma",
+    "slug": "anoma",
+    "name": "Anoma",
+    "domain": "anoma.net",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://anoma.net",
+    "referral_url": null,
+    "outbound_url": "https://anoma.net",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "apr",
+    "slug": "apr",
+    "name": "Apr",
+    "domain": "apr.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://apr.io",
+    "referral_url": null,
+    "outbound_url": "https://apr.io",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "aptosfoundation",
+    "slug": "aptosfoundation",
+    "name": "Aptosfoundation",
+    "domain": "aptosfoundation.org",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://aptosfoundation.org",
+    "referral_url": null,
+    "outbound_url": "https://aptosfoundation.org",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "apyx",
+    "slug": "apyx",
+    "name": "Apyx",
+    "domain": "app.apyx.fi",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://app.apyx.fi",
+    "referral_url": null,
+    "outbound_url": "https://app.apyx.fi",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "arai",
+    "slug": "arai",
+    "name": "Arai",
+    "domain": "arai.systems",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://arai.systems",
+    "referral_url": null,
+    "outbound_url": "https://arai.systems",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "arc",
+    "slug": "arc",
+    "name": "Arc",
+    "domain": "arc.network",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://arc.network",
+    "referral_url": null,
+    "outbound_url": "https://arc.network",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "arcade",
+    "slug": "arcade",
+    "name": "Arcade",
+    "domain": "arcade.piratenation.game",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://arcade.piratenation.game",
+    "referral_url": null,
+    "outbound_url": "https://arcade.piratenation.game",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "arch",
+    "slug": "arch",
+    "name": "Arch",
+    "domain": "arch.network",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://arch.network",
+    "referral_url": null,
+    "outbound_url": "https://arch.network",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "arcium",
+    "slug": "arcium",
+    "name": "Arcium",
+    "domain": "arcium.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://arcium.com",
+    "referral_url": null,
+    "outbound_url": "https://arcium.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "askjune",
+    "slug": "askjune",
+    "name": "Askjune",
+    "domain": "askjune.ai",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://askjune.ai/app/chat",
+    "referral_url": null,
+    "outbound_url": "https://askjune.ai/app/chat",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "asksurf",
+    "slug": "asksurf",
+    "name": "Asksurf",
+    "domain": "asksurf.ai",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://asksurf.ai",
+    "referral_url": null,
+    "outbound_url": "https://asksurf.ai",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "avantisfi",
+    "slug": "avantisfi",
+    "name": "Avantisfi",
+    "domain": "avantisfi.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://avantisfi.com",
+    "referral_url": null,
+    "outbound_url": "https://avantisfi.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "avaprotocol",
+    "slug": "avaprotocol",
+    "name": "Avaprotocol",
+    "domain": "avaprotocol.org",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://avaprotocol.org",
+    "referral_url": null,
+    "outbound_url": "https://avaprotocol.org",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "axieinfinity",
+    "slug": "axieinfinity",
+    "name": "Axieinfinity",
+    "domain": "axieinfinity.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://axieinfinity.com",
+    "referral_url": null,
+    "outbound_url": "https://axieinfinity.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "axisrobotics",
+    "slug": "axisrobotics",
+    "name": "Axisrobotics",
+    "domain": "hub.axisrobotics.ai",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://hub.axisrobotics.ai/?tab=hub",
+    "referral_url": null,
+    "outbound_url": "https://hub.axisrobotics.ai/?tab=hub",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "aztec",
+    "slug": "aztec",
+    "name": "Aztec",
+    "domain": "aztec.network",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://aztec.network/index.html",
+    "referral_url": null,
+    "outbound_url": "https://aztec.network/index.html",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "b3",
+    "slug": "b3",
+    "name": "B3",
+    "domain": "b3.fun",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://b3.fun",
+    "referral_url": null,
+    "outbound_url": "https://b3.fun",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "babylonlabs",
+    "slug": "babylonlabs",
+    "name": "Babylonlabs",
+    "domain": "babylonlabs.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://babylonlabs.io",
+    "referral_url": null,
+    "outbound_url": "https://babylonlabs.io",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "bagel",
+    "slug": "bagel",
+    "name": "Bagel",
+    "domain": "bagel.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://bagel.com",
+    "referral_url": null,
+    "outbound_url": "https://bagel.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "base",
+    "slug": "base",
+    "name": "Base",
+    "domain": "base.org",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://base.org/ecosystem",
+    "referral_url": null,
+    "outbound_url": "https://base.org/ecosystem",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "based",
+    "slug": "based",
+    "name": "Based",
+    "domain": "app.based.one",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://app.based.one",
+    "referral_url": null,
+    "outbound_url": "https://app.based.one",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "berachain",
+    "slug": "berachain",
+    "name": "Berachain",
+    "domain": "berachain.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://berachain.com",
+    "referral_url": null,
+    "outbound_url": "https://berachain.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "blackhole",
+    "slug": "blackhole",
+    "name": "Blackhole",
+    "domain": "blackhole.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://blackhole.xyz/dashboard",
+    "referral_url": null,
+    "outbound_url": "https://blackhole.xyz/dashboard",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "blast",
+    "slug": "blast",
+    "name": "Blast",
+    "domain": "blast.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://blast.io/en",
+    "referral_url": null,
+    "outbound_url": "https://blast.io/en",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "bless",
+    "slug": "bless",
+    "name": "Bless",
+    "domain": "bless.network",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://bless.network/dashboard",
+    "referral_url": null,
+    "outbound_url": "https://bless.network/dashboard",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "blum",
+    "slug": "blum",
+    "name": "Blum",
+    "domain": "blum.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://blum.io/ru",
+    "referral_url": null,
+    "outbound_url": "https://blum.io/ru",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "bondex",
+    "slug": "bondex",
+    "name": "Bondex",
+    "domain": "bondex.app",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://bondex.app",
+    "referral_url": null,
+    "outbound_url": "https://bondex.app",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "bonfida",
+    "slug": "bonfida",
+    "name": "Bonfida",
+    "domain": "bonfida.org",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://bonfida.org",
+    "referral_url": null,
+    "outbound_url": "https://bonfida.org",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "brevis",
+    "slug": "brevis",
+    "name": "Brevis",
+    "domain": "brevis.network",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://brevis.network",
+    "referral_url": null,
+    "outbound_url": "https://brevis.network",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "bullpen",
+    "slug": "bullpen",
+    "name": "Bullpen",
+    "domain": "bullpen.fi",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://bullpen.fi/@maxy",
+    "referral_url": null,
+    "outbound_url": "https://bullpen.fi/@maxy",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "bullshot",
+    "slug": "bullshot",
+    "name": "Bullshot",
+    "domain": "bullshot.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://bullshot.io",
+    "referral_url": null,
+    "outbound_url": "https://bullshot.io",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "bytenova",
+    "slug": "bytenova",
+    "name": "Bytenova",
+    "domain": "bytenova.ai",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://bytenova.ai/rewards/quests",
+    "referral_url": null,
+    "outbound_url": "https://bytenova.ai/rewards/quests",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "caldera",
+    "slug": "caldera",
+    "name": "Caldera",
+    "domain": "caldera.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://caldera.xyz",
+    "referral_url": null,
+    "outbound_url": "https://caldera.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "cambria",
+    "slug": "cambria",
+    "name": "Cambria",
+    "domain": "cambria.gg",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://cambria.gg",
+    "referral_url": null,
+    "outbound_url": "https://cambria.gg",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "cambrian",
+    "slug": "cambrian",
+    "name": "Cambrian",
+    "domain": "cambrian.org",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://cambrian.org",
+    "referral_url": null,
+    "outbound_url": "https://cambrian.org",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "campaign",
+    "slug": "campaign",
+    "name": "Campaign",
+    "domain": "campaign.coinshift.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://campaign.coinshift.xyz",
+    "referral_url": null,
+    "outbound_url": "https://campaign.coinshift.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "carbon",
+    "slug": "carbon",
+    "name": "Carbon",
+    "domain": "app.carbon.inc",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://app.carbon.inc",
+    "referral_url": null,
+    "outbound_url": "https://app.carbon.inc",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "cascade",
+    "slug": "cascade",
+    "name": "Cascade",
+    "domain": "cascade.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://cascade.xyz",
+    "referral_url": null,
+    "outbound_url": "https://cascade.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "catenalabs",
+    "slug": "catenalabs",
+    "name": "Catenalabs",
+    "domain": "catenalabs.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://catenalabs.com",
+    "referral_url": null,
+    "outbound_url": "https://catenalabs.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "cdn",
+    "slug": "cdn",
+    "name": "Cdn",
+    "domain": "cdn.prod.website-files.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://cdn.prod.website-files.com/67161f6a7534fbf38021d666/67179f0d6351d1dac53bbfc2_image%20(1)%20(1).png",
+    "referral_url": null,
+    "outbound_url": "https://cdn.prod.website-files.com/67161f6a7534fbf38021d666/67179f0d6351d1dac53bbfc2_image%20(1)%20(1).png",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "celo",
+    "slug": "celo",
+    "name": "Celo",
+    "domain": "celo.org",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://celo.org",
+    "referral_url": null,
+    "outbound_url": "https://celo.org",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "cerebro",
+    "slug": "cerebro",
+    "name": "Cerebro",
+    "domain": "cerebro.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://cerebro.xyz/sign-up?code=74BABFB2",
+    "referral_url": null,
+    "outbound_url": "https://cerebro.xyz/sign-up?code=74BABFB2",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "certik",
+    "slug": "certik",
+    "name": "Certik",
+    "domain": "certik.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://certik.com",
+    "referral_url": null,
+    "outbound_url": "https://certik.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "cess",
+    "slug": "cess",
+    "name": "Cess",
+    "domain": "cess.network",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://cess.network",
+    "referral_url": null,
+    "outbound_url": "https://cess.network",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  }
+]

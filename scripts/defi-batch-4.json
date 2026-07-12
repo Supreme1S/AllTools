@@ -1,0 +1,262 @@
+[
+  {
+    "slug": "rocket-pool",
+    "name": "Rocket Pool",
+    "domain": "rocketpool.net"
+  },
+  {
+    "slug": "router-bridge",
+    "name": "Router Bridge",
+    "domain": "app.routernitro.com"
+  },
+  {
+    "slug": "rubic",
+    "name": "Rubic",
+    "domain": "app.rubic.exchange"
+  },
+  {
+    "slug": "satori",
+    "name": "Satori",
+    "domain": "satori.finance"
+  },
+  {
+    "slug": "scroll",
+    "name": "Scroll",
+    "domain": "scroll.io"
+  },
+  {
+    "slug": "sirius-finance",
+    "name": "Sirius Finance",
+    "domain": "app.sirius.finance"
+  },
+  {
+    "slug": "socialswap",
+    "name": "SocialSwap",
+    "domain": "socialswap.io"
+  },
+  {
+    "slug": "solend",
+    "name": "Solend",
+    "domain": "solend.fi"
+  },
+  {
+    "slug": "space-id",
+    "name": "SPACE ID",
+    "domain": "space.id"
+  },
+  {
+    "slug": "spacefi",
+    "name": "SpaceFi",
+    "domain": "spacefi.io"
+  },
+  {
+    "slug": "stargate",
+    "name": "Stargate",
+    "domain": "stargate.finance"
+  },
+  {
+    "slug": "starknet",
+    "name": "Starknet",
+    "domain": "starknet.io"
+  },
+  {
+    "slug": "starknet-id",
+    "name": "Starknet.ID",
+    "domain": "app.starknet.id"
+  },
+  {
+    "slug": "stashh",
+    "name": "Stashh",
+    "domain": "stashh.io"
+  },
+  {
+    "slug": "storm-fi",
+    "name": "Storm.FI",
+    "domain": "app.storm.tg"
+  },
+  {
+    "slug": "sumer-money",
+    "name": "Sumer Money",
+    "domain": "app.sumer.money"
+  },
+  {
+    "slug": "sunswap",
+    "name": "SunSwap",
+    "domain": "sunswap.com"
+  },
+  {
+    "slug": "superbridge",
+    "name": "Superbridge",
+    "domain": "superbridge.app"
+  },
+  {
+    "slug": "superform",
+    "name": "SuperForm",
+    "domain": "app.superform.xyz"
+  },
+  {
+    "slug": "superrare",
+    "name": "SuperRare",
+    "domain": "superrare.com"
+  },
+  {
+    "slug": "swapbased",
+    "name": "SwapBased",
+    "domain": "swapbased.finance"
+  },
+  {
+    "slug": "swell",
+    "name": "Swell",
+    "domain": "app.swellnetwork.io"
+  },
+  {
+    "slug": "symbiosis-swap",
+    "name": "Symbiosis Swap",
+    "domain": "app.symbiosis.finance"
+  },
+  {
+    "slug": "symmetric",
+    "name": "Symmetric",
+    "domain": "telos.symm.fi"
+  },
+  {
+    "slug": "synfutures",
+    "name": "SynFutures",
+    "domain": "oyster.synfutures.com"
+  },
+  {
+    "slug": "telos-swap",
+    "name": "Telos Swap",
+    "domain": "tswaps.com"
+  },
+  {
+    "slug": "tensor",
+    "name": "Tensor",
+    "domain": "tensor.trade"
+  },
+  {
+    "slug": "test-portal",
+    "name": "Test-portal",
+    "domain": "test-portal.dango.exchange"
+  },
+  {
+    "slug": "thorlending",
+    "name": "ThorLending",
+    "domain": "app.thorswap.finance"
+  },
+  {
+    "slug": "thruster",
+    "name": "Thruster",
+    "domain": "app.thruster.finance"
+  },
+  {
+    "slug": "tofunft",
+    "name": "TofuNFT",
+    "domain": "tofunft.com"
+  },
+  {
+    "slug": "tokensoft",
+    "name": "TokenSoft",
+    "domain": "tokensoft.com"
+  },
+  {
+    "slug": "ton-diamonds",
+    "name": "TON Diamonds",
+    "domain": "ton.diamonds"
+  },
+  {
+    "slug": "tonstarter",
+    "name": "Tonstarter",
+    "domain": "tonstarter.com"
+  },
+  {
+    "slug": "trisolaris",
+    "name": "Trisolaris",
+    "domain": "trisolaris.io"
+  },
+  {
+    "slug": "ubeswap",
+    "name": "Ubeswap",
+    "domain": "app.ubeswap.org"
+  },
+  {
+    "slug": "unframed",
+    "name": "Unframed",
+    "domain": "unframed.co"
+  },
+  {
+    "slug": "unifi",
+    "name": "Unifi",
+    "domain": "ethereum.unifiprotocol.com"
+  },
+  {
+    "slug": "unstoppable-domains",
+    "name": "Unstoppable Domains",
+    "domain": "unstoppabledomains.com"
+  },
+  {
+    "slug": "vector-finance",
+    "name": "Vector Finance",
+    "domain": "vectorfinance.io"
+  },
+  {
+    "slug": "velocore",
+    "name": "Velocore",
+    "domain": "app.velocore.xyz"
+  },
+  {
+    "slug": "velodrome",
+    "name": "Velodrome",
+    "domain": "velo.drome.eth.limo"
+  },
+  {
+    "slug": "venus-protocol",
+    "name": "Venus Protocol",
+    "domain": "app.venus.io"
+  },
+  {
+    "slug": "wombat-exchange",
+    "name": "Wombat Exchange",
+    "domain": "app.wombat.exchange"
+  },
+  {
+    "slug": "woofi",
+    "name": "WooFi",
+    "domain": "fi.woo.org"
+  },
+  {
+    "slug": "xexchange",
+    "name": "xExchange",
+    "domain": "xexchange.com"
+  },
+  {
+    "slug": "xy-finance",
+    "name": "XY Finance",
+    "domain": "xy.finance"
+  },
+  {
+    "slug": "zealy",
+    "name": "Zealy",
+    "domain": "zealy.io"
+  },
+  {
+    "slug": "zeta",
+    "name": "Zeta",
+    "domain": "dex.zeta.markets"
+  },
+  {
+    "slug": "zklend",
+    "name": "zkLend",
+    "domain": "app.zklend.com"
+  },
+  {
+    "slug": "zksync",
+    "name": "zkSync",
+    "domain": "zksync.io"
+  },
+  {
+    "slug": "zorascan",
+    "name": "ZoraScan",
+    "domain": "bridge.zora.energy"
+  }
+]

@@ -1,0 +1,852 @@
+[
+  {
+    "id": "chainbase",
+    "slug": "chainbase",
+    "name": "Chainbase",
+    "domain": "chainbase.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://chainbase.com/favicon.ico",
+    "referral_url": null,
+    "outbound_url": "https://chainbase.com/favicon.ico",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "chainopera",
+    "slug": "chainopera",
+    "name": "Chainopera",
+    "domain": "chat.chainopera.ai",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://chat.chainopera.ai",
+    "referral_url": null,
+    "outbound_url": "https://chat.chainopera.ai",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "chaoslabs",
+    "slug": "chaoslabs",
+    "name": "Chaoslabs",
+    "domain": "chaoslabs.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://chaoslabs.xyz",
+    "referral_url": null,
+    "outbound_url": "https://chaoslabs.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "citrea",
+    "slug": "citrea",
+    "name": "Citrea",
+    "domain": "citrea.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://citrea.xyz",
+    "referral_url": null,
+    "outbound_url": "https://citrea.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "community",
+    "slug": "community",
+    "name": "Community",
+    "domain": "community.quranium.org",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://community.quranium.org/qrnrush",
+    "referral_url": null,
+    "outbound_url": "https://community.quranium.org/qrnrush",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "cookie3",
+    "slug": "cookie3",
+    "name": "Cookie3",
+    "domain": "cookie3.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://cookie3.com",
+    "referral_url": null,
+    "outbound_url": "https://cookie3.com",
+    "referral_status": "pending",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "coresky",
+    "slug": "coresky",
+    "name": "Coresky",
+    "domain": "coresky.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://coresky.com/favicon.ico",
+    "referral_url": null,
+    "outbound_url": "https://coresky.com/favicon.ico",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "cryptoblades",
+    "slug": "cryptoblades",
+    "name": "Cryptoblades",
+    "domain": "cryptoblades.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://cryptoblades.io",
+    "referral_url": null,
+    "outbound_url": "https://cryptoblades.io",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "cryptopond",
+    "slug": "cryptopond",
+    "name": "Cryptopond",
+    "domain": "cryptopond.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://cryptopond.xyz/points",
+    "referral_url": null,
+    "outbound_url": "https://cryptopond.xyz/points",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "cysic",
+    "slug": "cysic",
+    "name": "Cysic",
+    "domain": "cysic.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://cysic.xyz",
+    "referral_url": null,
+    "outbound_url": "https://cysic.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "dapp",
+    "slug": "dapp",
+    "name": "Dapp",
+    "domain": "dapp.fractionai.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://dapp.fractionai.xyz",
+    "referral_url": null,
+    "outbound_url": "https://dapp.fractionai.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "datagram",
+    "slug": "datagram",
+    "name": "Datagram",
+    "domain": "dashboard.datagram.network",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://dashboard.datagram.network/favicon.ico",
+    "referral_url": null,
+    "outbound_url": "https://dashboard.datagram.network/favicon.ico",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "datahaven",
+    "slug": "datahaven",
+    "name": "Datahaven",
+    "domain": "datahaven.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://datahaven.xyz",
+    "referral_url": null,
+    "outbound_url": "https://datahaven.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "decent",
+    "slug": "decent",
+    "name": "Decent",
+    "domain": "decent.build",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://decent.build",
+    "referral_url": null,
+    "outbound_url": "https://decent.build",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "deepbook",
+    "slug": "deepbook",
+    "name": "Deepbook",
+    "domain": "deepbook.tech",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://deepbook.tech",
+    "referral_url": null,
+    "outbound_url": "https://deepbook.tech",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "defx",
+    "slug": "defx",
+    "name": "Defx",
+    "domain": "app.defx.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://app.defx.com",
+    "referral_url": null,
+    "outbound_url": "https://app.defx.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "deposit",
+    "slug": "deposit",
+    "name": "Deposit",
+    "domain": "deposit.testnet.romeprotocol.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://deposit.testnet.romeprotocol.xyz/deposit",
+    "referral_url": null,
+    "outbound_url": "https://deposit.testnet.romeprotocol.xyz/deposit",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "dispatch",
+    "slug": "dispatch",
+    "name": "Dispatch",
+    "domain": "dispatch.spekter.games",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://dispatch.spekter.games/quests",
+    "referral_url": null,
+    "outbound_url": "https://dispatch.spekter.games/quests",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "doma",
+    "slug": "doma",
+    "name": "Doma",
+    "domain": "app.doma.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://app.doma.xyz",
+    "referral_url": null,
+    "outbound_url": "https://app.doma.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "dreamcash",
+    "slug": "dreamcash",
+    "name": "Dreamcash",
+    "domain": "dreamcash.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://dreamcash.xyz",
+    "referral_url": null,
+    "outbound_url": "https://dreamcash.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "drip",
+    "slug": "drip",
+    "name": "Drip",
+    "domain": "drip.haus",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://drip.haus",
+    "referral_url": null,
+    "outbound_url": "https://drip.haus",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "drosera",
+    "slug": "drosera",
+    "name": "Drosera",
+    "domain": "app.drosera.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://app.drosera.io",
+    "referral_url": null,
+    "outbound_url": "https://app.drosera.io",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "ducatprotocol",
+    "slug": "ducatprotocol",
+    "name": "Ducatprotocol",
+    "domain": "ducatprotocol.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://ducatprotocol.com",
+    "referral_url": null,
+    "outbound_url": "https://ducatprotocol.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "eclipse",
+    "slug": "eclipse",
+    "name": "Eclipse",
+    "domain": "eclipse.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://eclipse.xyz",
+    "referral_url": null,
+    "outbound_url": "https://eclipse.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "eigencloud",
+    "slug": "eigencloud",
+    "name": "Eigencloud",
+    "domain": "eigencloud.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://eigencloud.xyz",
+    "referral_url": null,
+    "outbound_url": "https://eigencloud.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "elixir",
+    "slug": "elixir",
+    "name": "Elixir",
+    "domain": "elixir.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://elixir.xyz",
+    "referral_url": null,
+    "outbound_url": "https://elixir.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "enso",
+    "slug": "enso",
+    "name": "Enso",
+    "domain": "enso.build",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://enso.build",
+    "referral_url": null,
+    "outbound_url": "https://enso.build",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "espressosys",
+    "slug": "espressosys",
+    "name": "Espressosys",
+    "domain": "espressosys.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://espressosys.com",
+    "referral_url": null,
+    "outbound_url": "https://espressosys.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "ethgas",
+    "slug": "ethgas",
+    "name": "Ethgas",
+    "domain": "ethgas.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://ethgas.com",
+    "referral_url": null,
+    "outbound_url": "https://ethgas.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "ethos",
+    "slug": "ethos",
+    "name": "Ethos",
+    "domain": "app.ethos.network",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://app.ethos.network",
+    "referral_url": null,
+    "outbound_url": "https://app.ethos.network",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "euclidprotocol",
+    "slug": "euclidprotocol",
+    "name": "Euclidprotocol",
+    "domain": "euclidprotocol.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://euclidprotocol.io",
+    "referral_url": null,
+    "outbound_url": "https://euclidprotocol.io",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "euphoria",
+    "slug": "euphoria",
+    "name": "Euphoria",
+    "domain": "euphoria.finance",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://euphoria.finance",
+    "referral_url": null,
+    "outbound_url": "https://euphoria.finance",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "exabits",
+    "slug": "exabits",
+    "name": "Exabits",
+    "domain": "exabits.ai",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://exabits.ai",
+    "referral_url": null,
+    "outbound_url": "https://exabits.ai",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "fableborne",
+    "slug": "fableborne",
+    "name": "Fableborne",
+    "domain": "fableborne.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://fableborne.com/favicon.ico",
+    "referral_url": null,
+    "outbound_url": "https://fableborne.com/favicon.ico",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "fabric",
+    "slug": "fabric",
+    "name": "Fabric",
+    "domain": "fabric.openmind.org",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://fabric.openmind.org",
+    "referral_url": null,
+    "outbound_url": "https://fabric.openmind.org",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "farcaster",
+    "slug": "farcaster",
+    "name": "Farcaster",
+    "domain": "farcaster.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://farcaster.xyz/maxwayld",
+    "referral_url": null,
+    "outbound_url": "https://farcaster.xyz/maxwayld",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "fastlane",
+    "slug": "fastlane",
+    "name": "Fastlane",
+    "domain": "fastlane.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://fastlane.xyz/favicon.ico",
+    "referral_url": null,
+    "outbound_url": "https://fastlane.xyz/favicon.ico",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "faucet",
+    "slug": "faucet",
+    "name": "Faucet",
+    "domain": "faucet.testnet.chain.robinhood.com",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://faucet.testnet.chain.robinhood.com",
+    "referral_url": null,
+    "outbound_url": "https://faucet.testnet.chain.robinhood.com",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "fermah",
+    "slug": "fermah",
+    "name": "Fermah",
+    "domain": "fermah.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://fermah.xyz",
+    "referral_url": null,
+    "outbound_url": "https://fermah.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "fhenix",
+    "slug": "fhenix",
+    "name": "Fhenix",
+    "domain": "fhenix.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://fhenix.io",
+    "referral_url": null,
+    "outbound_url": "https://fhenix.io",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "fiammalabs",
+    "slug": "fiammalabs",
+    "name": "Fiammalabs",
+    "domain": "fiammalabs.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://fiammalabs.io",
+    "referral_url": null,
+    "outbound_url": "https://fiammalabs.io",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "fleek",
+    "slug": "fleek",
+    "name": "Fleek",
+    "domain": "fleek.sh",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://fleek.sh",
+    "referral_url": null,
+    "outbound_url": "https://fleek.sh",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "flock",
+    "slug": "flock",
+    "name": "Flock",
+    "domain": "flock.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://flock.io",
+    "referral_url": null,
+    "outbound_url": "https://flock.io",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "fluence",
+    "slug": "fluence",
+    "name": "Fluence",
+    "domain": "fluence.network",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://fluence.network",
+    "referral_url": null,
+    "outbound_url": "https://fluence.network",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "fluent",
+    "slug": "fluent",
+    "name": "Fluent",
+    "domain": "fluent.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://fluent.xyz",
+    "referral_url": null,
+    "outbound_url": "https://fluent.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "fogo",
+    "slug": "fogo",
+    "name": "Fogo",
+    "domain": "fogo.io",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://fogo.io/start",
+    "referral_url": null,
+    "outbound_url": "https://fogo.io/start",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "fragmetric",
+    "slug": "fragmetric",
+    "name": "Fragmetric",
+    "domain": "fragmetric.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://fragmetric.xyz/favicon.ico",
+    "referral_url": null,
+    "outbound_url": "https://fragmetric.xyz/favicon.ico",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "fuel",
+    "slug": "fuel",
+    "name": "Fuel",
+    "domain": "fuel.network",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://fuel.network",
+    "referral_url": null,
+    "outbound_url": "https://fuel.network",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "gaianet",
+    "slug": "gaianet",
+    "name": "Gaianet",
+    "domain": "gaianet.ai",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://gaianet.ai",
+    "referral_url": null,
+    "outbound_url": "https://gaianet.ai",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  },
+  {
+    "id": "gata",
+    "slug": "gata",
+    "name": "Gata",
+    "domain": "app.gata.xyz",
+    "category": "Web3",
+    "image": null,
+    "description": null,
+    "website_url": "https://app.gata.xyz",
+    "referral_url": null,
+    "outbound_url": "https://app.gata.xyz",
+    "referral_status": "no_program",
+    "sources": [
+      "maxy"
+    ],
+    "verified_overlap": false
+  }
+]

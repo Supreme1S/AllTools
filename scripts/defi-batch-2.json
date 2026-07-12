@@ -1,0 +1,277 @@
+[
+  {
+    "slug": "dflow",
+    "name": "Dflow",
+    "domain": "dflow.net"
+  },
+  {
+    "slug": "eigenlayer",
+    "name": "EigenLayer",
+    "domain": "eigenlayer.xyz"
+  },
+  {
+    "slug": "element",
+    "name": "Element",
+    "domain": "element.market"
+  },
+  {
+    "slug": "ens",
+    "name": "ENS",
+    "domain": "ens.domains"
+  },
+  {
+    "slug": "ethena",
+    "name": "Ethena",
+    "domain": "ethena.fi"
+  },
+  {
+    "slug": "ether-fi",
+    "name": "ether.fi",
+    "domain": "ether.fi"
+  },
+  {
+    "slug": "ethereal",
+    "name": "Ethereal",
+    "domain": "app.ethereal.trade"
+  },
+  {
+    "slug": "fibrous",
+    "name": "Fibrous",
+    "domain": "app.fibrous.finance"
+  },
+  {
+    "slug": "flex",
+    "name": "Flex",
+    "domain": "flexing.gg"
+  },
+  {
+    "slug": "flowx",
+    "name": "FlowX",
+    "domain": "flowx.finance"
+  },
+  {
+    "slug": "fragment",
+    "name": "Fragment",
+    "domain": "fragment.com"
+  },
+  {
+    "slug": "friend-tech",
+    "name": "Friend.tech",
+    "domain": "friend.tech"
+  },
+  {
+    "slug": "gains",
+    "name": "Gains",
+    "domain": "gains.trade"
+  },
+  {
+    "slug": "galxe",
+    "name": "Galxe",
+    "domain": "galxe.com"
+  },
+  {
+    "slug": "gamma",
+    "name": "Gamma",
+    "domain": "app.gamma.xyz"
+  },
+  {
+    "slug": "gaz-zip",
+    "name": "Gaz.zip",
+    "domain": "gas.zip"
+  },
+  {
+    "slug": "getgems",
+    "name": "Getgems",
+    "domain": "getgems.io"
+  },
+  {
+    "slug": "gitcoin",
+    "name": "Gitcoin",
+    "domain": "gitcoin.co"
+  },
+  {
+    "slug": "gluex-protocol",
+    "name": "GlueX Protocol",
+    "domain": "gluex.xyz"
+  },
+  {
+    "slug": "guild",
+    "name": "Guild",
+    "domain": "guild.xyz"
+  },
+  {
+    "slug": "harmony-explorer",
+    "name": "Harmony Explorer",
+    "domain": "explorer.harmony.one"
+  },
+  {
+    "slug": "hashflow",
+    "name": "HashFlow",
+    "domain": "app.hashflow.com"
+  },
+  {
+    "slug": "helmet",
+    "name": "Helmet",
+    "domain": "helmet.insure"
+  },
+  {
+    "slug": "here-finance",
+    "name": "Here Finance",
+    "domain": "app.hera.finance"
+  },
+  {
+    "slug": "hey",
+    "name": "Hey",
+    "domain": "hey.xyz"
+  },
+  {
+    "slug": "homora-v2",
+    "name": "Homora v2",
+    "domain": "homora-v2.alphaventuredao.io"
+  },
+  {
+    "slug": "hop-exchange",
+    "name": "Hop Exchange",
+    "domain": "app.hop.exchange"
+  },
+  {
+    "slug": "hotstuff",
+    "name": "Hotstuff",
+    "domain": "testnet.hotstuff.trade"
+  },
+  {
+    "slug": "hyena",
+    "name": "Hyena",
+    "domain": "app.hyena.trade"
+  },
+  {
+    "slug": "hyphen",
+    "name": "Hyphen",
+    "domain": "hyphen.biconomy.io"
+  },
+  {
+    "slug": "icecreamswap",
+    "name": "IceCreamSwap",
+    "domain": "icecreamswap.com"
+  },
+  {
+    "slug": "immutable",
+    "name": "Immutable",
+    "domain": "immutable.com"
+  },
+  {
+    "slug": "impossible-finance",
+    "name": "Impossible Finance",
+    "domain": "app.impossible.finance"
+  },
+  {
+    "slug": "insurace",
+    "name": "InsurAce",
+    "domain": "app.insurace.io"
+  },
+  {
+    "slug": "interport-by-l0",
+    "name": "Interport (by L0)",
+    "domain": "app.interport.fi"
+  },
+  {
+    "slug": "iswap",
+    "name": "iSwap",
+    "domain": "iswap.tech"
+  },
+  {
+    "slug": "izumi",
+    "name": "iZUMi",
+    "domain": "izumi.finance"
+  },
+  {
+    "slug": "jumbo",
+    "name": "Jumbo",
+    "domain": "jumbo.exchange"
+  },
+  {
+    "slug": "jumper",
+    "name": "Jumper",
+    "domain": "jumper.exchange"
+  },
+  {
+    "slug": "jupiter",
+    "name": "Jupiter",
+    "domain": "jup.ag"
+  },
+  {
+    "slug": "just-cryptos",
+    "name": "Just Cryptos",
+    "domain": "just.network"
+  },
+  {
+    "slug": "justlend",
+    "name": "JustLend",
+    "domain": "app.justlend.org"
+  },
+  {
+    "slug": "justmoney",
+    "name": "JustMoney",
+    "domain": "just.money"
+  },
+  {
+    "slug": "katana-roninchain-com",
+    "name": "Katana",
+    "domain": "id.roninchain.com"
+  },
+  {
+    "slug": "klayswap",
+    "name": "KLAYswap",
+    "domain": "klayswap.com"
+  },
+  {
+    "slug": "koi-finance",
+    "name": "KOI Finance",
+    "domain": "dapp.koi.finance"
+  },
+  {
+    "slug": "kokonut-swap",
+    "name": "Kokonut Swap",
+    "domain": "kokonutswap.finance"
+  },
+  {
+    "slug": "l2pass-by-l0",
+    "name": "L2pass (by L0)",
+    "domain": "l2pass.com"
+  },
+  {
+    "slug": "layer3",
+    "name": "Layer3",
+    "domain": "layer3.xyz"
+  },
+  {
+    "slug": "layerbank",
+    "name": "LayerBank",
+    "domain": "layerbank.finance"
+  },
+  {
+    "slug": "layerswap",
+    "name": "Layerswap",
+    "domain": "layerswap.io"
+  },
+  {
+    "slug": "lido",
+    "name": "Lido",
+    "domain": "lido.fi"
+  },
+  {
+    "slug": "limitless",
+    "name": "Limitless",
+    "domain": "limitless.exchange"
+  },
+  {
+    "slug": "linea",
+    "name": "Linea",
+    "domain": "linea.build"
+  },
+  {
+    "slug": "link3",
+    "name": "Link3",
+    "domain": "link3.to"
+  }
+]

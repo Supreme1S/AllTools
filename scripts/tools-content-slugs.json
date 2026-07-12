@@ -1,0 +1,332 @@
+[
+  {
+    "slug": "1password",
+    "name": "1Password",
+    "domain": "1password.com"
+  },
+  {
+    "slug": "365-sms",
+    "name": "365-SMS",
+    "domain": "365sms.org"
+  },
+  {
+    "slug": "4vps",
+    "name": "4VPS",
+    "domain": "4vps.su"
+  },
+  {
+    "slug": "accsmarket",
+    "name": "AccsMarket",
+    "domain": "accsmarket.com"
+  },
+  {
+    "slug": "accsmoll",
+    "name": "AccsMoll",
+    "domain": "accsmoll.com"
+  },
+  {
+    "slug": "ads-power",
+    "name": "ADS Power",
+    "domain": "adspower.net"
+  },
+  {
+    "slug": "aeza",
+    "name": "Aeza",
+    "domain": "aeza.net"
+  },
+  {
+    "slug": "afina",
+    "name": "Afina",
+    "domain": "afina.io"
+  },
+  {
+    "slug": "agentx-antidetect",
+    "name": "Agentx-antidetect",
+    "domain": "agentx-antidetect.com"
+  },
+  {
+    "slug": "authy",
+    "name": "Authy",
+    "domain": "authy.com"
+  },
+  {
+    "slug": "bablosoft",
+    "name": "Bablosoft",
+    "domain": "bablosoft.com"
+  },
+  {
+    "slug": "bestchange",
+    "name": "BestChange",
+    "domain": "bestchange.ru"
+  },
+  {
+    "slug": "bitwarden",
+    "name": "BitWarden",
+    "domain": "bitwarden.com"
+  },
+  {
+    "slug": "cielo",
+    "name": "Cielo",
+    "domain": "cielo.finance"
+  },
+  {
+    "slug": "cincin",
+    "name": "CinCin",
+    "domain": "cincin.cards"
+  },
+  {
+    "slug": "claude",
+    "name": "Claude",
+    "domain": "claude.ai"
+  },
+  {
+    "slug": "cloudzy",
+    "name": "Cloudzy",
+    "domain": "cloudzy.com"
+  },
+  {
+    "slug": "combo",
+    "name": "Combo",
+    "domain": "combo.cards"
+  },
+  {
+    "slug": "cryptoquant",
+    "name": "CryptoQuant",
+    "domain": "cryptoquant.com"
+  },
+  {
+    "slug": "darkstore",
+    "name": "DarkStore",
+    "domain": "dark.shopping"
+  },
+  {
+    "slug": "delphi-digital",
+    "name": "Delphi Digital",
+    "domain": "delphidigital.io"
+  },
+  {
+    "slug": "discord-accounts",
+    "name": "discord accounts",
+    "domain": "discord-accounts.ru"
+  },
+  {
+    "slug": "discover",
+    "name": "Discover",
+    "domain": "discover.getmoni.io"
+  },
+  {
+    "slug": "findmybridge",
+    "name": "FindMyBridge",
+    "domain": "findmybridge.com"
+  },
+  {
+    "slug": "fire-accs",
+    "name": "Fire-accs",
+    "domain": "fire-accs.biz"
+  },
+  {
+    "slug": "funpay",
+    "name": "FunPay",
+    "domain": "funpay.com"
+  },
+  {
+    "slug": "geelark",
+    "name": "GeeLark",
+    "domain": "geelark.com"
+  },
+  {
+    "slug": "gglead",
+    "name": "Gglead",
+    "domain": "gglead.org"
+  },
+  {
+    "slug": "glassnode",
+    "name": "GlassNode",
+    "domain": "glassnode.com"
+  },
+  {
+    "slug": "happ",
+    "name": "Happ",
+    "domain": "happ.su"
+  },
+  {
+    "slug": "hero-sms",
+    "name": "Hero-sms",
+    "domain": "hero-sms.com"
+  },
+  {
+    "slug": "hetzner",
+    "name": "Hetzner",
+    "domain": "hetzner.cloud"
+  },
+  {
+    "slug": "honeypot",
+    "name": "HoneyPot",
+    "domain": "honeypot.is"
+  },
+  {
+    "slug": "kameleo",
+    "name": "Kameleo",
+    "domain": "kameleo.io"
+  },
+  {
+    "slug": "kast",
+    "name": "KAST",
+    "domain": "kast.xyz"
+  },
+  {
+    "slug": "kripicard",
+    "name": "Kripicard",
+    "domain": "kripicard.com"
+  },
+  {
+    "slug": "kryon-vpn",
+    "name": "Kryon VPN",
+    "domain": "kryonvpn.com"
+  },
+  {
+    "slug": "latitude",
+    "name": "Latitude",
+    "domain": "latitude.sh"
+  },
+  {
+    "slug": "lztmarket",
+    "name": "LZTmarket",
+    "domain": "lzt.market"
+  },
+  {
+    "slug": "maxy",
+    "name": "Maxy",
+    "domain": "hub.maxy.tools"
+  },
+  {
+    "slug": "morelogin",
+    "name": "MoreLogin",
+    "domain": "morelogin.com"
+  },
+  {
+    "slug": "multi-login",
+    "name": "Multi-Login",
+    "domain": "multilogin.com"
+  },
+  {
+    "slug": "netcup",
+    "name": "Netcup",
+    "domain": "netcup.com"
+  },
+  {
+    "slug": "octobrowser",
+    "name": "Octobrowser",
+    "domain": "octobrowser.org"
+  },
+  {
+    "slug": "ovhcloud",
+    "name": "OVHCloud",
+    "domain": "ovhcloud.com"
+  },
+  {
+    "slug": "platform",
+    "name": "Platform",
+    "domain": "platform.arkhamintelligence.com"
+  },
+  {
+    "slug": "plati-market",
+    "name": "Plati Market",
+    "domain": "plati.market"
+  },
+  {
+    "slug": "playwright",
+    "name": "Playwright",
+    "domain": "playwright.dev"
+  },
+  {
+    "slug": "pocketuniverse",
+    "name": "PocketUniverse",
+    "domain": "pocketuniverse.app"
+  },
+  {
+    "slug": "proxyshard",
+    "name": "ProxyShard",
+    "domain": "proxyshard.com"
+  },
+  {
+    "slug": "puppeteer",
+    "name": "Puppeteer",
+    "domain": "pptr.dev"
+  },
+  {
+    "slug": "pyyplbot",
+    "name": "PyyplBot",
+    "domain": "pyyplbot.com"
+  },
+  {
+    "slug": "revoke",
+    "name": "Revoke",
+    "domain": "revoke.cash"
+  },
+  {
+    "slug": "rugcheck",
+    "name": "RugCheck",
+    "domain": "rugcheck.xyz"
+  },
+  {
+    "slug": "safe",
+    "name": "Safe",
+    "domain": "safe.global"
+  },
+  {
+    "slug": "santiment",
+    "name": "Santiment",
+    "domain": "santiment.net"
+  },
+  {
+    "slug": "selenium",
+    "name": "Selenium",
+    "domain": "selenium.dev"
+  },
+  {
+    "slug": "smspool",
+    "name": "SMSPool",
+    "domain": "smspool.net"
+  },
+  {
+    "slug": "solcard",
+    "name": "Solcard",
+    "domain": "solcard.cc"
+  },
+  {
+    "slug": "textverified",
+    "name": "TextVerified",
+    "domain": "textverified.com"
+  },
+  {
+    "slug": "tiger-sms",
+    "name": "Tiger SMS",
+    "domain": "tiger-sms.com"
+  },
+  {
+    "slug": "token-sniffer",
+    "name": "Token Sniffer",
+    "domain": "tokensniffer.com"
+  },
+  {
+    "slug": "undetectable",
+    "name": "Undetectable",
+    "domain": "undetectable.io"
+  },
+  {
+    "slug": "webshare",
+    "name": "Webshare",
+    "domain": "webshare.io"
+  },
+  {
+    "slug": "whitebird",
+    "name": "Whitebird",
+    "domain": "whitebird.io"
+  },
+  {
+    "slug": "zennoposter",
+    "name": "ZennoPoster",
+    "domain": "zennolab.com"
+  }
+]
