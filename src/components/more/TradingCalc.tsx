@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useCallback, useEffect, useRef } from "react";
+import { useState, useCallback, useRef } from "react";
 import { Minus, Plus } from "lucide-react";
 
 interface CalcState {
@@ -102,10 +102,6 @@ export function TradingCalc() {
   const finalCapital = state.capital + netProfit;
   const roi = (netProfit / state.capital) * 100;
   const profitFactor = totalLoss > 0 ? totalProfit / totalLoss : Infinity;
-
-  useEffect(() => {
-    if (netProfit > state.capital * 10) showEgg("печатай деньги? SEC already knows your location");
-  }, [netProfit, state.capital, showEgg]);
 
   return (
     <section className="more-section">
