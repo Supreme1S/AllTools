@@ -68,19 +68,26 @@ export function TradingCalc() {
   const [state, setState] = useState<CalcState>({ capital: 1000, riskPercent: 1, riskReward: 3, winRate: 80, trades: 50 });
   const [egg, setEgg] = useState<string | null>(null);
   const eggTimer = useRef<ReturnType<typeof setTimeout> | undefined>(undefined);
+  const lastEggTime = useRef(0);
+  const eggCooldown = useRef(false);
 
   const showEgg = useCallback((msg: string) => {
+    if (eggCooldown.current) return;
+    eggCooldown.current = true;
     setEgg(msg);
     clearTimeout(eggTimer.current);
-    eggTimer.current = setTimeout(() => setEgg(null), 2500);
+    eggTimer.current = setTimeout(() => {
+      setEgg(null);
+      eggCooldown.current = false;
+    }, 2500);
   }, []);
 
   const set = useCallback((key: keyof CalcState, value: number) => {
     setState((s) => {
       const next = { ...s, [key]: value };
-      if (value === 777) showEgg("jackpot!");
-      else if (key === "capital" && value === 0) showEgg("enterpreneur speedrun any%");
-      else if (key === "riskPercent" && value === 100) showEgg("ты либо легенда, либо бомж");
+      if (value === 777 && !eggCooldown.current) showEgg("jackpot!");
+      else if (key === "capital" && value === 0 && !eggCooldown.current) showEgg("enterpreneur speedrun any%");
+      else if (key === "riskPercent" && value === 100 && !eggCooldown.current) showEgg("ты либо легенда, либо бомж");
       return next;
     });
   }, [showEgg]);
