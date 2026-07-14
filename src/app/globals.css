@@ -2084,6 +2084,10 @@ body {
   color: var(--accent-text);
 }
 
+.catalog-card-name-faq {
+  color: var(--accent-text) !important;
+}
+
 .catalog-card-badge {
   display: inline-flex;
   align-items: center;

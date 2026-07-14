@@ -217,7 +217,7 @@ export function GuidesClient({
               className="catalog-card-shell"
             >
               <article className="catalog-card">
-                <h2 className="catalog-card-name">{guide.title}</h2>
+                <h2 className={cn("catalog-card-name", guide.title === "FAQ — как пользоваться AllTools" && "catalog-card-name-faq")}>{guide.title}</h2>
                 <p className="catalog-card-desc">{guide.excerpt}</p>
               </article>
             </Link>
