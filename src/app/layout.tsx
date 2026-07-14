@@ -19,6 +19,12 @@ export const metadata: Metadata = {
   icons: {
     icon: "/favicon.svg",
   },
+  openGraph: {
+    title: "AllTools — каталог крипто-сервисов",
+    description: "Биржи, кошельки, DeFi, AI, NFT. Тир-лист, гайды и чекер дропов. Без рефералок.",
+    siteName: "AllTools",
+    type: "website",
+  },
 };
 
 export default function RootLayout({
