@@ -6,6 +6,9 @@ export function Footer() {
           Web3, AI и рабочие сервисы — в одном месте. Я собрал их, чтобы ты
           не рылся в очередном «топе»: зашёл, нашёл нужное, поехал дальше.
         </p>
+        <p className="footer-email">
+          по вопросам сотрудничества, предложениям и обратной связи: info@alltools.tools
+        </p>
         <p className="footer-copyright">
           © {new Date().getFullYear()} alltools
         </p>

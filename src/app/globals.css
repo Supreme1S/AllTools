@@ -3846,8 +3846,16 @@ body:has(.hub-stage) .footer-lead {
 }
 
 .footer-copyright {
-  font-size: 11px;
+  font-size: 13px;
   color: var(--c-text-dim);
+  margin: 0;
+}
+
+.footer-email {
+  font-size: 13px;
+  color: var(--c-text-dim);
+  margin: 0 0 8px;
+  opacity: 0.7;
 }
 
 /* ================================================================
