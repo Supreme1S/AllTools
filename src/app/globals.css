@@ -3852,10 +3852,10 @@ body:has(.hub-stage) .footer-lead {
 }
 
 .footer-email {
-  font-size: 13px;
-  color: var(--c-text-dim);
-  margin: 0 0 8px;
-  opacity: 0.7;
+  font-size: 16px;
+  color: var(--c-text);
+  margin: 0 0 12px;
+  font-weight: 600;
 }
 
 /* ================================================================
