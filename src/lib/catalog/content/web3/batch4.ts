@@ -681,46 +681,6 @@ export const WEB3_BATCH_4: Record<string, PlatformContent> = {
       "Scam-сайты имитируют testnet.monad.xyz — bookmark official URL, не импортируй seed в неизвестный faucet.",
     ],
   },
-  moonbirds: {
-    short:
-      "Moonbirds NFT — flagship PFP collection от Proof/Twitter OG community с nesting, Oddities и ecosystem expansions.",
-    long:
-      "Moonbirds (moonbirds.com) — 10k PFP NFT collection: nesting механики для rewards, Proof ecosystem, art от Kevin Rose network.",
-    tagline: "Blue-chip NFT culture и nesting rewards.",
-    highlight:
-      "Moonbirds запущены в 2022 как premium PFP: nesting (залочь bird для points), Oddities derivative art, переход к Proof brand. Floor волатилен с циклами NFT market. Holder benefits привязаны к Proof roadmap — timepieces, другие коллекции. Для collectors и traders в elite PFP tier, не passive DeFi. Royalties и marketplace enforcement варьируются по платформам после Blur wars.",
-    facts: [
-      "Moonbirds mint апрель 2022: mint 2.5 ETH, floor достигал 30+ ETH — затем NFT winter crushed 90%+ collections включая birds.",
-      "Proof pivot и смена руководства 2023–2024: fatigue держателей, когда roadmap сместился с «metaverse» к broader media.",
-      "Nesting points seasons вознаграждали patience — трейдеры instant flip упускали additive benefits, полученные лояльными stakers.",
-    ],
-    tips: [
-      "Проверяй marketplace collection address — fake Moonbirds collections распространены на OpenSea-клонах.",
-    ],
-    warnings: [
-      "NFT liquidity thin вне bull market — floor price может gap down 50% за weeks.",
-    ],
-  },
-  moonveil: {
-    short:
-      "Web3 gaming platform — AA-качественные игры с on-chain assets, token economy и community-driven development.",
-    long:
-      "Moonveil (moonveil.gg) — gaming studio/platform, публикующая Web3 titles: NFT assets, token incentives, амбиции cross-game economy.",
-    tagline: "Web3 gaming platform для AA titles.",
-    highlight:
-      "Moonveil целится в mid-core игры, в отличие от hyper-casual crypto clickers: лучшее production values, заявления об устойчивом token design, community в development loops. moonveil.gg — hub для анонсов, betas, mints. Gaming token sector жесток — большинство проектов проваливают retention. Оценивай каждую игру индивидуально; platform token risk отделён от fun factor.",
-    facts: [
-      "Web3 gaming funding 2022–2024: billions вложено, мало daily active users >10k — Moonveil борется с индустриальным track record.",
-      "Token dual economy games: инфляция разрушила Axie-класс экономики — новые проекты обещают fixes, повторяют ошибки.",
-      "Beta access NFT gates: secondary price падает, когда beta разочаровывает — классический hype cycle.",
-    ],
-    tips: [
-      "Играй в beta перед покупкой governance token — gameplay first, token second.",
-    ],
-    warnings: [
-      "In-game tokens часто незарегистрированные securities в некоторых jurisdictions — legal risk для участников.",
-    ],
-  },
   morph: {
     short:
       "Morph L2 — consumer-friendly Ethereum rollup с low fees и UX focus для mass adoption dApps.",

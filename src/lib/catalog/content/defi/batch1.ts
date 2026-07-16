@@ -782,26 +782,6 @@ export const DEFI_BATCH_1: Record<string, PlatformContent> = {
       "Multi-hop trades increase failure points — start with moderate size.",
     ],
   },
-  claimswap: {
-    short:
-      "DEX на Klaytn — свапы и liquidity для Kakao-backed Korean blockchain ecosystem.",
-    long:
-      "ClaimSwap — AMM на Klaytn (Kaia) serving Korean Web3 ecosystem tokens и KLAY pairs.",
-    tagline: "Swap desk Klaytn — ликвидность корейской экосистемы.",
-    highlight:
-      "ClaimSwap.org работает на Klaytn/Kaia chain — enterprise-linked Korean blockchain с local gaming и payment integrations. Primary DEX для on-chain swaps, когда ты в Klaytn ecosystem. Volume tied to Korean market activity и ecosystem token launches.",
-    facts: [
-      "Klaytn from Kakao/Ground X — ClaimSwap benefited from Korean corporate blockchain push.",
-      "Kaia rebrand merger 2024: Klaytn + Finschia — ClaimSwap adapted to unified chain branding.",
-      "Korean crypto regulation swings affect Klaytn activity — geography-specific risk factor.",
-    ],
-    tips: [
-      "Проверь token is official Klaytn deployment — scam tokens common на regional chains.",
-    ],
-    warnings: [
-      "Regional chain liquidity limited — large trades move price significantly.",
-    ],
-  },
   coinlist: {
     short:
       "Token launch platform — compliance-heavy sales для early access к топ проектам до биржи.",

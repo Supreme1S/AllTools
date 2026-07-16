@@ -661,26 +661,6 @@ export const WEB3_BATCH_3: Record<string, PlatformContent> = {
       "межсетевой messages необратимы при ошибке пользователя — дважды сверь destination chain и recipient.",
     ],
   },
-  ika: {
-    short:
-      "Ika claim portal — claim.ika.xyz для токены дистрибуция и onboarding в Sui межсетевой ecosystem.",
-    long:
-      "Ika — interoperability протокол on Sui ecosystem with claim portal at claim.ika.xyz для токены allocations, награды and сеть participation.",
-    tagline: "Ika — Sui ecosystem interoperability и клеймы.",
-    highlight:
-      "Claim.ika.xyz — portal токены клеймы и eligibility checks Ika сеть, типичный post-funding или pre-TGE portal. Ika — межсетевой infra в Sui и broader Move ecosystem. Подключи кошелёk, выполни tasks, claim allocations. Пик scam сезон на любом claim site — только официальный ссылки из verified Ika/Sui socials. Для участников Sui ecosystem и interoperability narrative.",
-    facts: [
-      "Sui ecosystem 2024: десятки claim portals — fake клоны крадут signatures за часы после анонс.",
-      "межсетевой на Move: Ika конкурирует с Wormhole, LayerZero — победит dev внедрение.",
-      "Deadline claim давит на rushed txs — пользователи approve malicious контракт в спешке.",
-    ],
-    tips: [
-      "Закладка claim.ika.xyz только из официального анонса — не кликай ссылки из DM.",
-    ],
-    warnings: [
-      "Claim portals просят только кошелёк подключение — любой запрос seed phrase = scam.",
-    ],
-  },
   incentiv: {
     short:
       "Incentiv сеть — incentiv.net L1 с soulbound incentives и gamified on-chain economy.",

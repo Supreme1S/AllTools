@@ -381,26 +381,6 @@ export const WEB3_BATCH_7: Record<string, PlatformContent> = {
       "Cross-chain bridge — максимальная attack surface в Web3; не переводи больше, чем готов потерять.",
     ],
   },
-  unite: {
-    short:
-      "Unite — claim portal и ecosystem hub на claim.unite.io: rewards, подключи кошелёк и community programs.",
-    long:
-      "Unite.io координирует onboarding через claim.unite.io/connect — типичный growth portal для token claims и квестов.",
-    tagline: "Unite — подключи, забери claim, участвуй в ecosystem rewards.",
-    highlight:
-      "Unite предлагает единый поток подключения для клеймов, рефералов и участия в экосистеме. Паттерн портала знаком по десяткам L1/L2: одна страница для привязки кошелька, проверки eligibility и распределения наград. Для фермеров — следи за официальными анонсами; для пользователей — проверяй домен claim.unite.io перед подписанием. Фейковые сайты клеймов — вектор скама №1 в неделю TGE.",
-    facts: [
-      "Мета клейм-порталов: каждый проект запускает поддомен в стиле claim.unite.io — одна неверная закладка и кошелёк пуст.",
-      "Connect wallet + sign message — фишинг просит malicious approve после безобидного логина.",
-      "Рост экосистемы Unite привязан к запускам партнёров — активность всплесками вокруг TGE партнёров, между ними тишина.",
-    ],
-    tips: [
-      "Вводи claim.unite.io вручную — не кликай ссылки из директ-сообщений в сезон клеймов.",
-    ],
-    warnings: [
-      "Проверяй детали транзакции в кошельке перед подписью — вредоносные сайты прячут token approvals.",
-    ],
-  },
   uptopia: {
     short:
       "Uptopia — social gaming portal на portal.uptopia.xyz: quests, points и community metaverse-lite experience.",

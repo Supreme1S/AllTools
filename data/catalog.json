@@ -1,7 +1,7 @@
 {
   "syncedAt": "2026-06-24T10:42:46.563Z",
   "stats": {
-    "total": 939,
+    "total": 927,
     "crypton": 565,
     "maxy": 504,
     "overlap_internal": 80,
@@ -63,23 +63,6 @@
       "verified_overlap": false
     },
     {
-      "id": "10kswap",
-      "slug": "10kswap",
-      "name": "10kswap",
-      "domain": "10kswap.com",
-      "category": "DeFi",
-      "image": "https://s3.crypton.xyz/tools/media/images/10kswap_logo.png",
-      "description": null,
-      "website_url": "https://10kswap.com",
-      "referral_url": null,
-      "outbound_url": "https://10kswap.com",
-      "referral_status": "no_program",
-      "sources": [
-        "crypton"
-      ],
-      "verified_overlap": false
-    },
-    {
       "id": "1inch",
       "slug": "1inch",
       "name": "1inch",
@@ -108,23 +91,6 @@
       "referral_url": null,
       "outbound_url": "https://1password.com",
       "referral_status": "pending",
-      "sources": [
-        "maxy"
-      ],
-      "verified_overlap": false
-    },
-    {
-      "id": "365-sms",
-      "slug": "365-sms",
-      "name": "365-SMS",
-      "domain": "365sms.org",
-      "category": "Инструменты",
-      "image": null,
-      "description": null,
-      "website_url": "https://365sms.org",
-      "referral_url": "https://365sms.vip/?ref=1271866",
-      "outbound_url": "https://365sms.vip/?ref=1271866",
-      "referral_status": "ready",
       "sources": [
         "maxy"
       ],
@@ -525,23 +491,6 @@
       "verified_overlap": false
     },
     {
-      "id": "almanak",
-      "slug": "almanak",
-      "name": "Almanak",
-      "domain": "app.almanak.co",
-      "category": "Web3",
-      "image": null,
-      "description": null,
-      "website_url": "https://app.almanak.co",
-      "referral_url": null,
-      "outbound_url": "https://app.almanak.co",
-      "referral_status": "no_program",
-      "sources": [
-        "maxy"
-      ],
-      "verified_overlap": false
-    },
-    {
       "id": "altered-studio",
       "slug": "altered-studio",
       "name": "Altered Studio",
@@ -555,23 +504,6 @@
       "referral_status": "no_program",
       "sources": [
         "crypton"
-      ],
-      "verified_overlap": false
-    },
-    {
-      "id": "altiuslabs",
-      "slug": "altiuslabs",
-      "name": "Altiuslabs",
-      "domain": "altiuslabs.xyz",
-      "category": "Web3",
-      "image": null,
-      "description": null,
-      "website_url": "https://altiuslabs.xyz",
-      "referral_url": null,
-      "outbound_url": "https://altiuslabs.xyz",
-      "referral_status": "no_program",
-      "sources": [
-        "maxy"
       ],
       "verified_overlap": false
     },
@@ -698,13 +630,13 @@
       "id": "aptosfoundation",
       "slug": "aptosfoundation",
       "name": "Aptosfoundation",
-      "domain": "aptosfoundation.org",
+      "domain": "aptosnetwork.com",
       "category": "Web3",
       "image": null,
       "description": null,
-      "website_url": "https://aptosfoundation.org",
+      "website_url": "https://aptosnetwork.com",
       "referral_url": null,
-      "outbound_url": "https://aptosfoundation.org",
+      "outbound_url": "https://aptosnetwork.com",
       "referral_status": "no_program",
       "sources": [
         "maxy"
@@ -2775,23 +2707,6 @@
       "referral_status": "no_program",
       "sources": [
         "maxy"
-      ],
-      "verified_overlap": false
-    },
-    {
-      "id": "claimswap",
-      "slug": "claimswap",
-      "name": "Claimswap",
-      "domain": "claimswap.org",
-      "category": "DeFi",
-      "image": "https://s3.crypton.xyz/tools/media/images/ClaimSwap_logo.png",
-      "description": null,
-      "website_url": "https://claimswap.org",
-      "referral_url": null,
-      "outbound_url": "https://claimswap.org",
-      "referral_status": "no_program",
-      "sources": [
-        "crypton"
       ],
       "verified_overlap": false
     },
@@ -6560,23 +6475,6 @@
       "verified_overlap": false
     },
     {
-      "id": "ika",
-      "slug": "ika",
-      "name": "Ika",
-      "domain": "claim.ika.xyz",
-      "category": "Web3",
-      "image": null,
-      "description": null,
-      "website_url": "https://claim.ika.xyz",
-      "referral_url": null,
-      "outbound_url": "https://claim.ika.xyz",
-      "referral_status": "no_program",
-      "sources": [
-        "maxy"
-      ],
-      "verified_overlap": false
-    },
-    {
       "id": "immutable",
       "slug": "immutable",
       "name": "Immutable",
@@ -8836,23 +8734,6 @@
       "verified_overlap": false
     },
     {
-      "id": "moonbirds",
-      "slug": "moonbirds",
-      "name": "Moonbirds",
-      "domain": "moonbirds.com",
-      "category": "Web3",
-      "image": null,
-      "description": null,
-      "website_url": "https://moonbirds.com",
-      "referral_url": null,
-      "outbound_url": "https://moonbirds.com",
-      "referral_status": "no_program",
-      "sources": [
-        "maxy"
-      ],
-      "verified_overlap": false
-    },
-    {
       "id": "moonscan",
       "slug": "moonscan",
       "name": "MoonScan",
@@ -8866,23 +8747,6 @@
       "referral_status": "no_program",
       "sources": [
         "crypton"
-      ],
-      "verified_overlap": false
-    },
-    {
-      "id": "moonveil",
-      "slug": "moonveil",
-      "name": "Moonveil",
-      "domain": "moonveil.gg",
-      "category": "Web3",
-      "image": null,
-      "description": null,
-      "website_url": "https://moonveil.gg",
-      "referral_url": null,
-      "outbound_url": "https://moonveil.gg",
-      "referral_status": "no_program",
-      "sources": [
-        "maxy"
       ],
       "verified_overlap": false
     },
@@ -11758,23 +11622,6 @@
       "verified_overlap": false
     },
     {
-      "id": "rocket-pool",
-      "slug": "rocket-pool",
-      "name": "Rocket Pool",
-      "domain": "rocketpool.net",
-      "category": "DeFi",
-      "image": "https://s3.crypton.xyz/tools/media/images/RocketPul_logo.png",
-      "description": null,
-      "website_url": "https://rocketpool.net",
-      "referral_url": null,
-      "outbound_url": "https://rocketpool.net",
-      "referral_status": "no_program",
-      "sources": [
-        "crypton"
-      ],
-      "verified_overlap": false
-    },
-    {
       "id": "rocketswap",
       "slug": "rocketswap",
       "name": "RocketSwap",
@@ -12352,23 +12199,6 @@
       "referral_status": "no_program",
       "sources": [
         "maxy"
-      ],
-      "verified_overlap": false
-    },
-    {
-      "id": "sms-activate",
-      "slug": "sms-activate",
-      "name": "SMS Activate",
-      "domain": "sms-activate.org",
-      "category": "Сервисы",
-      "image": "https://s3.crypton.xyz/tools/media/images/SMS_Activate_logo.png",
-      "description": null,
-      "website_url": "https://sms-activate.org",
-      "referral_url": null,
-      "outbound_url": "https://sms-activate.org",
-      "referral_status": "pending",
-      "sources": [
-        "crypton"
       ],
       "verified_overlap": false
     },
@@ -13254,23 +13084,6 @@
       "referral_url": null,
       "outbound_url": "https://account.superchain.eco",
       "referral_status": "no_program",
-      "sources": [
-        "maxy"
-      ],
-      "verified_overlap": false
-    },
-    {
-      "id": "superfluid",
-      "slug": "superfluid",
-      "name": "Superfluid",
-      "domain": "claim.superfluid.org",
-      "category": "Web3",
-      "image": null,
-      "description": null,
-      "website_url": "https://claim.superfluid.org/apps",
-      "referral_url": null,
-      "outbound_url": "https://claim.superfluid.org/apps",
-      "referral_status": "pending",
       "sources": [
         "maxy"
       ],
@@ -14605,23 +14418,6 @@
         "maxy"
       ],
       "verified_overlap": true
-    },
-    {
-      "id": "unite",
-      "slug": "unite",
-      "name": "Unite",
-      "domain": "claim.unite.io",
-      "category": "Web3",
-      "image": null,
-      "description": null,
-      "website_url": "https://claim.unite.io/connect",
-      "referral_url": null,
-      "outbound_url": "https://claim.unite.io/connect",
-      "referral_status": "no_program",
-      "sources": [
-        "maxy"
-      ],
-      "verified_overlap": false
     },
     {
       "id": "unstoppable-domains",
