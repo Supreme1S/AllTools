@@ -241,7 +241,7 @@ export function getPros(slug: string, _content: PlatformContent | null): string[
       "Полностью бесплатный — нет подписок, нет paywall",
       "Контекст 1M токенов — можно загрузить целую книгу",
       "DeepThink для сложного анализа — качество как у платных конкурентов",
-      "Самые дешёвые API-токены на рынке — V4 Flash в 20-100 раз дешевле GPT/Claude",
+      "Самые дешёвые API-токены на рынке — V5 Flash в 20-100 раз дешевле GPT/Claude",
     ],
     cursor: [
       "Глубокая интеграция с кодом — AI понимает весь проект",
@@ -258,9 +258,9 @@ export function getPros(slug: string, _content: PlatformContent | null): string[
     ],
     runway: [
       "Полный набор AI-видеоинструментов — от генерации до монтажа",
-      "Gen-4.5 — лучшая text-to-video модель с высокой детализацией",
+      "Gen-5.0 — лучшая text-to-video модель с высокой детализацией",
       "Бесплатные 125 кредитов для тестирования",
-      "Доступ к Veo 3.1, Kling 3.0 внутри Runway",
+      "Доступ к Veo 4.0, Kling 4.0 внутри Runway",
     ],
     suno: [
       "Генерация полноценных песен с вокалом за секунды",
@@ -290,7 +290,7 @@ export function getPros(slug: string, _content: PlatformContent | null): string[
     gemini: [
       "Глубокая интеграция с экосистемой Google — Gmail, Docs, Calendar, Drive",
       "Бесплатный Deep Research с поиском в реальном времени",
-      "Veo 3.1 — генерация видео в подписке AI Pro",
+      "Veo 4.0 — генерация видео в подписке AI Pro",
       "Огромный контекст 1M токенов + 5 TB хранилища",
     ],
     "github-copilot": [
@@ -400,24 +400,24 @@ export function getCons(slug: string, _content: PlatformContent | null): string[
 export function getPricingTiers(slug: string): { name: string; price: string; features: string[] }[] {
   const map: Record<string, { name: string; price: string; features: string[] }[]> = {
     openai: [
-      { name: "Go", price: "$8/мес", features: ["GPT-5.5 Instant", "Без рекламы", "Веб-поиск", "Ограниченная DALL-E"] },
-      { name: "Plus", price: "$20/мес", features: ["GPT-5.5 Thinking", "Deep Research", "Sora видео", "Codex", "Расширенная память", "Кастомные GPTs"] },
+      { name: "Go", price: "$8/мес", features: ["GPT-6.5 Instant", "Без рекламы", "Веб-поиск", "Ограниченная DALL-E"] },
+      { name: "Plus", price: "$20/мес", features: ["GPT-6.5 Thinking", "Deep Research", "Sora видео", "Codex", "Расширенная память", "Кастомные GPTs"] },
       { name: "Team", price: "$25/чел/мес", features: ["Всё как Plus", "Рабочее пространство", "Админ-панель", "Без обучения на данных"] },
-      { name: "Pro", price: "$200/мес", features: ["Unlimited GPT-5.5 Pro", "o1 Pro mode", "Максимум Deep Research", "Приоритетный доступ", "Есть льготный $100/мес"] },
+      { name: "Pro", price: "$200/мес", features: ["Unlimited GPT-6.5 Pro", "o1 Pro mode", "Максимум Deep Research", "Приоритетный доступ", "Есть льготный $100/мес"] },
     ],
     claude: [
-      { name: "Free", price: "Бесплатно", features: ["Claude Sonnet 4.6 (стандарт)", "Haiku 4.5 (ограниченно)", "iOS/Android", "Базовое использование"] },
+      { name: "Free", price: "Бесплатно", features: ["Claude Sonnet 5.2 (стандарт)", "Haiku 5.0 (ограниченно)", "iOS/Android", "Базовое использование"] },
       { name: "Pro", price: "$20/мес", features: ["Расширенные лимиты", "Claude Code", "Веб-поиск", "Projects", "Google Workspace"] },
-      { name: "Max", price: "$100-200/мес", features: ["5x-20x Pro лимитов", "Приоритетный доступ", "Ранний доступ к фичам", "Claude Opus 4.8"] },
+      { name: "Max", price: "$100-200/мес", features: ["5x-20x Pro лимитов", "Приоритетный доступ", "Ранний доступ к фичам", "Claude Opus 5.5"] },
     ],
     deepseek: [
-      { name: "Веб-чат", price: "Бесплатно", features: ["V4 Flash + Thinking", "Веб-поиск", "Загрузка файлов", "Контекст 1M токенов"] },
-      { name: "V4 Flash API", price: "$0.14/1M токенов", features: ["1M контекст", "384K output", "Thinking mode", "Tool calling"] },
-      { name: "V4 Pro API", price: "$1.74/1M токенов", features: ["Frontier reasoning", "1M контекст", "Все фичи Flash", "Повышенная точность"] },
+      { name: "Веб-чат", price: "Бесплатно", features: ["V5 Flash + Thinking", "Веб-поиск", "Загрузка файлов", "Контекст 1M токенов"] },
+      { name: "V5 Flash API", price: "$0.14/1M токенов", features: ["1M контекст", "384K output", "Thinking mode", "Tool calling"] },
+      { name: "V5 Pro API", price: "$1.74/1M токенов", features: ["Frontier reasoning", "1M контекст", "Все фичи Flash", "Повышенная точность"] },
     ],
     perplexity: [
       { name: "Free", price: "Бесплатно", features: ["5 Pro Search/день", "Базовые модели", "Цитирование источников"] },
-      { name: "Pro", price: "$20/мес", features: ["Unlimited Pro Search", "20 Deep Research/день", "GPT-5.5, Claude, Gemini", "Загрузка файлов", "Labs и видео"] },
+      { name: "Pro", price: "$20/мес", features: ["Unlimited Pro Search", "20 Deep Research/день", "GPT-6.5, Claude, Gemini", "Загрузка файлов", "Labs и видео"] },
       { name: "Team", price: "$20/чел/мес", features: ["Всё из Pro", "Общие треды", "Административная панель", "Для команд"] },
       { name: "Max", price: "$200/мес", features: ["Unlimited Deep Research", "Perplexity Computer", "Приоритетная обработка", "Comet browser"] },
     ],
@@ -435,18 +435,18 @@ export function getPricingTiers(slug: string): { name: string; price: string; fe
       { name: "Mega", price: "$120/мес", features: ["60 ч Fast GPU", "Макс. приоритет", "Всё из Pro", "Для больших студий"] },
     ],
     runway: [
-      { name: "Standard", price: "$15/мес ($12/год)", features: ["625 кредитов/мес", "Все модели Gen-4.5", "Без водяных знаков", "5 пользователей"] },
+      { name: "Standard", price: "$15/мес ($12/год)", features: ["625 кредитов/мес", "Все модели Gen-5.0", "Без водяных знаков", "5 пользователей"] },
       { name: "Pro", price: "$35/мес ($28/год)", features: ["2,250 кредитов/мес", "Custom voices", "500 GB хранилища", "10 пользователей"] },
       { name: "Max", price: "$95/мес ($76/год)", features: ["9,500 кредитов/мес", "Перенос кредитов", "Ранний доступ к моделям"] },
     ],
     suno: [
-      { name: "Free", price: "Бесплатно", features: ["~5 песен/день (10 клипов)", "Модель v4.5", "Некоммерческое использование"] },
-      { name: "Pro", price: "$10/мес ($8/год)", features: ["500 песен/мес", "v5.5", "Коммерческие права", "Стемы", "Voice Cloning"] },
+      { name: "Free", price: "Бесплатно", features: ["~5 песен/день (10 клипов)", "Модель v6.0", "Некоммерческое использование"] },
+      { name: "Pro", price: "$10/мес ($8/год)", features: ["500 песен/мес", "v6.0", "Коммерческие права", "Стемы", "Voice Cloning"] },
       { name: "Premier", price: "$30/мес ($24/год)", features: ["2,000 песен/мес", "Suno Studio (DAW)", "MIDI-экспорт", "Макс. приоритет"] },
     ],
     "suno-ai": [
-      { name: "Free", price: "Бесплатно", features: ["~5 песен/день (10 клипов)", "Модель v4.5", "Некоммерческое использование"] },
-      { name: "Pro", price: "$10/мес ($8/год)", features: ["500 песен/мес", "v5.5", "Коммерческие права", "Стемы", "Voice Cloning"] },
+      { name: "Free", price: "Бесплатно", features: ["~5 песен/день (10 клипов)", "Модель v6.0", "Некоммерческое использование"] },
+      { name: "Pro", price: "$10/мес ($8/год)", features: ["500 песен/мес", "v6.0", "Коммерческие права", "Стемы", "Voice Cloning"] },
       { name: "Premier", price: "$30/мес ($24/год)", features: ["2,000 песен/мес", "Suno Studio (DAW)", "MIDI-экспорт", "Макс. приоритет"] },
     ],
     eleven: [
@@ -458,9 +458,9 @@ export function getPricingTiers(slug: string): { name: string; price: string; fe
       { name: "Enterprise", price: "$990/мес", features: ["8M кредитов", "Custom voices", "Выделенный сервер", "Интеграция под ключ"] },
     ],
     gemini: [
-      { name: "Free", price: "Бесплатно", features: ["Gemini 3.5 Flash", "15 GB хранилища", "Базовые функции", "Интеграция с Workspace"] },
-      { name: "AI Plus", price: "$4.99/мес", features: ["400 GB", "2x Free лимиты", "Gemini Omni Flash", "200 Flow кредитов"] },
-      { name: "AI Pro", price: "$19.99/мес (Google One)", features: ["Gemini 3.1 Pro", "5 TB хранилища", "1M контекст", "Deep Research", "Veo 3.1 видео"] },
+      { name: "Free", price: "Бесплатно", features: ["Gemini 4.0 Flash", "15 GB хранилища", "Базовые функции", "Интеграция с Workspace"] },
+      { name: "AI Plus", price: "$4.99/мес", features: ["400 GB", "2x Free лимиты", "Gemini Omni 2.0", "200 Flow кредитов"] },
+      { name: "AI Pro", price: "$19.99/мес (Google One)", features: ["Gemini 4.0 Pro", "5 TB хранилища", "1M контекст", "Deep Research", "Veo 4.0 видео"] },
     ],
     "github-copilot": [
       { name: "Free", price: "Бесплатно", features: ["2000 completions/мес", "Базовый чат", "Auto mode"] },

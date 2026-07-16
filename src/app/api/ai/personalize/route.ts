@@ -6,6 +6,7 @@ import {
   RESULT_IMAGES,
   type AiCategoryId,
 } from "@/lib/ai/config";
+import { getPricingTiers } from "@/lib/ai/tool-data";
 import type { Service } from "@/types";
 
 export const dynamic = "force-dynamic";
@@ -45,7 +46,8 @@ const SYSTEM_PROMPT = `Ты — AI-консультант платформы all
 2. Для бюджета "$10-20/мес": рекомендуй лучшие mid-планы ($10-25/мес). Не предлагай планы дороже $40/мес. В крайнем случае можно предложить крутой бесплатный инструмент.
 3. Для бюджета "premium ($20-200+/мес)": рекомендуй ТОЛЬКО дорогие Pro/Enterprise-планы с конкретными ценами $20-200+/мес. Никаких free-тиров и дешёвых планов. Если в каталоге нет дорогих инструментов под задачу — честно предложи лучший доступный с уточнением, что это максимум рынка.
 4. Выбирай инструменты ТОЛЬКО из переданного каталога. Не придумывай новых.
-5. Указывай РЕАЛЬНЫЕ цены (июнь 2026).
+5. ЦЕНЫ И МОДЕЛИ бери ТОЛЬКО из поля pricing_tiers ниже. Не выдумывай свои.
+6. Если в pricing_tiers нет нужного инструмента — напиши честно, что информации нет.
 
 ФОРМАТ WHY:
 Для каждого инструмента напиши 2-3 предложения на русском языке. Объясни:
@@ -84,7 +86,17 @@ export async function POST(request: Request) {
 - Бюджет: ${budgetLabel(answers.budget)}
 
 КАТАЛОГ ИНСТРУМЕНТОВ (только эти доступны на платформе):
-${JSON.stringify(tools, null, 2)}
+${JSON.stringify(
+  tools.map((t) => ({
+    name: t.name,
+    domain: t.domain,
+    slug: t.slug,
+    short_description: t.short_description,
+    pricing_tiers: getPricingTiers(t.slug),
+  })),
+  null,
+  2
+)}
 
 Подбери 2-3 лучших инструмента из каталога под задачу и бюджет клиента. Ответ — строгий JSON без маркдауна.`;
 
