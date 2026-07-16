@@ -1,7 +1,7 @@
 {
   "syncedAt": "2026-06-24T10:42:46.563Z",
   "stats": {
-    "total": 895,
+    "total": 914,
     "crypton": 565,
     "maxy": 504,
     "overlap_internal": 80,
@@ -74,23 +74,6 @@
       "referral_url": null,
       "outbound_url": "https://1password.com",
       "referral_status": "pending",
-      "sources": [
-        "maxy"
-      ],
-      "verified_overlap": false
-    },
-    {
-      "id": "3dos",
-      "slug": "3dos",
-      "name": "3DOS",
-      "domain": "dashboard.3dos.io",
-      "category": "Web3",
-      "image": null,
-      "description": null,
-      "website_url": "https://dashboard.3dos.io",
-      "referral_url": null,
-      "outbound_url": "https://dashboard.3dos.io",
-      "referral_status": "no_program",
       "sources": [
         "maxy"
       ],
@@ -559,23 +542,6 @@
       "verified_overlap": false
     },
     {
-      "id": "angle-bridge-by-l0",
-      "slug": "angle-bridge-by-l0",
-      "name": "Angle Bridge (by L0)",
-      "domain": "app.angle.money",
-      "category": "DeFi",
-      "image": "https://s3.crypton.xyz/tools/media/images/Angle_logo.png",
-      "description": null,
-      "website_url": "https://app.angle.money/bridges-agEUR",
-      "referral_url": null,
-      "outbound_url": "https://app.angle.money/bridges-agEUR",
-      "referral_status": "no_program",
-      "sources": [
-        "crypton"
-      ],
-      "verified_overlap": false
-    },
-    {
       "id": "anoma",
       "slug": "anoma",
       "name": "Anoma",
@@ -586,6 +552,23 @@
       "website_url": "https://anoma.net",
       "referral_url": null,
       "outbound_url": "https://anoma.net",
+      "referral_status": "no_program",
+      "sources": [
+        "maxy"
+      ],
+      "verified_overlap": false
+    },
+    {
+      "id": "apr",
+      "slug": "apr",
+      "name": "Apr",
+      "domain": "apr.io",
+      "category": "Web3",
+      "image": null,
+      "description": null,
+      "website_url": "https://apr.io",
+      "referral_url": null,
+      "outbound_url": "https://apr.io",
       "referral_status": "no_program",
       "sources": [
         "maxy"
@@ -1065,23 +1048,6 @@
       "website_url": "https://avalaunch.app/launchpad",
       "referral_url": null,
       "outbound_url": "https://avalaunch.app/launchpad",
-      "referral_status": "no_program",
-      "sources": [
-        "crypton"
-      ],
-      "verified_overlap": false
-    },
-    {
-      "id": "avalon-finance",
-      "slug": "avalon-finance",
-      "name": "Avalon Finance",
-      "domain": "app.avalonfinance.xyz",
-      "category": "DeFi",
-      "image": "https://s3.crypton.xyz/tools/media/images/Avalon.png",
-      "description": null,
-      "website_url": "https://app.avalonfinance.xyz/?marketName=proto_bitlayer_v3",
-      "referral_url": null,
-      "outbound_url": "https://app.avalonfinance.xyz/?marketName=proto_bitlayer_v3",
       "referral_status": "no_program",
       "sources": [
         "crypton"
@@ -1671,6 +1637,23 @@
       "verified_overlap": false
     },
     {
+      "id": "bitgenie",
+      "slug": "bitgenie",
+      "name": "BitGenie",
+      "domain": "bitgenie.io",
+      "category": "DeFi",
+      "image": "https://s3.crypton.xyz/tools/media/images/BitGenie.png",
+      "description": null,
+      "website_url": "https://bitgenie.io/swap",
+      "referral_url": null,
+      "outbound_url": "https://bitgenie.io/swap",
+      "referral_status": "no_program",
+      "sources": [
+        "crypton"
+      ],
+      "verified_overlap": false
+    },
+    {
       "id": "bitget",
       "slug": "bitget",
       "name": "Bitget",
@@ -1687,6 +1670,23 @@
         "maxy"
       ],
       "verified_overlap": true
+    },
+    {
+      "id": "bitstar",
+      "slug": "bitstar",
+      "name": "BitStar",
+      "domain": "bitstar.pro",
+      "category": "DeFi",
+      "image": "https://s3.crypton.xyz/tools/media/images/BitStart.png",
+      "description": null,
+      "website_url": "https://bitstar.pro",
+      "referral_url": null,
+      "outbound_url": "https://bitstar.pro",
+      "referral_status": "no_program",
+      "sources": [
+        "crypton"
+      ],
+      "verified_overlap": false
     },
     {
       "id": "bitwarden",
@@ -1757,6 +1757,23 @@
       "verified_overlap": false
     },
     {
+      "id": "block-wallet",
+      "slug": "block-wallet",
+      "name": "Block Wallet",
+      "domain": "blockwallet.io",
+      "category": "Кошельки",
+      "image": "https://s3.crypton.xyz/tools/media/images/Block_Wallet_logo.png",
+      "description": null,
+      "website_url": "https://blockwallet.io",
+      "referral_url": null,
+      "outbound_url": "https://blockwallet.io",
+      "referral_status": "no_program",
+      "sources": [
+        "crypton"
+      ],
+      "verified_overlap": false
+    },
+    {
       "id": "blockchain-com",
       "slug": "blockchain-com",
       "name": "Blockchain.com",
@@ -1801,6 +1818,23 @@
       "website_url": "https://portto.com",
       "referral_url": null,
       "outbound_url": "https://portto.com",
+      "referral_status": "no_program",
+      "sources": [
+        "crypton"
+      ],
+      "verified_overlap": false
+    },
+    {
+      "id": "bloctoswap",
+      "slug": "bloctoswap",
+      "name": "BloctoSwap",
+      "domain": "swap.blocto.app",
+      "category": "DeFi",
+      "image": "https://s3.crypton.xyz/tools/media/images/bloctoswap-teleport.png",
+      "description": null,
+      "website_url": "https://swap.blocto.app",
+      "referral_url": null,
+      "outbound_url": "https://swap.blocto.app",
       "referral_status": "no_program",
       "sources": [
         "crypton"
@@ -2133,6 +2167,23 @@
       "verified_overlap": true
     },
     {
+      "id": "bytenova",
+      "slug": "bytenova",
+      "name": "Bytenova",
+      "domain": "bytenova.ai",
+      "category": "Web3",
+      "image": null,
+      "description": null,
+      "website_url": "https://bytenova.ai/rewards/quests",
+      "referral_url": null,
+      "outbound_url": "https://bytenova.ai/rewards/quests",
+      "referral_status": "no_program",
+      "sources": [
+        "maxy"
+      ],
+      "verified_overlap": false
+    },
+    {
       "id": "caldera",
       "slug": "caldera",
       "name": "Caldera",
@@ -2197,6 +2248,23 @@
       "referral_status": "no_program",
       "sources": [
         "crypton"
+      ],
+      "verified_overlap": false
+    },
+    {
+      "id": "campaign",
+      "slug": "campaign",
+      "name": "Campaign",
+      "domain": "campaign.coinshift.xyz",
+      "category": "Web3",
+      "image": null,
+      "description": null,
+      "website_url": "https://campaign.coinshift.xyz",
+      "referral_url": null,
+      "outbound_url": "https://campaign.coinshift.xyz",
+      "referral_status": "no_program",
+      "sources": [
+        "maxy"
       ],
       "verified_overlap": false
     },
@@ -2452,6 +2520,23 @@
       "referral_status": "no_program",
       "sources": [
         "maxy"
+      ],
+      "verified_overlap": false
+    },
+    {
+      "id": "chainscheck",
+      "slug": "chainscheck",
+      "name": "ChainsCheck",
+      "domain": "chainscheck.com",
+      "category": "Сервисы",
+      "image": "https://s3.crypton.xyz/tools/media/images/chainscheck.jpg",
+      "description": null,
+      "website_url": "https://chainscheck.com",
+      "referral_url": null,
+      "outbound_url": "https://chainscheck.com",
+      "referral_status": "no_program",
+      "sources": [
+        "crypton"
       ],
       "verified_overlap": false
     },
@@ -3189,6 +3274,23 @@
       "verified_overlap": false
     },
     {
+      "id": "cryptoblades",
+      "slug": "cryptoblades",
+      "name": "Cryptoblades",
+      "domain": "cryptoblades.io",
+      "category": "Web3",
+      "image": null,
+      "description": null,
+      "website_url": "https://cryptoblades.io",
+      "referral_url": null,
+      "outbound_url": "https://cryptoblades.io",
+      "referral_status": "no_program",
+      "sources": [
+        "maxy"
+      ],
+      "verified_overlap": false
+    },
+    {
       "id": "cryptopanic",
       "slug": "cryptopanic",
       "name": "CryptoPanic",
@@ -3439,6 +3541,23 @@
       "website_url": "https://dashboard.datagram.network/favicon.ico",
       "referral_url": null,
       "outbound_url": "https://dashboard.datagram.network/favicon.ico",
+      "referral_status": "no_program",
+      "sources": [
+        "maxy"
+      ],
+      "verified_overlap": false
+    },
+    {
+      "id": "datahaven",
+      "slug": "datahaven",
+      "name": "Datahaven",
+      "domain": "datahaven.xyz",
+      "category": "Web3",
+      "image": null,
+      "description": null,
+      "website_url": "https://datahaven.xyz",
+      "referral_url": null,
+      "outbound_url": "https://datahaven.xyz",
       "referral_status": "no_program",
       "sources": [
         "maxy"
@@ -3979,6 +4098,23 @@
         "maxy"
       ],
       "verified_overlap": true
+    },
+    {
+      "id": "drosera",
+      "slug": "drosera",
+      "name": "Drosera",
+      "domain": "app.drosera.io",
+      "category": "Web3",
+      "image": null,
+      "description": null,
+      "website_url": "https://app.drosera.io",
+      "referral_url": null,
+      "outbound_url": "https://app.drosera.io",
+      "referral_status": "no_program",
+      "sources": [
+        "maxy"
+      ],
+      "verified_overlap": false
     },
     {
       "id": "ducatprotocol",
@@ -4730,6 +4866,23 @@
       "referral_status": "no_program",
       "sources": [
         "maxy"
+      ],
+      "verified_overlap": false
+    },
+    {
+      "id": "flex",
+      "slug": "flex",
+      "name": "Flex",
+      "domain": "flexing.gg",
+      "category": "DeFi",
+      "image": "https://s3.crypton.xyz/tools/media/images/Flex_logo.png",
+      "description": null,
+      "website_url": "http://flexing.gg",
+      "referral_url": null,
+      "outbound_url": "http://flexing.gg",
+      "referral_status": "no_program",
+      "sources": [
+        "crypton"
       ],
       "verified_overlap": false
     },
@@ -5656,6 +5809,23 @@
       "verified_overlap": false
     },
     {
+      "id": "hamsterkombatgame",
+      "slug": "hamsterkombatgame",
+      "name": "Hamsterkombatgame",
+      "domain": "hamsterkombatgame.io",
+      "category": "Web3",
+      "image": null,
+      "description": null,
+      "website_url": "https://hamsterkombatgame.io",
+      "referral_url": null,
+      "outbound_url": "https://hamsterkombatgame.io",
+      "referral_status": "no_program",
+      "sources": [
+        "maxy"
+      ],
+      "verified_overlap": false
+    },
+    {
       "id": "hana",
       "slug": "hana",
       "name": "Hana",
@@ -5737,6 +5907,23 @@
       "referral_status": "no_program",
       "sources": [
         "maxy"
+      ],
+      "verified_overlap": false
+    },
+    {
+      "id": "helmet",
+      "slug": "helmet",
+      "name": "Helmet",
+      "domain": "helmet.insure",
+      "category": "DeFi",
+      "image": "https://s3.crypton.xyz/tools/media/images/helmet_logo_1.png",
+      "description": null,
+      "website_url": "https://helmet.insure/home",
+      "referral_url": null,
+      "outbound_url": "https://helmet.insure/home",
+      "referral_status": "no_program",
+      "sources": [
+        "crypton"
       ],
       "verified_overlap": false
     },
@@ -6083,6 +6270,23 @@
       "verified_overlap": false
     },
     {
+      "id": "hyli",
+      "slug": "hyli",
+      "name": "Hyli",
+      "domain": "hyli.org",
+      "category": "Web3",
+      "image": null,
+      "description": null,
+      "website_url": "https://hyli.org",
+      "referral_url": null,
+      "outbound_url": "https://hyli.org",
+      "referral_status": "no_program",
+      "sources": [
+        "maxy"
+      ],
+      "verified_overlap": false
+    },
+    {
       "id": "hylo",
       "slug": "hylo",
       "name": "Hylo",
@@ -6150,6 +6354,23 @@
         "maxy"
       ],
       "verified_overlap": true
+    },
+    {
+      "id": "hyphen",
+      "slug": "hyphen",
+      "name": "Hyphen",
+      "domain": "hyphen.biconomy.io",
+      "category": "DeFi",
+      "image": "https://s3.crypton.xyz/tools/media/images/hyphen.png",
+      "description": null,
+      "website_url": "https://hyphen.biconomy.io/pools",
+      "referral_url": null,
+      "outbound_url": "https://hyphen.biconomy.io/pools",
+      "referral_status": "no_program",
+      "sources": [
+        "crypton"
+      ],
+      "verified_overlap": false
     },
     {
       "id": "hypotenuse-ai",
@@ -6323,6 +6544,23 @@
       "verified_overlap": false
     },
     {
+      "id": "insurace",
+      "slug": "insurace",
+      "name": "InsurAce",
+      "domain": "app.insurace.io",
+      "category": "DeFi",
+      "image": "https://s3.crypton.xyz/tools/media/images/insurace_logo.png",
+      "description": null,
+      "website_url": "https://app.insurace.io",
+      "referral_url": null,
+      "outbound_url": "https://app.insurace.io",
+      "referral_status": "no_program",
+      "sources": [
+        "crypton"
+      ],
+      "verified_overlap": false
+    },
+    {
       "id": "interport-by-l0",
       "slug": "interport-by-l0",
       "name": "Interport (by L0)",
@@ -6435,6 +6673,23 @@
       "website_url": "https://ispeech.org",
       "referral_url": null,
       "outbound_url": "https://ispeech.org",
+      "referral_status": "no_program",
+      "sources": [
+        "crypton"
+      ],
+      "verified_overlap": false
+    },
+    {
+      "id": "iswap",
+      "slug": "iswap",
+      "name": "iSwap",
+      "domain": "iswap.tech",
+      "category": "DeFi",
+      "image": "https://s3.crypton.xyz/tools/media/images/Iswap.png",
+      "description": null,
+      "website_url": "https://iswap.tech/swap",
+      "referral_url": null,
+      "outbound_url": "https://iswap.tech/swap",
       "referral_status": "no_program",
       "sources": [
         "crypton"
@@ -6752,6 +7007,23 @@
       "verified_overlap": false
     },
     {
+      "id": "kava-scan",
+      "slug": "kava-scan",
+      "name": "Kava Scan",
+      "domain": "kavascan.com",
+      "category": "Сервисы",
+      "image": "https://s3.crypton.xyz/tools/media/images/Kava_logo.png",
+      "description": null,
+      "website_url": "https://kavascan.com",
+      "referral_url": null,
+      "outbound_url": "https://kavascan.com",
+      "referral_status": "no_program",
+      "sources": [
+        "crypton"
+      ],
+      "verified_overlap": false
+    },
+    {
       "id": "keplr",
       "slug": "keplr",
       "name": "Keplr",
@@ -6953,6 +7225,23 @@
       "referral_status": "pending",
       "sources": [
         "maxy"
+      ],
+      "verified_overlap": false
+    },
+    {
+      "id": "kriyadex",
+      "slug": "kriyadex",
+      "name": "KriyaDex",
+      "domain": "app.kriya.finance",
+      "category": "Биржи DEX",
+      "image": "https://s3.crypton.xyz/tools/media/images/KriyaDEX_logo.png",
+      "description": null,
+      "website_url": "https://app.kriya.finance/trade",
+      "referral_url": null,
+      "outbound_url": "https://app.kriya.finance/trade",
+      "referral_status": "no_program",
+      "sources": [
+        "crypton"
       ],
       "verified_overlap": false
     },
@@ -7745,23 +8034,6 @@
       "verified_overlap": false
     },
     {
-      "id": "mavis-market",
-      "slug": "mavis-market",
-      "name": "Mavis Market",
-      "domain": "marketplace.skymavis.com",
-      "category": "DeFi",
-      "image": "https://s3.crypton.xyz/tools/media/images/Mavis.png",
-      "description": null,
-      "website_url": "https://marketplace.skymavis.com",
-      "referral_url": null,
-      "outbound_url": "https://marketplace.skymavis.com",
-      "referral_status": "no_program",
-      "sources": [
-        "crypton"
-      ],
-      "verified_overlap": false
-    },
-    {
       "id": "mavryk",
       "slug": "mavryk",
       "name": "Mavryk",
@@ -8001,23 +8273,6 @@
       "verified_overlap": false
     },
     {
-      "id": "metalx-dex",
-      "slug": "metalx-dex",
-      "name": "MetalX Dex",
-      "domain": "app.metalx.com",
-      "category": "DeFi",
-      "image": "https://s3.crypton.xyz/tools/media/images/Metal_X_logo.png",
-      "description": null,
-      "website_url": "https://app.metalx.com/dex/XPR_XMD",
-      "referral_url": null,
-      "outbound_url": "https://app.metalx.com/dex/XPR_XMD",
-      "referral_status": "no_program",
-      "sources": [
-        "crypton"
-      ],
-      "verified_overlap": false
-    },
-    {
       "id": "metamask",
       "slug": "metamask",
       "name": "Metamask",
@@ -8156,6 +8411,23 @@
       "verified_overlap": false
     },
     {
+      "id": "milkyway",
+      "slug": "milkyway",
+      "name": "Milkyway",
+      "domain": "milkyway.zone",
+      "category": "Web3",
+      "image": null,
+      "description": null,
+      "website_url": "https://milkyway.zone",
+      "referral_url": null,
+      "outbound_url": "https://milkyway.zone",
+      "referral_status": "no_program",
+      "sources": [
+        "maxy"
+      ],
+      "verified_overlap": false
+    },
+    {
       "id": "minara",
       "slug": "minara",
       "name": "Minara",
@@ -8183,6 +8455,23 @@
       "website_url": "https://mintlify.com",
       "referral_url": null,
       "outbound_url": "https://mintlify.com",
+      "referral_status": "no_program",
+      "sources": [
+        "crypton"
+      ],
+      "verified_overlap": false
+    },
+    {
+      "id": "mintswap-finance",
+      "slug": "mintswap-finance",
+      "name": "MintSwap Finance",
+      "domain": "mintswap.finance",
+      "category": "DeFi",
+      "image": "https://s3.crypton.xyz/tools/media/images/MintSwap.png",
+      "description": null,
+      "website_url": "https://mintswap.finance/swap",
+      "referral_url": null,
+      "outbound_url": "https://mintswap.finance/swap",
       "referral_status": "no_program",
       "sources": [
         "crypton"
@@ -8268,40 +8557,6 @@
       "website_url": "https://app.mode.network/early",
       "referral_url": null,
       "outbound_url": "https://app.mode.network/early",
-      "referral_status": "no_program",
-      "sources": [
-        "maxy"
-      ],
-      "verified_overlap": false
-    },
-    {
-      "id": "monad-monad-xyz",
-      "slug": "monad-monad-xyz",
-      "name": "Monad",
-      "domain": "testnet.monad.xyz",
-      "category": "Web3",
-      "image": null,
-      "description": null,
-      "website_url": "https://testnet.monad.xyz",
-      "referral_url": null,
-      "outbound_url": "https://testnet.monad.xyz",
-      "referral_status": "no_program",
-      "sources": [
-        "maxy"
-      ],
-      "verified_overlap": false
-    },
-    {
-      "id": "monad-fantasy-top",
-      "slug": "monad-fantasy-top",
-      "name": "Monad",
-      "domain": "monad.fantasy.top",
-      "category": "Web3",
-      "image": null,
-      "description": null,
-      "website_url": "https://monad.fantasy.top",
-      "referral_url": null,
-      "outbound_url": "https://monad.fantasy.top",
       "referral_status": "no_program",
       "sources": [
         "maxy"
@@ -8404,6 +8659,23 @@
       "website_url": "https://morpho.org",
       "referral_url": null,
       "outbound_url": "https://morpho.org",
+      "referral_status": "no_program",
+      "sources": [
+        "maxy"
+      ],
+      "verified_overlap": false
+    },
+    {
+      "id": "movementlabs",
+      "slug": "movementlabs",
+      "name": "Movementlabs",
+      "domain": "movementlabs.xyz",
+      "category": "Web3",
+      "image": null,
+      "description": null,
+      "website_url": "https://movementlabs.xyz",
+      "referral_url": null,
+      "outbound_url": "https://movementlabs.xyz",
       "referral_status": "no_program",
       "sources": [
         "maxy"
@@ -9025,6 +9297,40 @@
       "verified_overlap": true
     },
     {
+      "id": "omni-variational-io",
+      "slug": "omni-variational-io",
+      "name": "Omni",
+      "domain": "omni.variational.io",
+      "category": "Web3",
+      "image": null,
+      "description": null,
+      "website_url": "https://omni.variational.io",
+      "referral_url": null,
+      "outbound_url": "https://omni.variational.io",
+      "referral_status": "pending",
+      "sources": [
+        "maxy"
+      ],
+      "verified_overlap": false
+    },
+    {
+      "id": "omni-apex-exchange",
+      "slug": "omni-apex-exchange",
+      "name": "Omni",
+      "domain": "omni.apex.exchange",
+      "category": "Биржи DEX",
+      "image": null,
+      "description": null,
+      "website_url": "https://omni.apex.exchange",
+      "referral_url": null,
+      "outbound_url": "https://omni.apex.exchange",
+      "referral_status": "no_program",
+      "sources": [
+        "maxy"
+      ],
+      "verified_overlap": false
+    },
+    {
       "id": "omnihub-by-l0",
       "slug": "omnihub-by-l0",
       "name": "OmniHub (by L0)",
@@ -9329,6 +9635,23 @@
       "referral_status": "pending",
       "sources": [
         "crypton"
+      ],
+      "verified_overlap": false
+    },
+    {
+      "id": "ordeez",
+      "slug": "ordeez",
+      "name": "Ordeez",
+      "domain": "ordeez.io",
+      "category": "Web3",
+      "image": null,
+      "description": null,
+      "website_url": "https://ordeez.io",
+      "referral_url": null,
+      "outbound_url": "https://ordeez.io",
+      "referral_status": "no_program",
+      "sources": [
+        "maxy"
       ],
       "verified_overlap": false
     },
@@ -9746,6 +10069,40 @@
       "verified_overlap": false
     },
     {
+      "id": "phi",
+      "slug": "phi",
+      "name": "Phi",
+      "domain": "phi.box",
+      "category": "Web3",
+      "image": null,
+      "description": null,
+      "website_url": "https://phi.box",
+      "referral_url": null,
+      "outbound_url": "https://phi.box",
+      "referral_status": "no_program",
+      "sources": [
+        "maxy"
+      ],
+      "verified_overlap": false
+    },
+    {
+      "id": "philand",
+      "slug": "philand",
+      "name": "Philand",
+      "domain": "philand.xyz",
+      "category": "DeFi",
+      "image": "https://s3.crypton.xyz/tools/media/images/philand_logo.png",
+      "description": null,
+      "website_url": "https://philand.xyz",
+      "referral_url": null,
+      "outbound_url": "https://philand.xyz",
+      "referral_status": "no_program",
+      "sources": [
+        "crypton"
+      ],
+      "verified_overlap": false
+    },
+    {
       "id": "phoenix",
       "slug": "phoenix",
       "name": "Phoenix",
@@ -9963,6 +10320,23 @@
       "referral_status": "no_program",
       "sources": [
         "maxy"
+      ],
+      "verified_overlap": false
+    },
+    {
+      "id": "plena",
+      "slug": "plena",
+      "name": "Plena",
+      "domain": "plena.finance",
+      "category": "Кошельки",
+      "image": "https://s3.crypton.xyz/tools/media/images/Plena_logo.png",
+      "description": null,
+      "website_url": "https://plena.finance",
+      "referral_url": null,
+      "outbound_url": "https://plena.finance",
+      "referral_status": "no_program",
+      "sources": [
+        "crypton"
       ],
       "verified_overlap": false
     },
@@ -10372,6 +10746,23 @@
       "referral_status": "pending",
       "sources": [
         "crypton"
+      ],
+      "verified_overlap": false
+    },
+    {
+      "id": "psdn",
+      "slug": "psdn",
+      "name": "Psdn",
+      "domain": "app.psdn.ai",
+      "category": "Web3",
+      "image": null,
+      "description": null,
+      "website_url": "https://app.psdn.ai/intro",
+      "referral_url": null,
+      "outbound_url": "https://app.psdn.ai/intro",
+      "referral_status": "no_program",
+      "sources": [
+        "maxy"
       ],
       "verified_overlap": false
     },
@@ -11112,23 +11503,6 @@
       "verified_overlap": false
     },
     {
-      "id": "router-bridge",
-      "slug": "router-bridge",
-      "name": "Router Bridge",
-      "domain": "app.routernitro.com",
-      "category": "DeFi",
-      "image": "https://s3.crypton.xyz/tools/media/images/Router_logo.png",
-      "description": null,
-      "website_url": "https://app.routernitro.com/swap?fromChain=1&fromToken=0x9E32b13ce7f2E80A01932B42553652E053D6ed8e&toChain=1&toToken=0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
-      "referral_url": null,
-      "outbound_url": "https://app.routernitro.com/swap?fromChain=1&fromToken=0x9E32b13ce7f2E80A01932B42553652E053D6ed8e&toChain=1&toToken=0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
-      "referral_status": "no_program",
-      "sources": [
-        "crypton"
-      ],
-      "verified_overlap": false
-    },
-    {
       "id": "rubic",
       "slug": "rubic",
       "name": "Rubic",
@@ -11536,6 +11910,23 @@
       "referral_status": "no_program",
       "sources": [
         "maxy"
+      ],
+      "verified_overlap": false
+    },
+    {
+      "id": "sirius-finance",
+      "slug": "sirius-finance",
+      "name": "Sirius Finance",
+      "domain": "app.sirius.finance",
+      "category": "DeFi",
+      "image": "https://s3.crypton.xyz/tools/media/images/Sirius_Finance_logo.png",
+      "description": null,
+      "website_url": "https://app.sirius.finance",
+      "referral_url": null,
+      "outbound_url": "https://app.sirius.finance",
+      "referral_status": "no_program",
+      "sources": [
+        "crypton"
       ],
       "verified_overlap": false
     },
@@ -13040,23 +13431,6 @@
       "verified_overlap": false
     },
     {
-      "id": "test-portal",
-      "slug": "test-portal",
-      "name": "Test-portal",
-      "domain": "test-portal.dango.exchange",
-      "category": "DeFi",
-      "image": null,
-      "description": null,
-      "website_url": "https://test-portal.dango.exchange",
-      "referral_url": null,
-      "outbound_url": "https://test-portal.dango.exchange",
-      "referral_status": "no_program",
-      "sources": [
-        "maxy"
-      ],
-      "verified_overlap": false
-    },
-    {
       "id": "textverified",
       "slug": "textverified",
       "name": "TextVerified",
@@ -13272,6 +13646,23 @@
       "referral_url": null,
       "outbound_url": "https://tokensoft.com",
       "referral_status": "no_program",
+      "sources": [
+        "crypton"
+      ],
+      "verified_overlap": false
+    },
+    {
+      "id": "tome",
+      "slug": "tome",
+      "name": "Tome",
+      "domain": "tome.app",
+      "category": "Нейросети",
+      "image": "https://s3.crypton.xyz/tools/media/images/Tome_logo.png",
+      "description": null,
+      "website_url": "https://tome.app",
+      "referral_url": null,
+      "outbound_url": "https://tome.app",
+      "referral_status": "pending",
       "sources": [
         "crypton"
       ],
@@ -14643,23 +15034,6 @@
       "verified_overlap": true
     },
     {
-      "id": "zee-verse",
-      "slug": "zee-verse",
-      "name": "Zee-verse",
-      "domain": "zee-verse.com",
-      "category": "Web3",
-      "image": null,
-      "description": null,
-      "website_url": "https://zee-verse.com",
-      "referral_url": null,
-      "outbound_url": "https://zee-verse.com",
-      "referral_status": "no_program",
-      "sources": [
-        "maxy"
-      ],
-      "verified_overlap": false
-    },
-    {
       "id": "zennoposter",
       "slug": "zennoposter",
       "name": "ZennoPoster",
@@ -15252,57 +15626,6 @@
       "referral_status": "no_program",
       "sources": [
         "crypton"
-      ],
-      "verified_overlap": false
-    },
-    {
-      "id": "01",
-      "slug": "01",
-      "name": "01",
-      "domain": "01.xyz",
-      "category": "Биржи DEX",
-      "image": null,
-      "description": null,
-      "website_url": "https://01.xyz/trade",
-      "referral_url": null,
-      "outbound_url": "https://01.xyz/trade",
-      "referral_status": "no_program",
-      "sources": [
-        "maxy"
-      ],
-      "verified_overlap": false
-    },
-    {
-      "id": "omni-apex-exchange",
-      "slug": "omni-apex-exchange",
-      "name": "Omni",
-      "domain": "omni.apex.exchange",
-      "category": "Биржи DEX",
-      "image": null,
-      "description": null,
-      "website_url": "https://omni.apex.exchange",
-      "referral_url": null,
-      "outbound_url": "https://omni.apex.exchange",
-      "referral_status": "no_program",
-      "sources": [
-        "maxy"
-      ],
-      "verified_overlap": false
-    },
-    {
-      "id": "apr",
-      "slug": "apr",
-      "name": "Apr",
-      "domain": "apr.io",
-      "category": "Web3",
-      "image": null,
-      "description": null,
-      "website_url": "https://apr.io",
-      "referral_url": null,
-      "outbound_url": "https://apr.io",
-      "referral_status": "no_program",
-      "sources": [
-        "maxy"
       ],
       "verified_overlap": false
     }

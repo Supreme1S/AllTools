@@ -543,18 +543,6 @@ export const DEX_CONTENT: Record<string, PlatformContent> = {
       "Меньшая ликвидность = лимиты объёма — социальные функции не создают глубину, только маршрутизируют существующий поток.",
     ],
   },
-  plenty: {
-    short: "Tezos DEX — Plenty DeFi, AMM для XTZ и FA-токенов.",
-    long: "Plenty — ведущий Tezos AMM. Свапы экосистемы XTZ, нужен Tezos-кошелёк.",
-    tagline: "Нативный Tezos DEX — обмены FA-токенов Plenty.",
-    highlight:
-      "Plenty даёт обменную ликвидность для FA1.2/FA2 токенов блокчейна Tezos. Ниша против EVM/SOL, но необходим для XTZ DeFi. История брендов Temple/Plenty в сообществе Tezos. Низкие комиссии на консенсусе Tezos.",
-    facts: [
-      "Plenty — ведущий Tezos AMM; ниша XTZ DeFi мала глобально, но Plenty необходим для экосистемы FA-токенов.",
-      "История Temple wallet + Plenty — OG-стек сообщества Tezos до взрыва EVM L2.",
-      "Низкие комиссии Tezos + FA1.2/FA2 — другая парадигма; без MetaMask, без EVM rug'ов, другие риски.",
-    ],
-  },
   ring: {
     short: "Ring Exchange — perp/деривативы, ring.exchange ончейн-торговля.",
     long: "Ring — DEX деривативов с листингом perp-рынков. Проверяй чейн и залог.",
@@ -592,18 +580,6 @@ export const DEX_CONTENT: Record<string, PlatformContent> = {
       "Объём упал после UST, но пулы остаются — Jupiter всё ещё маршрутизирует часть stable-потока через legacy-пулы Saber.",
     ],
     warnings: ["События depeg — stable-пулы не без риска (урок UST)."],
-  },
-  sithswap: {
-    short: "Starknet AMM — SithSwap, нативные обмены экосистемы STRK.",
-    long: "SithSwap — Starknet DEX наряду с JediSwap, MySwap.",
-    tagline: "Starknet AMM — обмены STRK на SithSwap.",
-    highlight:
-      "SithSwap даёт AMM-ликвидность на Starknet для токенов экосистемы STRK. Нужен Starknet-кошелёк. Ликвидность тоньше EVM-аналогов — в первую очередь для STRK-native токенов.",
-    facts: [
-      "SithSwap — Starknet AMM в кластере STRK с JediSwap и MySwap; ликвидность тонкая, но нативы лояльны.",
-      "Нужен кошелёк Argent/Braavos — EVM MetaMask-пользователям полный перезапуск онбординга ради одного обмена.",
-      "Запуски STRK-токенов часто требуют локального DEX-пула — SithSwap ловит поток, который Aerodrome не может (другой чейн).",
-    ],
   },
   skydrom: {
     short: "Scroll L2 DEX — Skydrome ve(3,3) на сети Scroll.",

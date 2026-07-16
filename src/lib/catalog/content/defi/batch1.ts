@@ -182,26 +182,6 @@ export const DEFI_BATCH_1: Record<string, PlatformContent> = {
       "Concentrated liquidity = higher IL risk on volatile pairs при выходе price из range.",
     ],
   },
-  "angle-bridge-by-l0": {
-    short:
-      "Мост Angle Protocol через LayerZero — agEUR и assets между chains в экосистеме Angle.",
-    long:
-      "Angle Bridge (LayerZero) — официальный cross-chain gateway для agEUR и Angle products. OFT standard LayerZero для token transfers между supported networks.",
-    tagline: "agEUR идёт cross-chain — LayerZero мост для экосистемы Angle.",
-    highlight:
-      "Angle Money выпускает agEUR — overcollateralized Euro stablecoin. Мост через LayerZero позволяет держать и использовать agEUR на Arbitrum, Optimism, Polygon и др. без CEX. Интеграция с mint/redeem Angle и transmuter mechanics на destination. LayerZero messaging — быстро, но trust assumptions включают oracle/relayer set. Для Euro-denominated DeFi exposure без банковского счёта.",
-    facts: [
-      "Angle пережил конкуренцию EURC от Circle — agEUR нишевый, но лояльные EU DeFi users остались.",
-      "LayerZero airdrop программа доходностиing 2023: txs через Angle bridge взлетели — половина множественные аккаунты, половина реальный спрос на agEUR.",
-      "Коллапс UST 2022: algorithmic stables умерли; overcollateralized модель Angle прошла stress test, когда другие — нет.",
-    ],
-    tips: [
-      "Mint agEUR на самой дешёвой chain, bridge если fee оправдан — не каждое направление симметрично по cost.",
-    ],
-    warnings: [
-      "Trust model LayerZero bridge отличается от canonical — читай docs перед крупными переводами.",
-    ],
-  },
   arbitrum: {
     short:
       "Ведущий Ethereum L2 — rollup с самой глубокой DeFi-экосистемой после mainnet, низкий gas и быстрые txs.",
@@ -360,26 +340,6 @@ export const DEFI_BATCH_1: Record<string, PlatformContent> = {
     ],
     warnings: [
       "IDO ≠ investment advice — majority launchpad tokens trend to zero; size as lottery ticket.",
-    ],
-  },
-  "avalon-finance": {
-    short:
-      "BTC-backed lending — залог Bitcoin, borrow stablecoins через CeDeFi и on-chain markets.",
-    long:
-      "Avalon Finance — lending protocol с фокусом на Bitcoin collateral. Unlock BTC liquidity без продажи, multi-chain deployment.",
-    tagline: "Не продавай BTC — заложи его on-chain.",
-    highlight:
-      "Avalon на app.avalonfinance.xyz позволяет держателям Bitcoin deposit BTC (wrapped/native forms) и borrow stablecoins. Используй case «HODL but need liquidity». CeDeFi elements возможны в зависимости от product line — проверь custody model. LTV, liquidation thresholds и oracle pricing для BTC critical to monitor.",
-    facts: [
-      "BTC DeFi lending вырос post-2024 ETF era — holders wanted yield и liquidity без tax event от продажи.",
-      "Каждый BTC lending protocol faces same question: who holds keys? Avalon marketing emphasizes transparency — verify on-chain.",
-      "Liquidation cascades на BTC collateral hurt harder — коррелированные обвалы across all BTC-backed protocols simultaneously.",
-    ],
-    tips: [
-      "Conservative LTV на BTC — 50% safer than max allowed; volatility still bites «safe» collateral.",
-    ],
-    warnings: [
-      "BTC wrapper и custody model varies — understand what you deposit перед large amounts.",
     ],
   },
   avnu: {
