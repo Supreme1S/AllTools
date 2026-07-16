@@ -2287,21 +2287,18 @@ body {
 .service-detail-header-panel {
   display: flex;
   flex-direction: column;
-  align-items: stretch;
+  align-items: center;
+  justify-content: center;
   gap: 14px;
   flex-shrink: 0;
   width: min(100%, 280px);
-  padding-left: 28px;
-  border-left: 1px solid var(--c-divider);
+  padding: 28px;
 }
 
 @media (max-width: 900px) {
   .service-detail-header-panel {
     width: 100%;
-    padding-left: 0;
-    padding-top: 18px;
-    border-left: none;
-    border-top: 1px solid var(--c-divider);
+    padding: 18px 0;
   }
 }
 
@@ -2341,14 +2338,15 @@ body {
 }
 
 .service-detail-cta {
-  display: inline-flex;
+  display: flex;
   align-items: center;
   justify-content: center;
-  gap: 8px;
-  padding: 10px 16px;
-  border-radius: 10px;
-  font-size: 14px;
-  font-weight: 600;
+  gap: 10px;
+  width: 100%;
+  padding: 16px 24px;
+  border-radius: 14px;
+  font-size: 18px;
+  font-weight: 700;
   color: var(--c-btn-text);
   background: var(--color-accent);
   text-decoration: none;

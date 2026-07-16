@@ -10,7 +10,7 @@ import {
   Zap,
 } from "lucide-react";
 import { ProtocolIcon } from "@/components/ProtocolIcon";
-import { getCustodyLabel, formatDate } from "@/lib/utils";
+import { formatDate } from "@/lib/utils";
 import { lookupReferralUrl } from "@/lib/catalog/referral-lookup";
 import { IMPACT_COLORS } from "@/lib/constants";
 import type { InsightKind, Service, ServiceEvent } from "@/types";
@@ -71,15 +71,6 @@ function formatTvl(value: number): string {
   return `$${value.toFixed(0)}`;
 }
 
-function MetaItem({ label, value }: { label: string; value: string }) {
-  return (
-    <div className="service-detail-meta-item">
-      <dt>{label}</dt>
-      <dd>{value}</dd>
-    </div>
-  );
-}
-
 export function ServiceDetailClient({
   service,
   events,
@@ -120,24 +111,6 @@ export function ServiceDetailClient({
         </div>
 
         <div className="service-detail-header-panel">
-          <dl className="service-detail-meta">
-            <MetaItem label="Категория" value={service.category} />
-            {service.subcategory && (
-              <MetaItem label="Подкатегория" value={service.subcategory} />
-            )}
-            <MetaItem
-              label="Кастоди"
-              value={getCustodyLabel(service.custody_type)}
-            />
-            <MetaItem
-              label="Фиат"
-              value={service.supports_fiat ? "Да" : "Нет"}
-            />
-            <MetaItem label="P2P" value={service.supports_p2p ? "Да" : "Нет"} />
-            {service.tvl_usd != null && service.tvl_usd > 0 && (
-              <MetaItem label="TVL" value={formatTvl(service.tvl_usd)} />
-            )}
-          </dl>
           {outbound && (
             <a
               href={outbound}
