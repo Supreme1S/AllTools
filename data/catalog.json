@@ -1,7 +1,7 @@
 {
   "syncedAt": "2026-06-24T10:42:46.563Z",
   "stats": {
-    "total": 922,
+    "total": 940,
     "crypton": 565,
     "maxy": 504,
     "overlap_internal": 80,
@@ -8599,8 +8599,8 @@
     },
     {
       "id": "midjorney",
-      "slug": "midjorney",
-      "name": "Midjorney",
+      "slug": "midjourney",
+      "name": "Midjourney",
       "domain": "midjourney.com",
       "category": "Нейросети",
       "image": "https://s3.crypton.xyz/tools/media/images/Midjorney.png",
@@ -15759,6 +15759,312 @@
       "website_url": "https://alltools.tools",
       "referral_url": null,
       "outbound_url": "https://alltools.tools",
+      "referral_status": "no_program",
+      "sources": [
+        "crypton"
+      ],
+      "verified_overlap": false
+    },
+    {
+      "id": "chatgpt",
+      "slug": "chatgpt",
+      "name": "ChatGPT",
+      "domain": "chat.openai.com",
+      "category": "Нейросети",
+      "image": null,
+      "description": "Самый популярный AI-чат в мире — GPT-4o, генерация текста, кода и изображений в одном интерфейсе.",
+      "website_url": "https://chat.openai.com",
+      "referral_url": null,
+      "outbound_url": "https://chat.openai.com",
+      "referral_status": "no_program",
+      "sources": [
+        "crypton"
+      ],
+      "verified_overlap": false
+    },
+    {
+      "id": "perplexity",
+      "slug": "perplexity",
+      "name": "Perplexity",
+      "domain": "perplexity.ai",
+      "category": "Нейросети",
+      "image": null,
+      "description": "AI-поисковик с источниками — задаёшь вопрос, получаешь ответ со ссылками. Бесплатного тарифа хватает на ежедневное использование.",
+      "website_url": "https://perplexity.ai",
+      "referral_url": null,
+      "outbound_url": "https://perplexity.ai",
+      "referral_status": "no_program",
+      "sources": [
+        "crypton"
+      ],
+      "verified_overlap": false
+    },
+    {
+      "id": "deepseek",
+      "slug": "deepseek",
+      "name": "DeepSeek",
+      "domain": "deepseek.com",
+      "category": "Нейросети",
+      "image": null,
+      "description": "Бесплатный китайский AI-чат — конкурент GPT-4o. Мощный в коде, открытый исходный код, без цензуры.",
+      "website_url": "https://deepseek.com",
+      "referral_url": null,
+      "outbound_url": "https://deepseek.com",
+      "referral_status": "no_program",
+      "sources": [
+        "crypton"
+      ],
+      "verified_overlap": false
+    },
+    {
+      "id": "gemini",
+      "slug": "gemini",
+      "name": "Gemini",
+      "domain": "gemini.google.com",
+      "category": "Нейросети",
+      "image": null,
+      "description": "AI от Google — 2.5 Pro бесплатно, мультимодальный, интегрирован с сервисами Google.",
+      "website_url": "https://gemini.google.com",
+      "referral_url": null,
+      "outbound_url": "https://gemini.google.com",
+      "referral_status": "no_program",
+      "sources": [
+        "crypton"
+      ],
+      "verified_overlap": false
+    },
+    {
+      "id": "mistral",
+      "slug": "mistral",
+      "name": "Mistral",
+      "domain": "mistral.ai",
+      "category": "Нейросети",
+      "image": null,
+      "description": "Европейский AI-чат (Le Chat) — открытые модели, конкурент GPT. Бесплатный тариф, фокус на приватности.",
+      "website_url": "https://mistral.ai",
+      "referral_url": null,
+      "outbound_url": "https://mistral.ai",
+      "referral_status": "no_program",
+      "sources": [
+        "crypton"
+      ],
+      "verified_overlap": false
+    },
+    {
+      "id": "grok",
+      "slug": "grok",
+      "name": "Grok",
+      "domain": "x.ai",
+      "category": "Нейросети",
+      "image": null,
+      "description": "AI от Илона Маска (xAI) — доступен в X/Twitter, дерзкий стиль, доступ к реальным данным X.",
+      "website_url": "https://x.ai",
+      "referral_url": null,
+      "outbound_url": "https://x.ai",
+      "referral_status": "no_program",
+      "sources": [
+        "crypton"
+      ],
+      "verified_overlap": false
+    },
+    {
+      "id": "poe",
+      "slug": "poe",
+      "name": "Poe",
+      "domain": "poe.com",
+      "category": "Нейросети",
+      "image": null,
+      "description": "Агрегатор всех AI-чатов в одном интерфейсе — ChatGPT, Claude, Gemini, Stable Diffusion. Бесплатный тариф со множеством моделей.",
+      "website_url": "https://poe.com",
+      "referral_url": null,
+      "outbound_url": "https://poe.com",
+      "referral_status": "no_program",
+      "sources": [
+        "crypton"
+      ],
+      "verified_overlap": false
+    },
+    {
+      "id": "stable-diffusion",
+      "slug": "stable-diffusion",
+      "name": "Stable Diffusion",
+      "domain": "stability.ai",
+      "category": "Нейросети",
+      "image": null,
+      "description": "Open-source модель генерации изображений. Скачай и запусти локально — полный контроль, без цензуры.",
+      "website_url": "https://stability.ai",
+      "referral_url": null,
+      "outbound_url": "https://stability.ai",
+      "referral_status": "no_program",
+      "sources": [
+        "crypton"
+      ],
+      "verified_overlap": false
+    },
+    {
+      "id": "adobe-firefly",
+      "slug": "adobe-firefly",
+      "name": "Adobe Firefly",
+      "domain": "firefly.adobe.com",
+      "category": "Нейросети",
+      "image": null,
+      "description": "AI в Photoshop и Creative Cloud — генеративная заливка, замена фона, расширение изображений.",
+      "website_url": "https://firefly.adobe.com",
+      "referral_url": null,
+      "outbound_url": "https://firefly.adobe.com",
+      "referral_status": "no_program",
+      "sources": [
+        "crypton"
+      ],
+      "verified_overlap": false
+    },
+    {
+      "id": "leonardo-ai",
+      "slug": "leonardo-ai",
+      "name": "Leonardo AI",
+      "domain": "leonardo.ai",
+      "category": "Нейросети",
+      "image": null,
+      "description": "AI для геймдева и арта — генерация персонажей, ассетов и концепт-арта. Бесплатный тариф для старта.",
+      "website_url": "https://leonardo.ai",
+      "referral_url": null,
+      "outbound_url": "https://leonardo.ai",
+      "referral_status": "no_program",
+      "sources": [
+        "crypton"
+      ],
+      "verified_overlap": false
+    },
+    {
+      "id": "civitai",
+      "slug": "civitai",
+      "name": "Civitai",
+      "domain": "civitai.com",
+      "category": "Нейросети",
+      "image": null,
+      "description": "Библиотека Stable Diffusion моделей и LoRA — тысячи бесплатных чекпоинтов от сообщества.",
+      "website_url": "https://civitai.com",
+      "referral_url": null,
+      "outbound_url": "https://civitai.com",
+      "referral_status": "no_program",
+      "sources": [
+        "crypton"
+      ],
+      "verified_overlap": false
+    },
+    {
+      "id": "runway",
+      "slug": "runway",
+      "name": "Runway",
+      "domain": "runwayml.com",
+      "category": "Нейросети",
+      "image": null,
+      "description": "AI для видео №1 — генерация по тексту, стилизация, удаление фона, Gen-3 Alpha.",
+      "website_url": "https://runwayml.com",
+      "referral_url": null,
+      "outbound_url": "https://runwayml.com",
+      "referral_status": "no_program",
+      "sources": [
+        "crypton"
+      ],
+      "verified_overlap": false
+    },
+    {
+      "id": "pika",
+      "slug": "pika",
+      "name": "Pika",
+      "domain": "pika.art",
+      "category": "Нейросети",
+      "image": null,
+      "description": "Генерация видео по тексту — короткие клипы, анимированные аватары и эффекты. Бесплатный тариф.",
+      "website_url": "https://pika.art",
+      "referral_url": null,
+      "outbound_url": "https://pika.art",
+      "referral_status": "no_program",
+      "sources": [
+        "crypton"
+      ],
+      "verified_overlap": false
+    },
+    {
+      "id": "adobe-podcast",
+      "slug": "adobe-podcast",
+      "name": "Adobe Podcast",
+      "domain": "podcast.adobe.com",
+      "category": "Нейросети",
+      "image": null,
+      "description": "AI-чистка звука — удаление шума, улучшение речи, студийное качество из любого микрофона. Бесплатно.",
+      "website_url": "https://podcast.adobe.com",
+      "referral_url": null,
+      "outbound_url": "https://podcast.adobe.com",
+      "referral_status": "no_program",
+      "sources": [
+        "crypton"
+      ],
+      "verified_overlap": false
+    },
+    {
+      "id": "descript",
+      "slug": "descript",
+      "name": "Descript",
+      "domain": "descript.com",
+      "category": "Нейросети",
+      "image": null,
+      "description": "Монтаж как текст — редактируй видео и аудио как документ. AI-транскрипция, удаление слов-паразитов.",
+      "website_url": "https://descript.com",
+      "referral_url": null,
+      "outbound_url": "https://descript.com",
+      "referral_status": "no_program",
+      "sources": [
+        "crypton"
+      ],
+      "verified_overlap": false
+    },
+    {
+      "id": "character-ai",
+      "slug": "character-ai",
+      "name": "Character.ai",
+      "domain": "character.ai",
+      "category": "Нейросети",
+      "image": null,
+      "description": "Общение с AI-персонажами — от исторических личностей до вымышленных героев. Миллионы чат-ботов.",
+      "website_url": "https://character.ai",
+      "referral_url": null,
+      "outbound_url": "https://character.ai",
+      "referral_status": "no_program",
+      "sources": [
+        "crypton"
+      ],
+      "verified_overlap": false
+    },
+    {
+      "id": "grammarly",
+      "slug": "grammarly",
+      "name": "Grammarly",
+      "domain": "grammarly.com",
+      "category": "Нейросети",
+      "image": null,
+      "description": "Проверка английского текста — грамматика, стиль, тон. Расширение для браузера, бесплатный тариф.",
+      "website_url": "https://grammarly.com",
+      "referral_url": null,
+      "outbound_url": "https://grammarly.com",
+      "referral_status": "no_program",
+      "sources": [
+        "crypton"
+      ],
+      "verified_overlap": false
+    },
+    {
+      "id": "hugging-face",
+      "slug": "hugging-face",
+      "name": "Hugging Face",
+      "domain": "huggingface.co",
+      "category": "Нейросети",
+      "image": null,
+      "description": "GitHub для AI-моделей — сотни тысяч открытых моделей, датасетов и демо. Платформа ML-сообщества.",
+      "website_url": "https://huggingface.co",
+      "referral_url": null,
+      "outbound_url": "https://huggingface.co",
       "referral_status": "no_program",
       "sources": [
         "crypton"

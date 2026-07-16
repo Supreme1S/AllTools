@@ -1301,6 +1301,146 @@ export const TOP_PLATFORM_ENTRIES: TopPlatformEntry[] = [
       "Торговля RWA-активами на ончейне. Интересный заход на реальные активы, но рынок RWA пока мал, ликвидность ограничена.",
     category: C.WEB3,
   },
+  // ═══════════════════════════════════════════════════════════════
+  // ТОПОВЫЕ AI (Нейросети)
+  // ═══════════════════════════════════════════════════════════════
+  {
+    domain: "chat.openai.com",
+    slug: "chatgpt",
+    tier: "S",
+    tier_rationale:
+      "Самый популярный AI-чат в мире — GPT-4o, генерация текста, кода и изображений. Бесплатный тариф покрывает большинство задач.",
+    category: C.AI,
+  },
+  {
+    domain: "claude.ai",
+    slug: "claude",
+    tier: "S",
+    tier_rationale:
+      "Лучший для длинных текстов, кода и аналитики. Sonnet — топ для разработчиков. Бесплатный тариф с высокими лимитами.",
+    category: C.AI,
+  },
+  {
+    domain: "deepseek.com",
+    slug: "deepseek",
+    tier: "A",
+    tier_rationale:
+      "Бесплатный китайский AI — конкурент GPT-4o. Открытый исходный код, мощный в коде, контекст 1M токенов.",
+    category: C.AI,
+  },
+  {
+    domain: "gemini.google.com",
+    slug: "gemini",
+    tier: "A",
+    tier_rationale:
+      "AI от Google — бесплатный Gemini 2.5 Pro, мультимодальный, интеграция с сервисами Google.",
+    category: C.AI,
+  },
+  {
+    domain: "perplexity.ai",
+    slug: "perplexity",
+    tier: "A",
+    tier_rationale:
+      "AI-поисковик с источниками — задаёшь вопрос, получаешь ответ с реальными ссылками. Бесплатный тариф.",
+    category: C.AI,
+  },
+  {
+    domain: "stability.ai",
+    slug: "stable-diffusion",
+    tier: "S",
+    tier_rationale:
+      "Open-source модель генерации изображений. SDXL и SD3 — стандарт индустрии. Бесплатно, локально, без цензуры.",
+    category: C.AI,
+  },
+  {
+    domain: "midjourney.com",
+    slug: "midjourney",
+    tier: "S",
+    tier_rationale:
+      "Лучшее качество генерации изображений — фотореализм и арт. От $10/мес. Выбор профессионалов.",
+    category: C.AI,
+  },
+  {
+    domain: "runwayml.com",
+    slug: "runway",
+    tier: "A",
+    tier_rationale:
+      "AI для видео №1 — генерация по тексту, стилизация, удаление фона. Gen-3 Alpha — топ-генератор видео.",
+    category: C.AI,
+  },
+  {
+    domain: "huggingface.co",
+    slug: "hugging-face",
+    tier: "S",
+    tier_rationale:
+      "GitHub для AI-моделей — сотни тысяч открытых моделей, датасетов и демо. Бесплатный хостинг ML-проектов.",
+    category: C.AI,
+  },
+  {
+    domain: "character.ai",
+    slug: "character-ai",
+    tier: "A",
+    tier_rationale:
+      "Миллионы AI-персонажей для общения — от исторических до вымышленных. Бесплатно без ограничений.",
+    category: C.AI,
+  },
+  {
+    domain: "firefly.adobe.com",
+    slug: "adobe-firefly",
+    tier: "A",
+    tier_rationale:
+      "AI в Photoshop — генеративная заливка, замена фона, расширение изображений. Интеграция с Creative Cloud.",
+    category: C.AI,
+  },
+  {
+    domain: "suno.ai",
+    slug: "suno-ai",
+    tier: "A",
+    tier_rationale:
+      "Генерация музыки по тексту — от попсы до симфонии. Бесплатный тариф, v4 с улучшенным качеством.",
+    category: C.AI,
+  },
+  {
+    domain: "grammarly.com",
+    slug: "grammarly",
+    tier: "A",
+    tier_rationale:
+      "Стандарт проверки английского — грамматика, стиль, тон. Расширение для браузера, бесплатный тариф.",
+    category: C.AI,
+  },
+  {
+    domain: "cursor.com",
+    slug: "cursor",
+    tier: "S",
+    tier_rationale:
+      "IDE с AI — VS Code форк с Claude/GPT интеграцией. Agent режим для мультифайловых правок. Стандарт AI-разработки.",
+    category: C.AI,
+  },
+  {
+    domain: "github.com",
+    slug: "github-copilot",
+    tier: "S",
+    tier_rationale:
+      "AI-автодополнение от GitHub — встроен в IDE, контекст проекта. Бесплатно для open-source. Стандарт индустрии.",
+    category: C.AI,
+  },
+  {
+    domain: "mistral.ai",
+    slug: "mistral",
+    tier: "A",
+    tier_rationale:
+      "Европейский AI-чат (Le Chat) — открытые модели, приватность данных. Бесплатный тариф.",
+    category: C.AI,
+  },
+  {
+    domain: "poe.com",
+    slug: "poe",
+    tier: "A",
+    tier_rationale:
+      "Агрегатор AI-чатов — ChatGPT, Claude, Gemini в одном интерфейсе. Бесплатный тариф с доступом к десяткам моделей.",
+    category: C.AI,
+  },
+
 ];
 
 // ═══════════════════════════════════════════════════════════════

@@ -7,7 +7,7 @@ import { CatalogServiceCard } from "@/components/catalog/CatalogServiceCard";
 import { SearchField } from "@/components/search/SearchField";
 import type { Service } from "@/types";
 
-const PAGE_SIZE = 48;
+const PAGE_SIZE = 10000;
 
 export function CatalogPageClient({
   services,
